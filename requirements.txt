@@ -1,0 +1,8 @@
+sqlalchemy~=2.0.39
+pandas~=2.2.1
+torch~=2.6.0
+optuna~=4.2.1
+datasets~=3.3.2
+transformers~=4.49.0
+scikit-learn~=1.5.0
+fastapi[standard]>=0.113.0,<0.114.0
