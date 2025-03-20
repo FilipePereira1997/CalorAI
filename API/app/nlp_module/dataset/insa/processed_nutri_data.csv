@@ -1,0 +1,1331 @@
+meal_description,carb,protein,fat,energy
+region pt 100g Abacate Hass,2.3,1.1,17.4,176
+region pt 100g Abobora cristalizada,72.4,0.0,0.2,293
+region pt 100g Abobora crua,1.7,0.3,0.2,11
+region pt 100g Abrotea cozida,0.0,19.4,0.1,79
+region pt 100g Abrotea crua,0.0,17.2,0.1,70
+region pt 100g Acafrao,61.5,11.4,5.9,353
+region pt 100g Acafrao-da-india seco,44.1,6.7,7.0,312
+region pt 100g Acelga crua,2.7,1.8,0.2,23
+region pt 100g Acorda,13.1,3.3,4.0,104
+region pt 100g Acorda a alentejana,12.3,3.5,3.3,95
+region pt 100g Acorda de bacalhau,5.7,3.4,3.5,69
+region pt 100g Acorda de marisco,5.4,4.5,1.2,51
+region pt 100g Acorda de ovo,14.0,3.6,4.0,108
+region pt 100g Acucar amarelo,97.5,0.0,0.0,390
+region pt 100g Acucar branco,99.3,0.0,0.0,397
+region pt 100g Agriao cru,0.4,3.4,0.9,29
+region pt 100g Agua mineral natural gaseificada Agua Castello,0.0,0.0,0.0,0
+region pt 100g Agua mineral natural gaseificada Vimeiro,0.0,0.0,0.0,0
+region pt 100g Agua mineral natural gasocarbonica Pedras Salgadas,0.0,0.0,0.0,0
+region pt 100g Agua mineral natural Luso,0.0,0.0,0.0,0
+region pt 100g Agua rede publica de abastecimento ,0.0,0.0,0.0,0
+region pt 100g Aguardente,0.0,0.0,0.0,308
+region pt 100g Aipo cru,1.5,1.1,0.1,15
+region pt 100g Alcachofra cozida,5.3,3.0,0.2,46
+region pt 100g Alcachofra crua,6.8,3.0,0.2,51
+region pt 100g Alcaparras ,4.9,2.4,0.9,44
+region pt 100g Alecrim fresco,13.5,1.4,4.4,115
+region pt 100g Alecrim seco,46.4,4.9,15.2,377
+region pt 100g Alface,0.8,1.8,0.2,15
+region pt 100g Alface roxa,1.4,1.3,0.2,15
+region pt 100g Alheira cozida sem adicao de sal,26.8,8.3,14.0,269
+region pt 100g Alheira crua,27.4,8.3,18.1,309
+region pt 100g Alheira grelhada sem adicao de sal,28.5,8.1,17.0,302
+region pt 100g Alho cru,11.3,3.8,0.6,72
+region pt 100g Alho em po,52.3,17.6,1.2,310
+region pt 100g Alho-frances cru,2.9,1.8,0.3,26
+region pt 100g Almondegas de porco,29.2,8.0,8.9,234
+region pt 100g Almondegas de vaca,6.4,17.0,17.4,252
+region pt 100g Almondegas de vaca e porco ,3.8,19.2,16.7,243
+region pt 100g Ameijoa aberta ao natural sem sal,5.2,23.4,1.8,131
+region pt 100g Ameijoa crua,2.6,11.7,0.9,65
+region pt 100g Ameijoas a Bulhao Pato,3.2,12.8,2.5,89
+region pt 100g Ameixa branca,7.8,0.6,0.2,40
+region pt 100g Ameixa encarnada,7.4,0.8,0.2,41
+region pt 100g Ameixa rainha Claudia,11.8,0.8,0.1,57
+region pt 100g Ameixa seca,37.8,2.9,0.3,198
+region pt 100g Ameixa conserva em calda de acucar,27.5,0.2,0.2,115
+region pt 100g Amendoa miolo com pele,7.2,21.6,56.0,643
+region pt 100g Amendoa miolo torrada sem pele,7.1,21.6,56.8,650
+region pt 100g Amendoim miolo,10.1,25.4,47.7,589
+region pt 100g Amendoim miolo torrado com sal,6.6,26.2,51.8,614
+region pt 100g Amendoim miolo torrado sem sal,9.5,25.6,49.6,605
+region pt 100g Amora,4.5,1.4,0.9,43
+region pt 100g Ananas ,9.5,0.5,0.2,47
+region pt 100g Ananas desidratado,72.8,3.8,1.5,363
+region pt 100g Ananas conserva em calda de acucar,23.2,0.2,0.1,98
+region pt 100g Anchova conserva em oleo escorrido,0.0,25.2,10.0,191
+region pt 100g Anona,16.8,1.7,0.4,82
+region pt 100g Anona desidratada,71.6,7.2,1.7,351
+region pt 100g Arroz a valenciana,7.7,7.6,5.3,111
+region pt 100g Arroz agulha cru,78.1,6.7,0.4,347
+region pt 100g Arroz carolino branqueado cru,79.6,7.4,0.5,357
+region pt 100g Arroz cozido simples,28.0,2.5,0.2,125
+region pt 100g Arroz de bacalhau,15.3,3.1,1.6,90
+region pt 100g Arroz de bacalhau com margarina,12.2,5.4,2.1,91
+region pt 100g Arroz de cabidela,12.2,9.4,1.9,105
+region pt 100g Arroz de cenoura com azeite,19.9,1.8,4.2,127
+region pt 100g Arroz de ervilhas,18.0,2.3,0.2,85
+region pt 100g Arroz de feijao,20.8,3.1,4.4,139
+region pt 100g Arroz de frango,25.2,8.4,7.6,205
+region pt 100g Arroz de frango com feijao e chourico,8.8,10.9,3.4,116
+region pt 100g Arroz de frango malandrinho a moda de Moncao,9.3,10.5,5.8,132
+region pt 100g Arroz de gambas,8.8,6.9,3.4,94
+region pt 100g Arroz de lulas,6.7,4.8,2.1,66
+region pt 100g Arroz de manteiga,44.4,3.8,7.7,265
+region pt 100g Arroz de marisco,8.2,6.5,1.4,72
+region pt 100g Arroz de pato,8.4,10.8,4.2,115
+region pt 100g Arroz de peixe,15.5,7.0,3.7,125
+region pt 100g Arroz de peixe com ervilhas,19.8,4.9,0.8,110
+region pt 100g Arroz de polvo com azeite,10.9,10.2,4.6,127
+region pt 100g Arroz de polvo com tomate ,10.0,5.7,7.1,128
+region pt 100g Arroz de polvo com tomate e vinho,6.9,6.5,3.6,90
+region pt 100g Arroz de tamboril,7.1,5.7,3.8,87
+region pt 100g Arroz de tamboril malandrinho,10.0,5.9,0.2,67
+region pt 100g Arroz de tomate com azeite,20.1,2.0,4.2,129
+region pt 100g Arroz de tomate com margarina,20.2,2.0,3.4,122
+region pt 100g Arroz de tomate malandrinho,16.8,1.9,6.0,132
+region pt 100g Arroz doce,45.2,4.4,3.8,233
+region pt 100g Arroz integral cru,71.6,8.6,2.5,351
+region pt 100g Atum conserva em oleo,0.0,24.3,13.0,214
+region pt 100g Atum de cebolada,2.6,9.0,9.0,135
+region pt 100g Atum fresco cru,0.0,24.1,4.9,141
+region pt 100g Atum fresco grelhado,0.0,28.4,5.8,166
+region pt 100g Avela miolo,6.0,14.0,66.3,689
+region pt 100g Azeite ,0.0,0.0,99.9,899
+region pt 100g Azeitona,0.0,1.4,18.5,180
+region pt 100g Bacalhau a Bras,8.3,9.5,10.1,164
+region pt 100g Bacalhau a Bras com azeite,6.5,8.7,14.7,195
+region pt 100g Bacalhau a Bras com azeite e azeitonas,6.5,8.0,3.6,93
+region pt 100g Bacalhau a Gomes de Sa,13.1,6.7,6.3,139
+region pt 100g Bacalhau a Gomes de Sa com azeite,7.4,8.6,10.4,160
+region pt 100g Bacalhau assado no forno com azeite,0.8,20.8,4.9,136
+region pt 100g Bacalhau com natas,9.2,9.0,2.6,98
+region pt 100g Bacalhau com natas com queijo ralado,7.6,5.3,12.6,167
+region pt 100g Bacalhau cozido,0.0,26.2,0.1,106
+region pt 100g Bacalhau fresco cozido,0.0,19.1,0.8,84
+region pt 100g Bacalhau fresco cru,0.0,17.8,0.5,76
+region pt 100g Bacalhau grelhado,0.0,30.2,0.2,123
+region pt 100g Bacalhau seco e salgado demolhado cru,0.0,19.0,0.4,80
+region pt 100g Baco de porco,0.4,17.8,3.8,107
+region pt 100g Bacon,0.0,13.8,34.6,367
+region pt 100g Bacon grelhado sem adicao de sal,0.0,22.2,31.5,372
+region pt 100g Bagas goji secas,51.8,11.2,2.8,303
+region pt 100g Banana,21.8,1.6,0.4,104
+region pt 100g Banha de porco,0.0,0.0,99.5,896
+region pt 100g Base em po para bebida de ananas,89.5,0.0,0.0,369
+region pt 100g Base em po para bebida de laranja,88.9,0.0,0.0,375
+region pt 100g Batata assada com pele sem sal ,19.2,2.5,0.0,90
+region pt 100g Batata assada no forno,24.8,3.2,4.8,159
+region pt 100g Batata cozida,18.5,2.4,0.0,87
+region pt 100g Batata crua,19.2,2.5,0.0,90
+region pt 100g Batata doce assada,28.3,1.0,0.0,123
+region pt 100g Batata doce crua,28.3,1.0,0.0,123
+region pt 100g Batata estufada com cebola azeite e oleo alimentar,14.5,2.0,3.1,97
+region pt 100g Batata frita caseira ,27.6,3.7,10.8,227
+region pt 100g Batata frita de pacote ,39.0,5.7,38.1,543
+region pt 100g Batata fecula,85.0,0.5,0.3,345
+region pt 100g Bebida a base de soja com acucar com calcio sal e aromas,4.2,3.6,2.1,53
+region pt 100g Bebida a base de soja com acucar sal e aromas,6.4,3.8,2.2,61
+region pt 100g Bebida a base de soja natural sem acucar e sem sal,0.4,3.7,2.2,37
+region pt 100g Bebida refrigerante cola,9.0,0.0,0.0,36
+region pt 100g Bebida refrigerante cola sem acucar,0.0,0.0,0.0,0
+region pt 100g Bebida refrigerante gasosa,7.0,0.0,0.0,28
+region pt 100g Bebida refrigerante laranja,10.5,0.0,0.0,42
+region pt 100g Beldroega crua,1.0,1.0,0.0,13
+region pt 100g Berbigao aberto ao natural sem sal,5.4,21.0,1.4,118
+region pt 100g Berbigao cru,2.7,10.5,0.7,59
+region pt 100g Beringela crua,2.4,1.1,0.2,21
+region pt 100g Beringela grelhada com azeite,4.3,2.0,7.1,99
+region pt 100g Besugo cru,0.0,19.5,2.7,102
+region pt 100g Beterraba  cozida sem sal,3.4,1.0,0.0,23
+region pt 100g Beterraba  crua,3.5,1.0,0.0,23
+region pt 100g Bife de atum fresco estufado com azeite e vinho,0.2,23.1,10.1,196
+region pt 100g Bife de cavalo alcatra crua,0.0,21.1,3.5,116
+region pt 100g Bife de cavalo alcatra frita com manteiga,0.0,23.3,9.3,177
+region pt 100g Bife de cavalo alcatra frita com margarina,0.0,23.3,9.2,176
+region pt 100g Bife de cavalo alcatra frita sem molho,0.0,24.7,5.4,147
+region pt 100g Bife de espadarte estufado com azeite e vinho,0.4,17.1,8.1,152
+region pt 100g Bife de porco grelhado,0.7,16.7,14.2,203
+region pt 100g Bife de vaca  cru,0.0,20.9,4.3,122
+region pt 100g Bife de vaca  frito com manteiga,0.1,24.2,11.5,201
+region pt 100g Bife de vaca  frito sem molho,0.0,28.8,7.5,183
+region pt 100g Bife de vaca  grelhado,0.0,26.4,6.4,163
+region pt 100g Bife de vaca a cafe,1.6,16.9,16.5,226
+region pt 100g Bife de vaca a Marrare com manteiga,0.9,16.0,33.3,368
+region pt 100g Bife de vaca a Marrare com margarina,0.8,16.0,32.8,363
+region pt 100g Bife de vaca com ovo a cavalo com banha,0.5,23.5,14.5,227
+region pt 100g Bife de vaca com ovo a cavalo com manteiga,0.6,23.9,11.1,199
+region pt 100g Bife de vitela cru,0.2,19.9,7.6,149
+region pt 100g Bife de vitela frito,0.4,19.0,16.4,229
+region pt 100g Biscoitos caseiros,73.4,6.7,11.0,423
+region pt 100g Biscoitos limao,77.9,6.7,4.4,382
+region pt 100g Biscoitos argolas,69.7,5.4,16.5,451
+region pt 100g Biscoitos linguas de gato,84.1,5.2,1.8,377
+region pt 100g Biscoitos linguas de veado,65.1,5.8,20.7,474
+region pt 100g Biscoitos palitos la Reine,66.6,11.5,7.2,381
+region pt 100g Bola de Berlim sem creme,43.7,6.8,21.5,402
+region pt 100g Bolacha Belga,70.1,7.1,19.6,487
+region pt 100g Bolacha Cream cracker,61.6,10.8,16.2,442
+region pt 100g Bolacha waffer baunilha,55.3,3.2,36.4,564
+region pt 100g Bolacha agua e sal,61.0,9.8,17.8,450
+region pt 100g Bolacha aveia,57.5,10.0,18.3,443
+region pt 100g Bolacha chocolate,65.4,5.7,19.8,469
+region pt 100g Bolacha integral ,65.6,8.8,15.6,450
+region pt 100g Bolacha manteiga,65.2,6.2,21.3,483
+region pt 100g Bolacha Maria,72.0,8.4,12.2,436
+region pt 100g Bolacha torrada,68.5,7.3,14.4,437
+region pt 100g Bolo de arroz,62.7,4.4,14.8,404
+region pt 100g Bolo de bolacha Maria,46.3,3.9,20.7,389
+region pt 100g Bolo de chocolate,47.0,7.4,26.4,463
+region pt 100g Bolo de coco,37.8,4.2,31.0,454
+region pt 100g Bolo ferradura,71.6,5.9,4.1,351
+region pt 100g Bolo ingles,57.0,5.1,13.9,380
+region pt 100g Bolo-Rei,57.4,7.9,14.9,407
+region pt 100g Brandy,0.0,0.0,0.0,246
+region pt 100g Brocolos cozidos,1.3,2.8,0.7,27
+region pt 100g Brocolos crus,1.5,3.4,0.8,32
+region pt 100g Bulgur,65.6,12.1,1.9,344
+region pt 100g Buzio cru,2.3,17.8,0.2,82
+region pt 100g Cabeca de porco,0.3,14.3,32.9,355
+region pt 100g Cacao cru,0.0,20.0,0.2,82
+region pt 100g Cacao frito,2.7,24.0,7.0,170
+region pt 100g Cacau em po,11.1,19.6,23.4,358
+region pt 100g Cachaco de vaca cru,0.3,21.3,5.6,137
+region pt 100g Cachucho cru,0.0,18.3,0.7,80
+region pt 100g Cafe soluvel em po com cafeina,41.1,14.9,0.5,272
+region pt 100g Cafe soluvel em po descafeinado,42.6,14.7,0.2,274
+region pt 100g Cafe infusao - bica ,0.3,0.4,0.1,4
+region pt 100g Cafe infusao - cafe de cafeteira ,0.3,0.2,0.0,2
+region pt 100g Cafe infusao - carioca ,0.3,0.2,0.0,2
+region pt 100g Cafe infusao - valor medio ,0.3,0.3,0.1,3
+region pt 100g Caldeirada de bacalhau,7.1,4.2,2.1,67
+region pt 100g Caldeirada de bacalhau com enchidos e massa,9.7,7.0,8.5,146
+region pt 100g Caldeirada de cabrito com azeite e banha,8.3,11.3,4.3,119
+region pt 100g Caldeirada de cabrito com azeite e margarina,8.3,11.3,4.0,116
+region pt 100g Caldeirada de enguias,8.2,6.6,11.9,171
+region pt 100g Caldeirada de enguias a moda de Aveiro,5.3,7.4,21.4,245
+region pt 100g Caldeirada de pargo e peixe-espada-preto,4.4,7.2,9.8,138
+region pt 100g Caldeirada de peixe,4.4,7.5,3.5,84
+region pt 100g Caldeirada de safio com ameijoas,5.8,6.9,2.7,80
+region pt 100g Caldeirada de safio com batatas,7.2,4.5,3.1,81
+region pt 100g Caldeirada de safio raia e tamboril,9.8,7.0,2.9,98
+region pt 100g Caldo preparado com cubo de carne de galinha ,0.2,0.3,0.3,5
+region pt 100g Caldo preparado com cubo de carne de vaca ,0.2,0.4,0.2,4
+region pt 100g Camarao cozido,0.4,22.6,0.8,99
+region pt 100g Camarao cozido sem sal,0.3,20.2,1.1,92
+region pt 100g Camarao cru,0.3,17.6,0.6,77
+region pt 100g Canela moida,55.5,3.9,3.2,315
+region pt 100g Canja de frango com aipo,2.3,7.8,1.7,56
+region pt 100g Canja de frango com massa,2.1,10.8,1.0,61
+region pt 100g Canonigos crus,2.0,2.0,0.4,24
+region pt 100g Cantarilho  assado com cebola tomate azeite e bacon,1.2,13.6,8.6,142
+region pt 100g Cantarilho  com batata no forno,5.7,8.7,4.9,108
+region pt 100g Cantarilho  cozido,0.0,19.3,2.4,99
+region pt 100g Cantarilho  cru,0.0,18.6,2.9,101
+region pt 100g Cantarilho  no forno,1.1,17.3,2.7,114
+region pt 100g Caracol cru,2.0,16.1,1.4,85
+region pt 100g Carambola,7.1,0.5,0.3,40
+region pt 100g Carapau cru,0.0,19.7,2.9,105
+region pt 100g Carapau frito,1.0,24.0,9.6,186
+region pt 100g Carapau grelhado,0.0,26.3,3.7,139
+region pt 100g Cardamomo verde,49.5,10.8,6.2,335
+region pt 100g Caril em po,25.2,12.7,13.8,342
+region pt 100g Carne a bolonhesa,15.6,11.5,14.0,238
+region pt 100g Carne a jardineira,5.6,9.7,8.1,140
+region pt 100g Carne de porco a alentejana,1.8,14.6,16.9,229
+region pt 100g Carne de porco a alentejana sem massa de pimentao,2.2,16.0,11.8,183
+region pt 100g Caseina,0.0,86.2,1.5,358
+region pt 100g Castanha assada com sal,45.5,3.5,1.3,222
+region pt 100g Castanha cozida sem sal,35.9,2.8,1.0,175
+region pt 100g Castanha de caju torrada  e salgada,19.4,19.6,50.0,613
+region pt 100g Castanha de caju torrada sem sal,19.4,19.6,50.0,613
+region pt 100g Castanha do Brasil,2.6,9.6,66.7,690
+region pt 100g Castanha pilada,70.0,5.1,2.0,341
+region pt 100g Castanha miolo,39.8,3.1,1.1,194
+region pt 100g Cavala cozida,0.0,20.5,12.2,192
+region pt 100g Cavala crua,0.0,20.3,13.4,202
+region pt 100g Cavala em filetes conserva em azeite,0.0,24.0,9.6,182
+region pt 100g Cavala grelhada,0.6,18.5,12.2,192
+region pt 100g Cavala no forno,2.3,12.9,14.3,192
+region pt 100g Cebola cozida,2.4,1.0,0.2,18
+region pt 100g Cebola crua,3.1,0.9,0.2,20
+region pt 100g Cebola doce crua,4.9,0.8,0.0,25
+region pt 100g Cebola frita com oleo alimentar,6.2,1.9,11.2,138
+region pt 100g Cebola roxa crua,8.6,0.7,0.0,43
+region pt 100g Cebolinho fresco,1.7,2.8,0.6,28
+region pt 100g Cenoura baby crua,4.9,0.6,0.1,29
+region pt 100g Cenoura cozida,3.6,0.7,0.0,23
+region pt 100g Cenoura crua,4.4,0.6,0.0,25
+region pt 100g Cereal de pequeno almoco a base de farelo de trigo ,39.8,15.1,3.4,310
+region pt 100g Cereal de pequeno almoco de trigo integral tipo Weetabix,71.5,10.7,2.0,364
+region pt 100g Cerefolio fresco,12.0,4.0,1.0,80
+region pt 100g Cereja ,13.3,0.8,0.7,67
+region pt 100g Cereja desidratada,72.6,4.4,3.8,366
+region pt 100g Cereja conserva em calda de acucar,28.7,0.4,0.2,120
+region pt 100g Cereja cristalizada,79.9,0.4,0.2,326
+region pt 100g Cerveja branca,0.5,0.4,0.0,30
+region pt 100g Cerveja preta,0.6,0.5,0.0,23
+region pt 100g Cerveja sem alcool,1.5,0.3,0.0,7
+region pt 100g Cha infusao preto,0.0,0.1,0.0,0
+region pt 100g Cha infusao verde,0.0,0.1,0.0,0
+region pt 100g Chambao de vitela cru,0.2,20.3,12.6,195
+region pt 100g Chamuca,39.3,9.1,16.3,344
+region pt 100g Cherne cozido,0.0,18.9,5.4,124
+region pt 100g Cherne cru,0.0,17.9,6.7,132
+region pt 100g Cherne grelhado,0.0,24.1,6.3,153
+region pt 100g Chicharro cozido,0.0,21.1,3.0,111
+region pt 100g Chicharro cru,0.0,19.7,2.9,105
+region pt 100g Chicharro grelhado,0.0,26.3,3.7,139
+region pt 100g Chicoria crua,0.9,1.0,0.1,14
+region pt 100g Chispe de porco,0.2,16.1,33.8,369
+region pt 100g Choco cru,0.0,18.9,0.4,79
+region pt 100g Choco grelhado,0.0,25.8,0.6,109
+region pt 100g Chocolate de leite,53.1,8.0,33.9,552
+region pt 100g Chocolate em barra culinaria,44.0,5.4,30.5,502
+region pt 100g Chocolate em po,63.8,4.2,20.3,469
+region pt 100g Chocolate negro ,52.6,5.2,31.7,530
+region pt 100g Chourico de carne de porco cru,0.0,20.0,44.1,476
+region pt 100g Chourico de carne de porco gordo cru,0.0,15.4,53.6,544
+region pt 100g Chourico de carne de porco magro cozido sem adicao de sal,0.0,24.8,26.1,334
+region pt 100g Chourico de carne de porco magro cru,0.0,24.5,34.5,409
+region pt 100g Chourico de carne de porco magro grelhado sem adicao de sal,0.0,31.6,24.1,343
+region pt 100g Chourico de sangue cozido sem adicao de sal,0.0,11.2,24.2,263
+region pt 100g Chourico de sangue cru,0.0,11.0,31.6,328
+region pt 100g Chuchu,2.9,0.8,0.1,19
+region pt 100g Chucrute,1.1,1.3,0.3,15
+region pt 100g Clara de ovo de galinha crua,0.0,11.0,0.3,47
+region pt 100g Clara de ovo de galinha pasteurizada,1.0,10.5,0.0,46
+region pt 100g Clementina,11.1,0.8,0.2,53
+region pt 100g Coco seco ralado,6.4,5.6,62.0,648
+region pt 100g Codorniz carne sem pele crua ,0.0,22.1,3.4,119
+region pt 100g Codorniz com pele crua,0.0,21.5,9.3,170
+region pt 100g Codorniz com pele estufada com azeite,0.7,25.6,13.4,234
+region pt 100g Codorniz com pele grelhada,0.0,24.5,11.6,202
+region pt 100g Coelho a cacador,1.6,12.3,12.7,182
+region pt 100g Coelho cru,0.0,20.3,4.0,117
+region pt 100g Coelho em vinha de alhos,1.4,11.3,11.6,174
+region pt 100g Coelho estufado,0.9,26.6,10.2,211
+region pt 100g Coelho estufado com azeite,0.9,26.6,11.0,218
+region pt 100g Coelho estufado com margarina,0.9,26.6,9.5,205
+region pt 100g Coentros crus,1.8,2.4,0.6,28
+region pt 100g Cogumelos crus,0.5,1.8,0.5,18
+region pt 100g Cogumelos enlatados escorridos,0.0,2.1,0.4,17
+region pt 100g Cogumelos fritos com oleo alimentar,0.3,2.4,16.2,163
+region pt 100g Colorau,35.0,14.8,13.0,358
+region pt 100g Cominhos,34.0,18.0,22.0,427
+region pt 100g Compota de ameixa,49.2,0.3,0.0,200
+region pt 100g Compota de ananas,50.8,0.5,0.1,211
+region pt 100g Compota de cereja,61.9,0.4,0.0,251
+region pt 100g Compota de damasco,58.9,0.4,0.0,239
+region pt 100g Compota de laranja,59.5,0.4,0.0,242
+region pt 100g Condimento de mostarda,18.5,5.7,6.4,158
+region pt 100g Coracao de galinha cru,0.7,15.6,9.3,149
+region pt 100g Coracao de porco cru,0.0,18.4,4.4,113
+region pt 100g Coracao de porco estufado com banha e margarina,1.0,20.9,10.5,193
+region pt 100g Coracao de vaca cozido,0.0,23.4,3.3,123
+region pt 100g Coracao de vaca cru,0.0,17.0,2.7,92
+region pt 100g Coracao de vaca estufado com banha e margarina,0.9,17.7,7.8,154
+region pt 100g Coracao de vitela cru,0.0,16.8,3.6,100
+region pt 100g Corvina cozida,0.0,20.7,1.4,95
+region pt 100g Corvina crua,0.0,20.4,1.4,94
+region pt 100g Costeleta de cabrito crua,0.0,23.9,2.7,120
+region pt 100g Costeleta de cabrito grelhada,0.0,30.9,3.0,151
+region pt 100g Costeleta de carneiro crua,0.0,20.8,7.5,151
+region pt 100g Costeleta de porco gorda crua,0.0,17.3,31.8,355
+region pt 100g Costeleta de porco gorda grelhada,0.0,24.3,23.1,305
+region pt 100g Costeleta de porco grelhada,0.8,18.1,14.4,212
+region pt 100g Costeleta de porco meio gorda crua,0.0,19.8,15.8,221
+region pt 100g Costeleta de porco meio gorda estufada,0.7,21.1,20.5,277
+region pt 100g Costeleta de porco meio gorda estufada com azeite e banha,0.7,21.1,20.7,280
+region pt 100g Costeleta de porco meio gorda estufada com azeite e margarina,0.7,21.1,20.4,277
+region pt 100g Costeleta de porco meio gorda estufada com margarina,0.7,21.1,19.9,272
+region pt 100g Costeleta de porco meio gorda estufada com oleo alimentar e banha,0.7,21.1,20.7,280
+region pt 100g Costeleta de porco meio gorda estufada sem molho,0.0,26.9,19.6,284
+region pt 100g Costeleta de porco meio gorda frita panada,8.6,22.1,24.1,341
+region pt 100g Costeleta de porco meio gorda grelhada,0.0,27.0,17.0,261
+region pt 100g Costeleta de vitela crua,0.0,20.0,4.5,121
+region pt 100g Costeleta de vitela frita com margarina,0.0,23.4,9.9,183
+region pt 100g Costeleta de vitela frita panada,3.4,19.7,5.3,148
+region pt 100g Costeleta de vitela frita sem molho,0.0,24.3,6.9,159
+region pt 100g Costeleta de vitela grelhada,0.0,25.2,3.3,131
+region pt 100g Costeleta ou perna de borrego assada com azeite e margarina,0.0,23.3,15.6,234
+region pt 100g Costeleta ou perna de borrego assada com margarina,0.0,23.3,14.5,224
+region pt 100g Costeleta ou perna de borrego frita com margarina sem molho,0.0,24.5,7.6,166
+region pt 100g Costeleta ou perna de borrego assada sem molho,0.0,24.1,8.0,168
+region pt 100g Costeleta ou perna de borrego cozida ,0.0,26.5,5.7,157
+region pt 100g Costeleta ou perna de borrego crua ,0.0,19.7,5.0,124
+region pt 100g Costeleta ou perna de borrego estufada com azeite e margarina,1.6,16.2,12.0,183
+region pt 100g Costeleta ou perna de borrego estufada com margarina,1.6,16.2,11.1,175
+region pt 100g Costeleta ou perna de borrego estufada sem molho,0.0,25.5,9.2,185
+region pt 100g Costeleta ou perna de borrego grelhada,0.0,25.7,5.5,152
+region pt 100g Costeleta ou perna de carneiro magra frita com margarina sem molho,0.0,24.7,8.4,174
+region pt 100g Couve-branca cozida,2.2,1.7,0.4,23
+region pt 100g Couve-branca crua,3.5,1.4,0.4,28
+region pt 100g Couve-de-Bruxelas cozida,3.5,2.9,1.3,43
+region pt 100g Couve-de-Bruxelas crua,4.0,3.5,1.4,50
+region pt 100g Couve-flor cozida,2.3,1.6,0.2,21
+region pt 100g Couve-flor crua,3.3,3.7,0.2,34
+region pt 100g Couve-galega cozida,2.9,2.1,0.4,29
+region pt 100g Couve-galega crua,3.1,2.4,0.4,32
+region pt 100g Couve-lombarda cozida,1.4,2.2,0.2,22
+region pt 100g Couve-lombarda crua,2.1,2.4,0.2,26
+region pt 100g Couve-portuguesa cozida,2.5,2.1,0.4,27
+region pt 100g Couve-portuguesa crua,3.5,2.2,0.4,31
+region pt 100g Couve-roxa crua,3.9,2.0,0.0,30
+region pt 100g Cozido a portuguesa,6.2,6.8,7.0,120
+region pt 100g Cozido a portuguesa com grao,20.5,11.7,13.5,259
+region pt 100g Cravinho,52.0,6.0,20.0,431
+region pt 100g Creme culinario,0.0,0.0,59.0,531
+region pt 100g Creme culinario liquido 65% gordura com sal,0.0,0.0,65.3,588
+region pt 100g Creme de camarao,1.7,3.6,1.4,39
+region pt 100g Creme de camarao com natas,1.9,3.5,2.9,51
+region pt 100g Creme de ervilhas,3.0,2.6,1.9,43
+region pt 100g Creme para barrar de cacau e avelas ,54.7,5.9,33.3,545
+region pt 100g Creme vegetal culinario 75% gordura sem sal,0.4,0.1,75.0,677
+region pt 100g Creme vegetal para barrar  72% gordura 33% acidos gordos polinsaturados,0.4,0.1,72.1,651
+region pt 100g Creme vegetal para barrar 35% gordura com fitosterois,3.2,0.1,35.0,328
+region pt 100g Creme vegetal para barrar 37% gordura,0.2,1.4,37.4,343
+region pt 100g Creme vegetal para barrar 58% gordura com calcio,0.5,0.3,58.0,525
+region pt 100g Creme vegetal para barrar 70% gordura 53% acidos gordos monoinsaturados,0.5,0.1,70.0,632
+region pt 100g Creme vegetal para barrar 70% gordura com sal,0.3,0.1,70.0,632
+region pt 100g Croissant,42.2,7.6,23.5,416
+region pt 100g Croquete,23.1,13.2,18.8,316
+region pt 100g Croquete de carne de vaca meio-gorda,19.1,15.1,11.9,257
+region pt 100g Cubo de carne de galinha para caldo,9.0,15.4,15.4,236
+region pt 100g Cubo de carne de vaca para caldo,8.0,19.8,8.0,183
+region pt 100g Curgete crua,2.0,1.6,0.3,19
+region pt 100g Curgete frita com oleo alimentar,2.5,2.0,4.8,64
+region pt 100g Damasco,8.5,0.8,0.1,48
+region pt 100g Damasco seco,41.2,5.4,0.9,242
+region pt 100g Damasco conserva em calda de acucar,39.3,0.5,0.1,163
+region pt 100g Diospiro,14.8,0.6,0.0,65
+region pt 100g Diospiro desidratado,80.8,3.3,0.0,353
+region pt 100g Doce de cereja,64.9,0.2,0.0,262
+region pt 100g Doce de damasco,57.4,0.5,0.0,233
+region pt 100g Doce de framboesa,59.7,0.4,0.0,242
+region pt 100g Doce de ginja,64.8,0.4,0.0,263
+region pt 100g Doce de maca,59.0,0.2,0.0,239
+region pt 100g Doce de morango,60.5,0.2,0.0,245
+region pt 100g Doce de pessego,51.3,0.4,0.0,209
+region pt 100g Donut,43.0,6.6,21.7,400
+region pt 100g Donut recheado com doce de fruta,47.0,6.0,14.5,348
+region pt 100g Dourada cozida,0.0,20.8,12.5,196
+region pt 100g Dourada crua,0.0,19.7,9.8,167
+region pt 100g Dourada grelhada,0.0,22.3,9.9,178
+region pt 100g Eclair de chocolate,36.5,4.1,23.8,378
+region pt 100g Empada,33.9,9.6,21.9,374
+region pt 100g Empadao de atum,10.7,12.9,15.2,234
+region pt 100g Empadao de bacalhau,10.9,6.9,5.0,118
+region pt 100g Empadao de carne com manteiga,10.7,6.6,6.3,134
+region pt 100g Empadao de carne com margarina,10.7,6.6,6.3,134
+region pt 100g Empadao de carne guisada,10.9,9.4,9.3,167
+region pt 100g Empadao de pescada e camarao,11.0,8.7,4.5,122
+region pt 100g Endivia crua,1.2,1.8,0.4,19
+region pt 100g Enguia crua,0.0,13.4,27.7,303
+region pt 100g Enguia frita,3.2,14.8,21.6,267
+region pt 100g Entrecosto de porco cozido,0.0,26.9,14.2,235
+region pt 100g Entrecosto de porco cru,0.0,19.6,12.4,190
+region pt 100g Entrecosto de porco estufado com azeite e banha,0.7,20.9,17.1,246
+region pt 100g Entrecosto de porco estufado com azeite e margarina,0.7,20.9,16.8,244
+region pt 100g Entrecosto de porco estufado com margarina,0.7,20.9,16.3,239
+region pt 100g Entrecosto de porco estufado com oleo alimentar e banha,0.7,20.9,17.1,246
+region pt 100g Entrecosto de porco estufado sem molho,0.0,26.6,15.4,245
+region pt 100g Entrecosto de porco grelhado,0.0,26.8,15.1,243
+region pt 100g Ervilhas estufadas,9.6,5.1,5.1,113
+region pt 100g Ervilhas secas cozidas,18.1,6.9,0.4,114
+region pt 100g Ervilhas secas cruas,49.4,22.7,1.3,330
+region pt 100g Ervilhas grao congeladas cozidas,7.5,5.6,0.5,72
+region pt 100g Ervilhas grao congeladas cruas,7.0,5.3,0.5,68
+region pt 100g Ervilhas grao frescas cozidas,7.9,6.2,0.7,72
+region pt 100g Ervilhas grao frescas cruas,8.6,6.4,0.7,76
+region pt 100g Ervilhas vagens cozidas,3.5,2.8,0.2,30
+region pt 100g Ervilhas vagens cruas,3.9,3.1,0.2,33
+region pt 100g Espadarte cru,0.0,17.8,2.9,97
+region pt 100g Espadarte grelhado,0.0,21.3,3.4,116
+region pt 100g Espargos cozidos,2.2,2.2,0.0,20
+region pt 100g Espargos crus,2.7,2.1,0.0,22
+region pt 100g Esparguete cozido,19.9,3.4,0.6,102
+region pt 100g Esparguete cru,71.1,12.1,1.9,360
+region pt 100g Esparguete estufado com cenoura e azeite,17.6,3.0,3.9,121
+region pt 100g Esparguete estufado com cenoura e margarina,17.6,3.0,3.2,115
+region pt 100g Espetada de porco grelhada,1.3,13.6,24.8,285
+region pt 100g Espetada de vaca grelhada,0.8,23.5,12.8,213
+region pt 100g Espinafres crus,0.8,2.6,0.9,27
+region pt 100g Estragao fresco,6.3,3.4,1.1,55
+region pt 100g Estragao seco,42.8,22.8,7.2,363
+region pt 100g Faneca crua,0.1,19.0,0.6,82
+region pt 100g Farelo de trigo,24.9,16.2,5.3,293
+region pt 100g Farinha de alfarroba,85.6,3.2,0.3,368
+region pt 100g Farinha de aveia,57.0,14.5,7.3,363
+region pt 100g Farinha de centeio,77.3,7.8,1.2,370
+region pt 100g Farinha de centeio tipo 70,78.5,6.6,1.1,364
+region pt 100g Farinha de centeio tipo 85,76.0,9.0,1.3,375
+region pt 100g Farinha de cevada,64.4,8.8,2.5,330
+region pt 100g Farinha de espelta,61.8,14.0,2.3,339
+region pt 100g Farinha de milho tipo 70,75.3,8.3,2.2,359
+region pt 100g Farinha de pau ,84.6,1.4,0.3,350
+region pt 100g Farinha de trigo ,73.7,8.5,1.5,349
+region pt 100g Farinha de trigo integral,65.2,9.6,2.4,338
+region pt 100g Farinha de trigo tipo 150,73.0,9.1,1.8,352
+region pt 100g Farinha de trigo tipo 55,74.3,7.8,1.1,344
+region pt 100g Farinha lactea 5 frutos tipo Cerelac ,65.0,15.0,9.0,408
+region pt 100g Farinha lactea macas tipo Cerelac ,66.0,15.0,9.0,412
+region pt 100g Farinha lactea tipo Cerelac ,68.0,15.0,9.0,416
+region pt 100g Farinheira cozida sem adicao de sal,26.4,4.8,30.7,404
+region pt 100g Farinheira crua,26.7,4.8,41.0,497
+region pt 100g Favada a portuguesa,8.4,8.0,5.9,130
+region pt 100g Favas frescas cozidas,7.4,6.7,0.5,73
+region pt 100g Favas frescas cruas,8.5,7.4,0.5,80
+region pt 100g Favas secas cozidas ,10.7,7.9,0.6,90
+region pt 100g Favas secas cruas,32.8,25.8,1.3,301
+region pt 100g Feijao branco cozido ,14.6,6.6,0.5,103
+region pt 100g Feijao branco cru seco,43.9,21.3,0.1,308
+region pt 100g Feijao catarino cru seco,47.9,20.3,0.1,302
+region pt 100g Feijao encarnado cru seco,47.9,21.5,0.5,310
+region pt 100g Feijao frade cru seco,55.3,21.4,1.5,339
+region pt 100g Feijao frade demolhado cozido,18.1,8.8,0.7,123
+region pt 100g Feijao manteiga cozido ,14.0,7.8,0.6,107
+region pt 100g Feijao manteiga cru seco,42.6,24.0,0.1,313
+region pt 100g Feijao preto cru seco,47.9,22.4,1.0,318
+region pt 100g Feijao-verde fresco cozido,3.5,1.8,0.3,30
+region pt 100g Feijao-verde fresco cru,3.8,1.9,0.3,32
+region pt 100g Feijoa ,9.8,0.9,0.5,52
+region pt 100g Feijoada com carne de porco,13.3,13.6,7.2,187
+region pt 100g Feijoada com carne de porco e de vaca,13.3,13.7,7.5,191
+region pt 100g Feijoada com enchidos e ovos,14.1,9.0,15.1,240
+region pt 100g Fermento em po,34.4,4.7,0.0,156
+region pt 100g Fermento fresco de padeiro,1.0,12.9,0.9,78
+region pt 100g Fermento seco de padeiro,3.2,38.3,2.5,228
+region pt 100g Fiambre de aves,2.7,13.8,1.6,83
+region pt 100g Fiambre de porco,1.3,15.3,4.6,111
+region pt 100g Fiambre pa,1.3,14.0,5.1,112
+region pt 100g Fiambre peito de frango,2.8,13.7,1.3,82
+region pt 100g Fiambre peito de peru,2.6,13.8,1.9,85
+region pt 100g Fiambre perna,1.2,16.5,4.1,111
+region pt 100g Figado de galinha,0.0,17.7,2.3,92
+region pt 100g Figado de porco cru,0.0,20.9,5.0,129
+region pt 100g Figado de porco frito com margarina e banha,0.0,23.2,13.1,211
+region pt 100g Figado de porco frito sem molho,0.0,25.2,8.8,180
+region pt 100g Figado de porco grelhado,0.0,26.3,6.3,162
+region pt 100g Figado de vaca cru,2.1,20.9,4.4,132
+region pt 100g Figado de vaca frito sem molho,2.5,24.5,7.0,171
+region pt 100g Figado de vitela cru,1.5,20.3,3.5,119
+region pt 100g Figado de vitela frito com banha e manteiga,1.7,22.6,11.5,201
+region pt 100g Figado de vitela frito sem molho,1.5,24.6,8.3,179
+region pt 100g Figado de vitela grelhado,1.9,25.7,4.7,153
+region pt 100g Figo ,16.3,0.9,0.5,79
+region pt 100g Figo cristalizado,71.2,0.5,0.4,295
+region pt 100g Figo seco,58.3,2.3,0.6,270
+region pt 100g Filetes de bacalhau fritos,5.1,19.2,10.7,194
+region pt 100g Fisalis,11.7,1.8,0.6,68
+region pt 100g Flocos de arroz,83.4,7.0,1.5,379
+region pt 100g Flocos de aveia,61.7,13.5,5.8,366
+region pt 100g Flocos de centeio,69.0,12.0,2.0,352
+region pt 100g Flocos de cereais e frutos secos tipo Muesli,69.1,10.4,6.3,388
+region pt 100g Flocos de cevada,64.4,8.3,2.0,324
+region pt 100g Flocos de milho tipo Corn Flakes,81.1,7.9,1.1,374
+region pt 100g Flocos de trigo,69.0,14.0,2.5,373
+region pt 100g Flocos de trigo com figos tipo Nestum,76.3,9.0,1.5,370
+region pt 100g Flocos de trigo com mel tipo Nestum,84.6,8.2,1.0,385
+region pt 100g Flocos de trigo e arroz enriquecidos com vitaminas calcio e ferro,79.2,7.5,1.3,372
+region pt 100g Flocos de trigo integral tipo All-Bran Flakes,64.2,10.2,1.9,349
+region pt 100g Flor de sal,0.0,0.0,0.0,0
+region pt 100g Folhas de rabanete cruas,3.9,3.5,0.5,39
+region pt 100g Framboesa,5.1,0.9,0.6,49
+region pt 100g Framboesa desidratada,30.9,5.4,3.6,293
+region pt 100g Francesinha com molho,6.5,13.3,17.7,249
+region pt 100g Frango  peito e asa com pele cozidos,0.0,27.2,10.3,202
+region pt 100g Frango  peito e asa com pele estufados com azeite e margarina,1.7,18.5,13.5,204
+region pt 100g Frango  peito e asa com pele estufados com margarina,1.7,18.5,13.2,201
+region pt 100g Frango  peito e asa com pele estufados sem molho,0.0,29.2,11.8,223
+region pt 100g Frango  peito e asa com pele grelhados,0.0,28.7,13.4,235
+region pt 100g Frango  perna com costa e pele assada sem molho,0.0,26.9,13.7,231
+region pt 100g Frango  perna com costa e pele cozida,0.0,25.5,10.6,197
+region pt 100g Frango  perna com costa e pele estufada com azeite e margarina,1.7,17.3,13.8,203
+region pt 100g Frango  perna com costa e pele estufada com margarina,1.7,17.3,13.5,200
+region pt 100g Frango  perna com costa e pele estufada sem molho,0.0,26.9,11.9,215
+region pt 100g Frango  peito e asa com pele crus,0.0,20.4,12.7,196
+region pt 100g Frango  perna com costa e pele crua,0.0,19.1,13.0,195
+region pt 100g Frango  perna com costa e pele grelhada,0.0,26.9,13.7,231
+region pt 100g Frango inteiro com pele assado sem molho,0.0,27.6,14.3,239
+region pt 100g Frango inteiro com pele cozido,0.0,26.1,11.1,204
+region pt 100g Frango inteiro com pele cru,0.0,19.6,13.6,201
+region pt 100g Frango inteiro com pele estufado com azeite e margarina,1.8,19.1,15.4,224
+region pt 100g Frango inteiro com pele estufado com margarina,1.8,19.1,15.1,221
+region pt 100g Frango inteiro com pele estufado sem molho,0.0,28.8,13.1,233
+region pt 100g Frango inteiro com pele grelhado,0.0,27.6,14.3,239
+region pt 100g Frango inteiro sem pele cozido,0.0,32.8,4.2,169
+region pt 100g Frango inteiro sem pele cru,0.0,22.9,2.0,110
+region pt 100g Frango inteiro sem pele estufado com azeite e margarina,1.7,21.0,4.1,129
+region pt 100g Frango inteiro sem pele estufado com margarina,1.7,21.0,3.8,126
+region pt 100g Frango inteiro sem pele estufado sem molho,0.0,33.2,5.8,185
+region pt 100g Frango inteiro sem pele grelhado,0.0,31.0,4.9,168
+region pt 100g Frango pele crua,0.0,9.7,48.3,474
+region pt 100g Funcho fresco,2.6,2.8,0.4,32
+region pt 100g Galinha de angola com pele crua,0.0,23.4,6.5,152
+region pt 100g Gamba crua,0.0,21.5,0.2,88
+region pt 100g Garoupa cozida,0.0,20.8,2.0,101
+region pt 100g Garoupa crua,0.0,20.5,1.4,95
+region pt 100g Garoupa grelhada,0.0,25.9,1.9,121
+region pt 100g Gelado caseiro com bolachas e natas,36.5,5.1,21.2,358
+region pt 100g Gelado caseiro com palitos la Reine,28.7,7.9,12.4,263
+region pt 100g Gelado de agua ,32.6,0.4,0.0,132
+region pt 100g Gelado de leite,21.7,3.6,10.9,199
+region pt 100g Gelatina desidratada ,0.0,87.0,0.1,349
+region pt 100g Gelatina preparada com ananas em conserva,21.6,2.2,0.0,97
+region pt 100g Gelatina preparada com laranja e sumo de laranja,17.4,2.6,0.1,84
+region pt 100g Geleia de casca de laranja,68.0,0.3,0.0,275
+region pt 100g Gema de ovo de galinha crua,0.0,16.0,30.9,342
+region pt 100g Gema de ovo de galinha pasteurizada,1.3,15.3,25.2,294
+region pt 100g Gengibre fresco,15.8,1.8,0.8,82
+region pt 100g Germen de trigo,41.8,28.1,9.6,391
+region pt 100g Gin - Rum- Whisky,0.0,0.0,0.0,222
+region pt 100g Ginja,11.5,0.9,0.3,57
+region pt 100g Goiaba crua polpa,5.0,0.8,0.5,41
+region pt 100g Goraz assado com cebola tomate azeite e oleo alimentar,1.5,14.8,5.1,117
+region pt 100g Goraz cozido,0.0,19.2,3.5,108
+region pt 100g Goraz cru,0.0,18.8,2.7,100
+region pt 100g Goraz grelhado,0.0,22.4,3.2,118
+region pt 100g Goraz no forno,0.7,18.7,2.7,110
+region pt 100g Grao-de-bico cozido ,16.7,8.4,2.1,130
+region pt 100g Grao-de-bico cru,51.4,19.0,5.0,354
+region pt 100g Grelos de couve cozidos,1.5,1.9,0.4,22
+region pt 100g Grelos de couve crus,2.5,2.4,0.4,28
+region pt 100g Grelos de nabo cozidos,1.3,1.8,0.4,20
+region pt 100g Grelos de nabo crus,2.3,2.4,0.5,29
+region pt 100g Gressino,67.0,10.7,8.7,396
+region pt 100g Groselha,5.0,1.1,0.5,52
+region pt 100g Hamburguer de feijao manteiga frito com azeite,19.8,8.0,5.3,169
+region pt 100g Hamburguer de feijao manteiga frito com oleo de milho,19.8,8.0,5.3,169
+region pt 100g Hamburguer de peru frito,3.0,8.8,0.7,56
+region pt 100g Hamburguer de porco frito sem molho,0.0,27.5,17.1,264
+region pt 100g Hamburguer de porco grelhado,0.0,27.8,16.6,261
+region pt 100g Hamburguer de vaca cru,0.0,20.2,6.8,142
+region pt 100g Hamburguer de vaca frito ,1.2,19.1,13.8,207
+region pt 100g Hamburguer de vaca grelhado,0.0,27.3,8.2,183
+region pt 100g Hortela fresca,5.3,3.8,0.7,51
+region pt 100g Imperador assado com cebola tomate azeite e oleo alimentar,1.4,13.7,3.1,94
+region pt 100g Imperador cozido,0.0,19.9,0.5,84
+region pt 100g Imperador cru,0.0,19.0,0.4,80
+region pt 100g Imperador grelhado,0.0,23.0,0.5,97
+region pt 100g Inhame cru ,25.7,1.5,0.3,114
+region pt 100g Iogurte gordo aromatizado acucarado ,8.5,3.9,3.6,83
+region pt 100g Iogurte gordo com polpa e/ou pedacos de fruta e cereais acucarado,15.8,4.2,3.2,114
+region pt 100g Iogurte gordo com polpa e/ou pedacos de fruta acucarado ,12.4,4.2,3.2,96
+region pt 100g Iogurte grego com fruta acucarado,13.7,2.7,5.0,113
+region pt 100g Iogurte grego magro natural ,3.9,5.3,2.0,56
+region pt 100g Iogurte grego natural,4.8,1.4,6.6,85
+region pt 100g Iogurte liquido magro aromatizado acucarado ,11.6,3.2,0.3,62
+region pt 100g Iogurte liquido meio gordo aromatizado acucarado ,11.5,3.0,1.3,70
+region pt 100g Iogurte liquido meio gordo natural acucarado,11.2,3.1,1.4,70
+region pt 100g Iogurte magro aromatizado acucarado ,11.8,5.0,0.1,69
+region pt 100g Iogurte magro com cereais e edulcorantes,5.7,4.3,0.4,50
+region pt 100g Iogurte magro natural ,5.2,4.6,0.2,42
+region pt 100g Iogurte magro natural com edulcorantes ,6.3,5.0,0.1,47
+region pt 100g Iogurte meio gordo aromatizado acucarado,11.3,4.3,1.8,79
+region pt 100g Iogurte meio gordo com polpa e/ou pedacos de fruta acucarado,14.6,4.3,1.7,92
+region pt 100g Iogurte meio gordo natural,5.0,4.2,1.8,54
+region pt 100g Iogurte meio gordo natural acucarado ,13.1,4.7,2.1,91
+region pt 100g Iogurte sem lactose enriquecido em proteina magro aromatizado com pedacos e/ou polpa de fruta acucarado,9.7,9.0,0.0,76
+region pt 100g Iogurte sem lactose liquido magro aromatizado com polpa de fruta acucarado,16.0,3.1,0.2,78
+region pt 100g Iogurte sem lactose liquido magro aromatizado com polpa de fruta com edulcorantes,5.0,3.3,0.1,34
+region pt 100g Iogurte sem lactose liquido meio gordo aromatizado acucarado,11.8,2.8,1.4,71
+region pt 100g Iogurte sem lactose liquido meio gordo aromatizado com polpa de fruta acucarado,12.5,2.6,1.3,73
+region pt 100g Iogurte sem lactose liquido meio gordo natural acucarado,11.7,2.7,1.4,70
+region pt 100g Iogurte sem lactose magro aromatizado com pedacos e/ou polpa de fruta com edulcorantes,4.8,4.8,0.1,42
+region pt 100g Iogurte sem lactose magro natural,5.0,4.9,0.2,41
+region pt 100g Iogurte sem lactose meio gordo aromatizado acucarado,12.0,3.5,1.5,76
+region pt 100g Iogurte sem lactose meio gordo aromatizado com frutos secos e cereais acucarado,16.1,3.7,1.6,98
+region pt 100g Iogurte sem lactose meio gordo aromatizado com pedacos e/ou polpa de fruta acucarado,13.6,3.7,1.3,83
+region pt 100g Iogurte sem lactose meio gordo natural,4.5,3.8,1.5,48
+region pt 100g Iogurte sem lactose meio gordo natural acucarado,12.2,3.5,1.5,78
+region pt 100g Jarrete de porco,0.1,21.4,6.0,140
+region pt 100g Javali cru,0.0,19.5,3.4,108
+region pt 100g Jesuita,54.0,4.1,31.2,518
+region pt 100g Lagosta cozida,0.2,20.6,0.8,90
+region pt 100g Lagosta crua,0.1,18.2,0.7,79
+region pt 100g Lagostim cozido,0.2,21.2,0.5,90
+region pt 100g Lagostim cru,0.2,20.9,0.5,89
+region pt 100g Lampreia crua,0.1,16.7,27.4,314
+region pt 100g Lapas cruas,0.6,14.3,0.7,66
+region pt 100g Laranja ,8.9,1.1,0.2,47
+region pt 100g Lasanha a bolonhesa,9.2,7.7,12.4,183
+region pt 100g Lebre crua,0.0,21.6,3.0,113
+region pt 100g Leite condensado,56.4,7.8,9.0,338
+region pt 100g Leite creme,19.5,5.9,6.8,163
+region pt 100g Leite de cabra cru,4.6,3.8,4.0,70
+region pt 100g Leite de coco enlatado,2.8,2.0,18.4,185
+region pt 100g Leite de ovelha cru,4.2,5.1,6.2,93
+region pt 100g Leite evaporado,9.8,6.6,7.8,136
+region pt 100g Leite fermentado  gordo natural,4.5,4.0,3.6,67
+region pt 100g Leite fermentado  sem lactose enriquecido com fibra magro aromatizado com pedacos e/ou polpa de fruta com sementes e/ou cereais com frutos secos e/ou de casca rija com edulcorantes ,6.6,4.2,0.8,57
+region pt 100g Leite fermentado  sem lactose liquido meio gordo aromatizado com pedacos e/ou polpa de fruta acucarado,11.0,2.7,1.7,71
+region pt 100g Leite fermentado  sem lactose magro natural com edulcorantes,6.2,5.3,0.4,51
+region pt 100g Leite fermentado  sem lactose gordo natural,4.8,4.2,3.7,70
+region pt 100g Leite fermentado  sem lactose magro aromatizado com pedacos e/ou polpa de fruta e/ou horticolas acucarado com edulcorantes,8.2,4.9,0.4,57
+region pt 100g Leite gordo especial pasteurizado ,4.8,3.1,3.4,62
+region pt 100g Leite gordo sem lactose enriquecido com vitaminas A D E e B9  UHT,4.6,3.0,3.5,62
+region pt 100g Leite gordo pasteurizado,4.7,3.0,3.5,62
+region pt 100g Leite gordo po,38.7,26.8,25.9,495
+region pt 100g Leite gordo UHT,4.7,3.0,3.5,62
+region pt 100g Leite humano,7.5,1.4,3.4,66
+region pt 100g Leite humano colostro,6.3,2.3,2.8,60
+region pt 100g Leite humano transicao,6.6,1.6,3.7,66
+region pt 100g Leite magro de pastagem UHT ,4.9,3.1,0.1,33
+region pt 100g Leite magro sem lactose UHT,5.1,3.4,0.2,36
+region pt 100g Leite magro po,52.7,35.1,0.9,359
+region pt 100g Leite magro UHT,4.9,3.4,0.2,35
+region pt 100g Leite meio gordo aromatizado UHT ,7.9,3.0,1.8,60
+region pt 100g Leite meio gordo de pastagem UHT,5.0,3.0,1.5,46
+region pt 100g Leite meio gordo sem lactose UHT,5.1,3.3,1.6,48
+region pt 100g Leite meio gordo po,45.6,30.7,13.5,427
+region pt 100g Leite meio gordo UHT,4.9,3.3,1.6,47
+region pt 100g Lentilhas secas cozidas ,16.7,9.1,0.3,115
+region pt 100g Lentilhas vermelhas secas cruas,46.6,25.7,0.3,327
+region pt 100g Lentilhas secas cruas,47.6,25.2,0.7,321
+region pt 100g Lichia fresca,14.8,0.9,0.4,70
+region pt 100g Licor beneditino,34.8,0.0,0.0,352
+region pt 100g Licor de anis,36.0,0.0,0.0,385
+region pt 100g Licor de ginja,19.0,0.1,0.0,239
+region pt 100g Licor simples,24.4,0.0,0.0,294
+region pt 100g Lima,1.7,0.7,0.2,31
+region pt 100g Limao,1.9,0.5,0.3,31
+region pt 100g Lingua de porco crua,0.0,16.3,17.2,220
+region pt 100g Lingua de vaca crua,0.0,15.9,15.0,199
+region pt 100g Lingua de vaca estufada sem molho,0.0,19.8,20.9,267
+region pt 100g Linguado cru,0.0,20.1,0.2,82
+region pt 100g Linguado frito,2.7,24.3,6.2,164
+region pt 100g Linguado grelhado,0.0,23.1,0.2,94
+region pt 100g Linguica,0.0,21.5,39.0,437
+region pt 100g Lombo de porco assado,0.2,27.5,11.3,220
+region pt 100g Lombo de porco assado com azeite e margarina,0.2,27.5,11.1,219
+region pt 100g Lombo de porco assado com margarina,0.0,28.2,10.6,208
+region pt 100g Lombo de porco assado com oleo alimentar e margarina,0.2,27.5,11.1,219
+region pt 100g Lombo de porco assado sem molho,0.0,32.7,8.8,210
+region pt 100g Lombo de porco cru,0.0,22.2,4.7,131
+region pt 100g Lombo de porco frito,0.0,28.8,7.4,182
+region pt 100g Lombo de porco frito com manteiga,0.0,28.8,7.2,180
+region pt 100g Lombo de porco frito com margarina,0.0,28.8,7.6,184
+region pt 100g Lombo de porco frito panado,8.5,25.3,12.5,249
+region pt 100g Lombo de porco grelhado,0.0,29.1,8.1,189
+region pt 100g Lombo de vaca magro assado com azeite e margarina,0.0,26.2,11.1,205
+region pt 100g Lombo de vaca magro assado com azeite manteiga e oleo alimentar,0.0,26.2,11.4,207
+region pt 100g Lombo de vaca magro assado com margarina,0.0,26.2,10.4,198
+region pt 100g Lombo de vaca magro assado com oleo alimentar e margarina,0.0,26.2,11.1,205
+region pt 100g Lombo de vaca magro assado sem molho,0.0,29.2,6.1,172
+region pt 100g Lombo de vaca magro cru,0.0,21.0,3.3,114
+region pt 100g Lombo de vaca magro no forno com tomate cebola cenoura e alho,2.5,11.9,6.8,128
+region pt 100g Lombo de vitela assado com azeite e margarina,0.2,23.0,14.4,225
+region pt 100g Lombo de vitela assado com azeite margarina e oleo alimentar,0.2,23.0,14.4,225
+region pt 100g Lombo de vitela assado com margarina e oleo alimentar,0.2,23.0,14.4,225
+region pt 100g Lombo de vitela assado sem molho,0.0,25.1,5.6,151
+region pt 100g Lombo de vitela cru,0.0,19.9,7.6,148
+region pt 100g Lombo de vitela frito com margarina,0.0,23.5,13.7,217
+region pt 100g Lombo de vitela frito sem molho,0.0,24.9,10.6,195
+region pt 100g Lombo de vitela grelhado,0.0,25.0,5.6,150
+region pt 100g Lombo ou pa de cavalo assado com azeite e manteiga,0.1,22.7,8.0,167
+region pt 100g Lombo ou pa de cavalo assado com margarina,0.1,22.7,7.3,161
+region pt 100g Lombo ou pa de cavalo assado sem molho,0.0,24.2,4.3,136
+region pt 100g Lombo ou pa de cavalo cru,0.0,19.6,2.3,99
+region pt 100g Lombo ou pa de cavalo frito com manteiga,0.0,21.6,8.0,158
+region pt 100g Lombo ou pa de cavalo frito com margarina,0.0,21.6,7.8,157
+region pt 100g Lula crua,0.0,15.8,0.9,71
+region pt 100g Lula estufada com cebola tomate e azeite,2.9,16.1,6.3,135
+region pt 100g Lula grelhada,0.0,32.5,1.6,144
+region pt 100g Maca ,13.1,0.2,0.5,62
+region pt 100g Maca assada com acucar,23.9,0.2,0.5,106
+region pt 100g Maca assada sem acucar,15.7,0.3,0.5,75
+region pt 100g Maca com casca,13.4,0.2,0.5,64
+region pt 100g Maca cozida com acucar,17.0,0.2,0.5,77
+region pt 100g Maca cozida sem acucar,10.5,0.2,0.5,51
+region pt 100g Maca desidratada,74.5,1.1,2.9,354
+region pt 100g Maca seca,57.1,0.8,0.3,257
+region pt 100g Maca sem casca,12.7,0.2,0.5,61
+region pt 100g Madalena,54.7,4.9,22.6,443
+region pt 100g Maionese caseira com ovo e azeite,0.0,4.0,71.2,657
+region pt 100g Maionese caseira com ovo e oleo de soja,0.0,3.9,69.8,644
+region pt 100g Malagueta vermelha fresca,4.3,1.8,0.3,31
+region pt 100g Mandioca crua,33.8,1.0,0.3,145
+region pt 100g Manga,11.7,0.5,0.3,59
+region pt 100g Manga desidratada,67.4,2.9,1.7,340
+region pt 100g Manjericao fresco,5.1,3.1,0.8,48
+region pt 100g Manjericao seco,10.0,23.0,4.1,244
+region pt 100g Manjerona seca,42.5,12.7,7.0,320
+region pt 100g Manteiga com sal,0.7,0.1,81.8,739
+region pt 100g Manteiga sem sal,0.7,0.1,83.0,750
+region pt 100g Maracuja,5.7,2.6,0.4,52
+region pt 100g Margarina,0.4,0.1,82.0,740
+region pt 100g Margarina 3/4 de girassol,0.3,0.1,58.0,524
+region pt 100g Margarina culinaria para folhados com sal,0.4,0.1,85.5,772
+region pt 100g Margarina industrial para pastelaria com sal,0.4,0.1,80.5,727
+region pt 100g Margarina vegetal culinaria 80% gordura com sal,0.4,0.1,80.0,722
+region pt 100g Margarina vegetal culinaria com alho e sal,4.4,1.0,74.3,692
+region pt 100g Marmelada,69.7,0.1,0.0,284
+region pt 100g Marmelo,9.3,0.3,0.2,53
+region pt 100g Maruca cozida,0.0,17.9,0.1,73
+region pt 100g Maruca crua,0.0,17.2,0.1,70
+region pt 100g Massa com ovo cozida,13.3,2.8,0.6,71
+region pt 100g Massa com ovo crua,67.6,13.9,3.1,360
+region pt 100g Massa de pimentao,4.4,2.6,1.0,44
+region pt 100g Massa folhada congelada,31.8,5.0,27.5,398
+region pt 100g Massa miuda crua,70.0,12.4,1.8,356
+region pt 100g Massa para lasanha cozida,22.6,4.0,0.7,115
+region pt 100g Massa para lasanha crua,71.4,12.0,2.1,359
+region pt 100g Massa para pizza,52.5,7.8,4.8,289
+region pt 100g Massa quebrada para quiche,52.4,5.5,29.2,498
+region pt 100g Meia-desfeita de bacalhau,14.8,12.7,4.2,156
+region pt 100g Mel,78.0,0.5,0.0,314
+region pt 100g Mel de cana,77.4,0.3,0.0,311
+region pt 100g Melaco,66.6,0.6,0.1,269
+region pt 100g Melancia,5.5,0.4,0.2,26
+region pt 100g Melao ,5.7,0.6,0.3,30
+region pt 100g Meloa,4.2,0.6,0.1,23
+region pt 100g Merengue,83.0,4.1,0.5,353
+region pt 100g Mexilhao cozido sem sal,2.8,16.8,2.1,97
+region pt 100g Mexilhao cru,2.0,12.1,1.5,70
+region pt 100g Milho doce em conserva,18.4,2.8,1.7,106
+region pt 100g Milho amido ,90.2,0.4,0.2,364
+region pt 100g Milho grao seco cru,70.3,9.3,4.9,368
+region pt 100g Millet cru seco,71.2,11.1,3.2,362
+region pt 100g Minarina ,0.4,0.9,41.6,380
+region pt 100g Mirtilo,6.4,0.5,0.6,43
+region pt 100g Mirtilo desidratado,46.8,3.7,4.4,317
+region pt 100g Miso pasta de soja fermentada com arroz integral e cevada,15.1,11.9,6.5,177
+region pt 100g Molho Bechamel com manteiga,9.6,4.0,8.4,130
+region pt 100g Molho Bechamel com margarina,9.9,3.6,9.5,140
+region pt 100g Molho branco com caldo de carne de vaca,6.8,1.1,9.2,115
+region pt 100g Molho branco com margarina,18.5,4.4,16.8,244
+region pt 100g Molho de bife frito com manteiga,0.4,2.0,41.0,379
+region pt 100g Molho de carne de vaca assada com azeite e margarina,0.3,2.1,64.0,586
+region pt 100g Molho de carne de vaca assada com margarina,0.4,1.9,56.0,513
+region pt 100g Molho de carne de vaca estufada com azeite e margarina,0.4,1.7,27.9,260
+region pt 100g Molho de carne de vaca estufada com vegetais azeite e margarina,1.3,1.3,28.5,267
+region pt 100g Molho de lombo de porco frito com banha,0.0,2.2,60.2,551
+region pt 100g Molho de lombo de porco frito com banha e margarina,0.1,2.3,54.3,498
+region pt 100g Molho de lombo de porco frito com margarina,0.2,2.3,48.5,447
+region pt 100g Molho de lombo de vaca frito com creme vegetal sem sal,0.2,2.2,37.8,350
+region pt 100g Molho de lombo de vaca frito com margarina,0.2,2.2,40.3,372
+region pt 100g Molho de mostarda ,18.0,2.6,40.2,444
+region pt 100g Molho de soja,17.3,4.7,0.0,89
+region pt 100g Molho de tomate,4.9,1.1,8.8,107
+region pt 100g Molho de tomate ketchup,26.9,1.7,0.3,119
+region pt 100g Molho de vinagrete,0.2,0.2,71.8,648
+region pt 100g Molho para francesinha,4.8,1.1,2.6,74
+region pt 100g Molho verde,2.3,0.7,25.6,246
+region pt 100g Morango,5.3,0.6,0.4,34
+region pt 100g Morango desidratado ,50.9,5.8,3.8,322
+region pt 100g Morcela crua,12.0,12.0,29.5,363
+region pt 100g Morcela grelhada sem adicao de sal,13.1,12.9,25.9,339
+region pt 100g Mortadela,1.7,18.3,33.2,379
+region pt 100g Mousse de chocolate,31.0,9.5,13.1,285
+region pt 100g Mucua ,16.3,2.8,0.1,212
+region pt 100g Nabica crua,1.2,2.0,0.0,17
+region pt 100g Nabo  cozido,2.3,0.4,0.4,19
+region pt 100g Nabo  cru,3.0,0.4,0.4,21
+region pt 100g Nata maturada pasteurizada 30% gordura,2.7,1.9,32.0,306
+region pt 100g Nata para bater pasteurizada 34% gordura,2.1,2.2,34.0,323
+region pt 100g Nata pasteurizada 33% gordura,2.9,2.0,33.0,317
+region pt 100g Nata pasteurizada 36% gordura,1.9,2.0,36.0,340
+region pt 100g Nata pasteurizada para cafe 15% gordura,2.4,2.0,15.0,153
+region pt 100g Nata UHT 35% gordura,3.1,1.8,35.0,335
+region pt 100g Nectar de tutti - frutti,10.8,0.1,0.1,46
+region pt 100g Nectar de alperce,12.9,0.2,0.1,56
+region pt 100g Nectar de ananas,10.5,0.2,0.1,46
+region pt 100g Nectar de laranja,9.6,0.2,0.1,43
+region pt 100g Nectar de maca,11.3,0.1,0.1,48
+region pt 100g Nectar de maca light,4.6,0.1,0.2,22
+region pt 100g Nectar de pera,11.0,0.2,0.1,48
+region pt 100g Nectar de pessego,11.7,0.2,0.1,51
+region pt 100g Nectar de pessego light,3.5,0.1,0.1,18
+region pt 100g Nectarina,8.7,1.4,0.1,49
+region pt 100g Nespera,10.2,0.4,0.4,51
+region pt 100g Noz macadamia,5.1,8.0,76.0,752
+region pt 100g Noz pecan,5.4,9.4,72.6,729
+region pt 100g Noz miolo,3.6,16.7,67.5,699
+region pt 100g Noz-moscada,28.5,5.8,36.3,506
+region pt 100g Oleo Becel,0.0,0.0,98.5,887
+region pt 100g Oleo alimentar,0.0,0.0,99.5,896
+region pt 100g Oleo de amendoim,0.0,0.0,98.5,887
+region pt 100g Oleo de coco,0.0,0.0,100.0,900
+region pt 100g Oleo de girassol,0.0,0.0,99.5,896
+region pt 100g Oleo de linhaca,0.0,0.0,100.0,900
+region pt 100g Oleo de palma,0.0,0.0,100.0,900
+region pt 100g Oleo de soja,0.0,0.0,98.5,887
+region pt 100g Oleos de milho,0.0,0.0,99.5,896
+region pt 100g Omelete,0.2,12.0,9.5,136
+region pt 100g Omelete com manteiga,0.0,13.0,16.3,199
+region pt 100g Omelete com margarina,0.0,13.0,16.2,198
+region pt 100g Oregao seco,26.4,9.0,4.3,265
+region pt 100g Orelha de porco crua,0.3,26.0,2.5,128
+region pt 100g Ostra crua,3.9,8.6,1.7,65
+region pt 100g Ovas de bacalhau cruas,0.0,21.7,1.9,104
+region pt 100g Ovas de pescada cruas,0.0,14.3,2.9,83
+region pt 100g Ovo de codorniz cru,0.4,12.9,10.7,150
+region pt 100g Ovo de galinha inteiro cru,0.5,12.6,10.1,143
+region pt 100g Ovo de galinha liquido pasteurizado,0.0,11.9,9.3,131
+region pt 100g Ovo de galinha cozido,0.0,13.0,10.8,149
+region pt 100g Ovo de galinha escalfado,0.0,13.0,10.9,150
+region pt 100g Ovo de galinha estrelado,0.0,13.7,15.4,193
+region pt 100g Ovo de galinha estrelado com azeite,0.0,13.8,15.1,191
+region pt 100g Ovo de galinha estrelado com manteiga,0.0,13.7,15.5,194
+region pt 100g Ovo de galinha estrelado com margarina,0.0,13.7,15.5,194
+region pt 100g Ovo de galinha mexido com manteiga,0.0,13.0,16.1,197
+region pt 100g Ovo de galinha mexido com margarina,0.0,13.0,16.0,196
+region pt 100g Ovo mexido com leite e margarina,0.9,11.0,18.3,213
+region pt 100g Pa de carneiro assada sem molho,0.0,25.1,11.3,202
+region pt 100g Pa de carneiro assada com azeite e margarina,0.0,24.3,24.6,319
+region pt 100g Pa de carneiro assada com margarina,0.0,24.3,23.6,310
+region pt 100g Pa de carneiro cozida,0.0,27.6,14.2,238
+region pt 100g Pa de carneiro crua,0.0,20.5,12.6,195
+region pt 100g Pa de carneiro estufada sem molho,0.0,27.6,14.2,238
+region pt 100g Pa de vitela crua,0.3,23.3,4.9,138
+region pt 100g Paio de lombo,0.0,29.2,19.0,288
+region pt 100g Paio de lombo entremeado,0.0,22.8,30.0,361
+region pt 100g Pao de centeio,56.4,5.9,0.8,268
+region pt 100g Pao de centeio integral,41.3,7.7,2.1,229
+region pt 100g Pao de forma de trigo com passas,58.3,8.3,2.0,291
+region pt 100g Pao de forma de trigo enriquecido,54.5,8.7,2.7,284
+region pt 100g Pao de leite ,51.4,7.7,1.9,259
+region pt 100g Pao de lo,62.2,9.6,8.0,361
+region pt 100g Pao de milho,37.2,5.3,1.2,188
+region pt 100g Pao de mistura de trigo e centeio,53.8,9.0,1.4,272
+region pt 100g Pao de trigo,57.3,8.4,2.2,290
+region pt 100g Pao de trigo integral,39.9,7.6,3.0,232
+region pt 100g Pao de trigo integral com passas,44.0,7.4,2.6,247
+region pt 100g Pao de trigo integral com sementes de sesamo,43.2,7.7,4.0,256
+region pt 100g Pao de trigo integral com soja,38.2,9.4,2.8,233
+region pt 100g Pao do coracao ,51.0,7.0,1.2,248
+region pt 100g Pao pita,42.7,7.7,1.1,218
+region pt 100g Pao ralado,71.6,11.2,2.3,359
+region pt 100g Papaia,9.1,0.6,0.1,45
+region pt 100g Papaia desidratada,73.3,4.8,0.8,361
+region pt 100g Pargo legitimo assado com cebola tomate e azeite,1.4,15.9,6.7,136
+region pt 100g Pargo legitimo cozido,0.0,19.8,0.3,82
+region pt 100g Pargo legitimo cru,0.0,19.4,0.2,79
+region pt 100g Pargo mulato assado com cebola tomate e azeite,1.4,15.2,7.1,137
+region pt 100g Pargo mulato cozido,0.0,19.0,1.0,85
+region pt 100g Pargo mulato cru,0.0,18.5,0.7,80
+region pt 100g Pasta de figado de aves  caseira ,4.6,27.0,17.6,289
+region pt 100g Pasta de figado de porco ,3.2,10.0,34.5,363
+region pt 100g Pastel de bacalhau,12.3,13.8,13.4,227
+region pt 100g Pastel de feijao,52.0,6.8,9.4,322
+region pt 100g Pastel de nata,48.5,2.9,10.2,299
+region pt 100g Pastel folhado,37.4,7.1,26.0,415
+region pt 100g Pastilha elastica,75.1,6.9,0.0,328
+region pt 100g Pato com pele assado sem molho,0.0,18.5,30.3,347
+region pt 100g Pato com pele cru,0.0,12.3,38.3,394
+region pt 100g Pato sem pele assado com margarina,0.0,36.2,14.6,276
+region pt 100g Pato sem pele cru,0.0,19.3,6.2,133
+region pt 100g Pato sem pele estufado com margarina,0.0,27.2,13.7,232
+region pt 100g Pe de porco cru,0.0,38.0,20.4,335
+region pt 100g Peito de cabrito cru,0.0,20.5,3.8,116
+region pt 100g Peito de cabrito estufado com azeite e margarina,0.8,23.3,8.4,173
+region pt 100g Peito de cabrito estufado com azeite e oleo alimentar,0.7,23.3,8.8,176
+region pt 100g Peito de cabrito estufado com manteiga e oleo alimentar,0.8,23.3,8.4,173
+region pt 100g Peito de cabrito estufado com margarina e oleo alimentar,0.8,23.3,8.4,173
+region pt 100g Peito de cabrito estufado sem molho,0.0,28.4,4.4,153
+region pt 100g Peito de cabrito grelhado,0.0,26.5,4.2,144
+region pt 100g Peito de carneiro gordo cozido,0.0,23.3,26.6,333
+region pt 100g Peito de carneiro gordo cru,0.0,16.8,36.5,396
+region pt 100g Peito de frango com pele cozido,0.0,32.1,7.3,194
+region pt 100g Peito de frango com pele cru,0.0,24.1,8.9,177
+region pt 100g Peito de frango com pele estufado com azeite e margarina,1.7,22.1,10.3,189
+region pt 100g Peito de frango com pele estufado com margarina,1.7,22.1,10.0,187
+region pt 100g Peito de frango com pele estufado sem molho,0.0,34.4,8.3,212
+region pt 100g Peito de frango sem pele cozido,0.0,34.5,1.1,148
+region pt 100g Peito de frango sem pele cru,0.0,24.1,1.2,108
+region pt 100g Peito de frango sem pele estufado com azeite e margarina ,1.7,21.4,3.3,124
+region pt 100g Peito de frango sem pele estufado com margarina,1.7,21.4,3.0,121
+region pt 100g Peito de frango sem pele estufado sem molho,0.0,36.6,2.5,169
+region pt 100g Peito de peru com pele cru,0.0,23.0,4.7,134
+region pt 100g Peito de peru com pele estufado com margarina,1.3,23.1,7.1,163
+region pt 100g Peito de peru sem pele assado com margarina,0.1,28.9,6.4,175
+region pt 100g Peito de peru sem pele cru,0.0,23.4,1.3,105
+region pt 100g Peito de peru sem pele panado,8.4,25.5,9.9,226
+region pt 100g Peito de vitela magro cozido,0.0,24.8,8.0,171
+region pt 100g Peito de vitela magro cru,0.0,19.6,7.6,147
+region pt 100g Peito de vitela magro estufado,0.6,22.9,12.6,208
+region pt 100g Peito de vitela magro estufado com azeite e margarina,0.6,22.9,12.6,208
+region pt 100g Peito de vitela magro estufado com azeite margarina e oleo alimentar,0.6,22.9,12.6,208
+region pt 100g Peito de vitela magro estufado com margarina e oleo alimentar,0.6,22.9,12.6,208
+region pt 100g Peito de vitela magro estufado sem molho,0.0,26.0,8.3,179
+region pt 100g Peixe-espada-branco cru,0.0,20.3,4.0,117
+region pt 100g Peixe-espada-branco frito,2.9,22.7,6.3,159
+region pt 100g Peixe-espada-branco grelhado,0.0,20.2,4.7,123
+region pt 100g Peixe-espada-preto cru,0.0,15.7,2.8,88
+region pt 100g Peixe-espada-preto frito,3.2,24.2,16.6,259
+region pt 100g Peixe-espada-preto grelhado,0.0,20.5,3.2,111
+region pt 100g Peixinhos da horta,14.9,4.0,1.4,94
+region pt 100g Pepino cru,1.7,1.4,0.6,19
+region pt 100g Pera ,9.4,0.3,0.4,47
+region pt 100g Pera conserva em calda de acucar,28.9,0.2,0.3,121
+region pt 100g Pera cozida com acucar,14.5,0.3,0.4,67
+region pt 100g Pera cozida sem acucar,7.8,0.3,0.4,40
+region pt 100g Pera cristalizada,69.8,0.2,0.1,285
+region pt 100g Pera desidratada,59.9,1.9,2.6,300
+region pt 100g Percebes crus,0.0,13.6,0.5,59
+region pt 100g Perdiz crua,0.0,23.0,1.3,104
+region pt 100g Perdiz estufada com margarina,0.7,24.7,11.4,212
+region pt 100g Perna de borrego no forno,0.4,21.9,7.6,168
+region pt 100g Perna de cabrito assada com azeite e margarina,0.2,21.7,10.0,180
+region pt 100g Perna de cabrito assada com oleo alimentar e margarina,0.2,21.7,10.0,180
+region pt 100g Perna de cabrito assada sem molho,0.0,24.3,4.2,135
+region pt 100g Perna de cabrito crua,0.0,19.3,4.0,113
+region pt 100g Perna de carneiro gorda assada sem molho,0.0,24.3,20.9,285
+region pt 100g Perna de carneiro gorda crua,0.0,19.1,22.2,276
+region pt 100g Perna de carneiro gorda estufada sem molho,0.0,26.5,25.9,339
+region pt 100g Perna de carneiro magra assada com azeite e margarina,0.0,23.5,16.4,242
+region pt 100g Perna de carneiro magra assada com margarina,0.0,23.5,15.3,232
+region pt 100g Perna de carneiro magra assada sem molho,0.0,24.2,9.0,178
+region pt 100g Perna de carneiro magra crua,0.0,19.8,5.6,130
+region pt 100g Perna de carneiro magra estufada com azeite e margarina,1.7,17.4,13.4,201
+region pt 100g Perna de carneiro magra estufada com margarina,1.7,17.4,12.5,193
+region pt 100g Perna de carneiro magra estufada sem molho,0.0,25.6,10.3,195
+region pt 100g Perna de frango sem pele cozida,0.0,31.5,2.3,147
+region pt 100g Perna de frango sem pele crua,0.0,22.0,2.6,111
+region pt 100g Perna de frango sem pele estufada com azeite e margarina,1.6,19.1,4.4,124
+region pt 100g Perna de frango sem pele estufada com margarina ,1.6,19.1,4.1,121
+region pt 100g Perna de frango sem pele estufada sem molho,0.0,32.9,5.4,180
+region pt 100g Perna de peru com pele assada com margarina,0.0,24.4,12.5,212
+region pt 100g Perna de peru com pele crua,0.0,18.9,8.1,149
+region pt 100g Perna de peru com pele estufada com margarina,1.3,19.1,9.7,170
+region pt 100g Perna de porco gorda assada com azeite e margarina,0.2,22.4,28.2,353
+region pt 100g Perna de porco gorda assada com margarina,0.2,22.4,27.6,347
+region pt 100g Perna de porco gorda assada com oleo alimentar e margarina,0.2,22.4,28.2,353
+region pt 100g Perna de porco gorda assada sem molho,0.0,27.6,19.2,283
+region pt 100g Perna de porco gorda crua,0.0,18.1,18.5,239
+region pt 100g Perna de porco gorda grelhada,0.0,25.5,20.6,287
+region pt 100g Perna de porco magra assada com azeite e margarina,0.2,26.0,14.6,245
+region pt 100g Perna de porco magra assada com margarina,0.2,26.0,14.0,239
+region pt 100g Perna de porco magra assada com oleo alimentar e margarina,0.2,26.0,14.5,244
+region pt 100g Perna de porco magra assada sem molho,0.0,31.0,9.9,213
+region pt 100g Perna de porco magra crua,0.0,21.0,7.5,152
+region pt 100g Perna de porco magra estufada com azeite e banha,0.7,22.4,11.9,206
+region pt 100g Perna de porco magra estufada com azeite e margarina,0.7,22.4,11.6,203
+region pt 100g Perna de porco magra estufada com margarina,0.7,22.4,11.1,198
+region pt 100g Perna de porco magra estufada com oleo alimentar e banha,0.7,22.4,11.9,206
+region pt 100g Perna de porco magra estufada sem molho,0.0,28.6,11.0,213
+region pt 100g Perna de porco magra grelhada,0.0,27.5,11.7,215
+region pt 100g Peru inteiro com pele cru,0.0,20.5,6.1,137
+region pt 100g Pescada cozida ,0.0,19.2,3.6,109
+region pt 100g Pescada crua ,0.0,17.6,1.4,83
+region pt 100g Pescada da Africa do Sul cozida,0.0,18.9,3.8,110
+region pt 100g Pescada da Africa do Sul crua,0.0,17.2,1.3,81
+region pt 100g Pescada da Africa do Sul frita,1.7,23.2,8.4,175
+region pt 100g Pescada do Chile cozida,0.0,19.5,3.3,108
+region pt 100g Pescada do Chile crua,0.0,18.0,1.5,86
+region pt 100g Pescada do Chile frita,2.6,20.3,8.8,171
+region pt 100g Pescada europeia cozida,0.0,20.1,3.7,114
+region pt 100g Pescada europeia crua,0.0,17.0,0.8,75
+region pt 100g Pescada europeia frita,1.4,21.7,7.9,164
+region pt 100g Pescada frita ,2.1,21.7,8.6,173
+region pt 100g Pessego ,8.1,0.6,0.3,44
+region pt 100g Pessego conserva em calda de acucar,20.6,0.2,0.1,86
+region pt 100g Picanha grelhada,0.0,21.7,11.9,194
+region pt 100g Picles de pepino,16.5,0.5,0.5,74
+region pt 100g Pimenta branca,48.3,10.4,2.1,306
+region pt 100g Pimenta moida,38.3,10.7,2.7,273
+region pt 100g Pimenta preta,44.5,10.7,3.3,302
+region pt 100g Pimento cru,2.7,1.6,0.6,27
+region pt 100g Pimento grelhado,3.7,2.7,0.6,37
+region pt 100g Pinhao miolo,5.0,33.2,51.7,622
+region pt 100g Pistacio torrado e salgado,12.6,18.0,53.0,616
+region pt 100g Pistacio torrado sem sal,12.6,18.0,53.0,616
+region pt 100g Pizza de queijo e tomate,33.2,10.5,10.1,271
+region pt 100g Pizza de queijo tomate e fiambre,29.2,11.7,12.5,281
+region pt 100g Po achocolatado com alto teor de gordura,70.6,12.0,10.6,428
+region pt 100g Po achocolatado com baixo teor de gordura,86.2,6.5,2.5,395
+region pt 100g Polvo cozido sem sal,0.0,22.7,1.3,103
+region pt 100g Polvo cru,0.0,15.6,1.2,73
+region pt 100g Pombo cru,0.0,20.3,16.7,232
+region pt 100g Pota crua,0.0,16.3,1.1,75
+region pt 100g Preparado fermentado a base de soja ,5.9,3.0,2.4,59
+region pt 100g Presunto,0.0,25.0,12.8,215
+region pt 100g Proteina texturizada de soja,17.2,53.0,1.4,327
+region pt 100g Pudim de leite e ovos,44.8,6.1,4.7,246
+region pt 100g Pudim flan caseiro,36.3,6.2,4.5,211
+region pt 100g Pudim instantaneo em po,79.4,2.0,9.4,412
+region pt 100g Pudim instantaneo preparado com leite magro,18.3,3.2,1.9,104
+region pt 100g Pudim instantaneo preparado com leite meio gordo,18.3,3.1,3.0,113
+region pt 100g Pulmoes de porco crus,0.2,13.9,5.0,101
+region pt 100g Pure de batata,16.8,2.3,5.2,126
+region pt 100g Queijada de queijo fresco,56.7,7.5,4.7,301
+region pt 100g Queijada de queijo magro,55.4,6.7,4.7,292
+region pt 100g Queijada de requeijao,40.8,7.2,13.1,311
+region pt 100g Queijo Amarelo da Beira Baixa,1.5,20.5,30.0,361
+region pt 100g Queijo Brie,0.0,18.8,27.3,321
+region pt 100g Queijo Camembert,0.2,19.2,19.6,254
+region pt 100g Queijo Cheddar,0.1,25.4,34.9,419
+region pt 100g Queijo creme para barrar,6.9,9.3,22.0,263
+region pt 100g Queijo creme para barrar alto teor polinsaturados,6.9,9.3,22.0,263
+region pt 100g Queijo de Azeitao,2.6,19.5,27.5,339
+region pt 100g Queijo de cabra Pure chevre,2.0,13.0,25.0,286
+region pt 100g Queijo de cabra atabafado curado,2.7,18.2,24.0,313
+region pt 100g Queijo de cabra atabafado fresco,2.5,13.0,15.4,202
+region pt 100g Queijo de cabra curado,2.5,21.0,30.5,382
+region pt 100g Queijo de Castelo Branco,1.8,20.8,29.2,356
+region pt 100g Queijo de Evora,2.1,23.8,32.9,405
+region pt 100g Queijo de mistura ,2.4,19.6,26.7,329
+region pt 100g Queijo de Nisa,2.6,23.4,38.0,451
+region pt 100g Queijo de ovelha curado,2.4,22.8,33.0,401
+region pt 100g Queijo de ovelha amanteigado,1.6,19.7,30.3,361
+region pt 100g Queijo de vaca curado,1.2,22.3,29.0,355
+region pt 100g Queijo de vaca curado magro,2.4,27.1,10.0,208
+region pt 100g Queijo de vaca curado meio gordo,1.7,23.0,20.1,280
+region pt 100g Queijo de vaca amanteigado,1.7,20.2,28.3,343
+region pt 100g Queijo Emmental,0.0,28.9,29.7,384
+region pt 100g Queijo flamengo,0.8,22.7,28.3,349
+region pt 100g Queijo flamengo light ,0.0,26.8,13.3,228
+region pt 100g Queijo fresco acucarado com sabor a fruta,11.6,7.3,3.6,110
+region pt 100g Queijo fresco de cabra,2.1,12.0,13.8,182
+region pt 100g Queijo fresco de ovelha,3.9,11.3,15.6,204
+region pt 100g Queijo fresco magro,6.9,13.0,1.8,96
+region pt 100g Queijo fresco meio gordo,2.7,9.2,11.9,156
+region pt 100g Queijo fundido 40% gordura,0.2,22.5,25.7,326
+region pt 100g Queijo Gouda,0.0,25.3,30.6,380
+region pt 100g Queijo Gruyere,1.4,27.2,33.3,415
+region pt 100g Queijo Mascarpone,0.3,7.6,47.0,458
+region pt 100g Queijo Mestico de Tolosa,1.8,24.5,33.0,407
+region pt 100g Queijo Mozzarella fresco,1.3,18.7,19.5,256
+region pt 100g Queijo Parmesao,0.1,37.7,27.8,406
+region pt 100g Queijo Quark acucarado magro com sabor a fruta,10.8,8.4,0.1,78
+region pt 100g Queijo Quark natural magro,4.0,10.3,0.3,60
+region pt 100g Queijo Quark natural meio gordo,3.9,8.1,8.5,125
+region pt 100g Queijo Raclette,0.4,25.5,27.8,354
+region pt 100g Queijo Roquefort,0.2,22.0,31.5,372
+region pt 100g Queijo Sao Jorge,2.5,26.6,32.5,409
+region pt 100g Queijo Serpa,2.4,22.0,30.5,375
+region pt 100g Queijo Serra da Estrela,2.0,23.8,24.0,324
+region pt 100g Queijo Serra da Estrela velho,0.2,25.5,31.5,389
+region pt 100g Queque,53.8,6.7,18.2,408
+region pt 100g Quiabo cru,3.1,2.8,1.0,37
+region pt 100g Quiche de espinafres,12.4,12.6,19.1,275
+region pt 100g Quiche de vegetais,12.9,11.9,22.2,302
+region pt 100g Quiche lorraine,23.5,14.4,24.5,374
+region pt 100g Quivi Kiwi,10.9,1.1,0.5,60
+region pt 100g Quivi Kiwi desidratado,60.6,6.1,2.8,333
+region pt 100g Rabanada,31.3,4.7,16.6,294
+region pt 100g Rabanete cru,1.9,1.0,0.2,15
+region pt 100g Rabano cru,10.7,6.0,0.7,88
+region pt 100g Raia crua,0.0,14.1,0.2,58
+region pt 100g Rancho com carne de galinha porco e vaca,6.5,5.1,3.9,84
+region pt 100g Rancho com carne de porco,6.8,4.8,6.2,107
+region pt 100g Rebentos de alfalfa crus,0.3,4.0,0.7,29
+region pt 100g Rebentos de bambu crus,1.4,3.1,0.3,22
+region pt 100g Rebentos de soja crus,5.8,9.2,3.9,98
+region pt 100g Rebucados,95.0,0.3,0.0,381
+region pt 100g Requeijao de cabra,3.4,10.7,15.5,197
+region pt 100g Requeijao de mistura ,3.7,7.8,10.0,136
+region pt 100g Requeijao de mistura ,4.9,13.6,11.7,179
+region pt 100g Requeijao de ovelha,3.8,11.0,20.6,246
+region pt 100g Requeijao de vaca,5.8,8.0,10.4,149
+region pt 100g Rim de carneiro cru,0.0,16.2,3.0,92
+region pt 100g Rim de carneiro frito com margarina,0.0,22.3,12.9,205
+region pt 100g Rim de porco cru,0.0,17.0,3.0,95
+region pt 100g Rim de porco frito com margarina,0.0,23.6,12.4,206
+region pt 100g Rim de vaca cru,0.0,18.0,2.2,92
+region pt 100g Rissol,31.8,7.3,13.4,280
+region pt 100g Rissol de camarao,26.6,6.1,8.6,211
+region pt 100g Rissol de carne com manteiga,19.8,7.3,14.1,238
+region pt 100g Rissol de carne com margarina,19.7,7.3,13.9,236
+region pt 100g Robalo assado com cebola azeite banha e manteiga,0.6,20.4,11.8,192
+region pt 100g Robalo cozido,0.0,21.0,10.9,182
+region pt 100g Robalo cru,0.0,18.5,3.5,106
+region pt 100g Robalo grelhado,0.0,23.0,13.0,209
+region pt 100g Rojoes de carne gorda,0.8,14.9,19.0,244
+region pt 100g Rojoes de carne magra,8.7,11.1,5.6,140
+region pt 100g Roma,12.0,0.4,0.4,60
+region pt 100g Rucula crua,2.2,2.6,0.7,29
+region pt 100g Safio cru,0.0,17.7,4.2,109
+region pt 100g Sal,0.0,0.0,0.0,0
+region pt 100g Salada de alface e tomate temperada com azeite e vinagre,2.6,1.1,1.4,30
+region pt 100g Salada de atum,8.4,6.9,4.3,104
+region pt 100g Salada de bacalhau com grao,7.6,8.7,4.9,115
+region pt 100g Salada russa,5.6,1.4,9.3,116
+region pt 100g Salame,1.3,19.5,37.6,422
+region pt 100g Salicornia fresca,1.1,0.7,0.2,14
+region pt 100g Salmao cozido,0.0,20.7,21.1,273
+region pt 100g Salmao cru,0.0,16.2,21.9,262
+region pt 100g Salmao grelhado,0.0,23.8,23.7,309
+region pt 100g Salmonete cru,0.1,21.7,5.5,136
+region pt 100g Salpicao,0.0,20.5,36.7,412
+region pt 100g Salsa fresca,0.4,3.1,0.0,20
+region pt 100g Salsa seca,14.5,15.8,7.0,244
+region pt 100g Salsicha de soja,0.6,13.5,20.9,252
+region pt 100g Salsicha fresca crua,0.0,15.5,16.4,210
+region pt 100g Salsicha fresca estufada com couve e azeite,1.1,7.2,11.6,140
+region pt 100g Salsicha fresca estufada com legumes e azeite,3.7,5.9,8.9,121
+region pt 100g Salsicha tipo Frankfurt,2.4,9.0,14.7,178
+region pt 100g Salsicha tipo Frankfurt frita  sem adicao de sal,2.8,10.2,16.5,201
+region pt 100g Salsicha tipo Frankfurt grelhada sem adicao de sal,3.2,12.0,16.7,211
+region pt 100g Sangue de porco cru,0.4,16.6,0.4,72
+region pt 100g Sapateira crua,0.0,19.5,2.9,104
+region pt 100g Sarda cozida,0.0,19.7,10.6,174
+region pt 100g Sarda crua,0.0,19.0,11.7,181
+region pt 100g Sarda grelhada,0.0,22.5,11.2,191
+region pt 100g Sardinha frita,8.7,22.5,19.4,300
+region pt 100g Sardinha gorda crua,0.0,18.4,16.4,221
+region pt 100g Sardinha gorda frita,3.5,23.0,15.6,247
+region pt 100g Sardinha gorda grelhada,0.0,25.0,12.3,211
+region pt 100g Sardinha meio gorda conserva em agua sem espinha e sem pele,0.0,22.0,9.6,174
+region pt 100g Sardinha meio gorda conserva em azeite,0.0,24.0,12.0,204
+region pt 100g Sardinha meio gorda conserva em azeite ,0.0,26.3,9.0,186
+region pt 100g Sardinha meio gorda crua,0.0,18.9,9.1,158
+region pt 100g Sardinha meio gorda frita,0.5,20.0,10.2,174
+region pt 100g Sardinha meio gorda grelhada,0.0,25.9,7.2,168
+region pt 100g Seitan,5.4,25.0,1.7,139
+region pt 100g Sementes de abobora cruas secas miolo,10.0,22.0,46.4,567
+region pt 100g Sementes de canhamo secas,2.4,29.5,27.9,424
+region pt 100g Sementes de chia,4.6,14.4,34.4,456
+region pt 100g Sementes de coentro,16.2,12.4,17.8,358
+region pt 100g Sementes de girassol cruas secas miolo,8.3,22.1,48.5,585
+region pt 100g Sementes de linhaca cruas,18.1,25.0,31.0,487
+region pt 100g Sementes de melao,9.0,28.5,47.7,590
+region pt 100g Sementes de mostarda,15.9,25.5,28.8,449
+region pt 100g Sementes de papoila,13.7,19.3,45.9,565
+region pt 100g Sementes de sesamo,6.4,22.1,55.0,620
+region pt 100g Semola de milho,73.8,8.8,1.1,350
+region pt 100g Shortening para pastelaria,0.0,0.0,97.5,878
+region pt 100g Shortening para restaurante,0.0,0.0,100.0,900
+region pt 100g Sidra ,2.3,0.0,0.0,48
+region pt 100g Sobremesa a base de soja,15.8,3.5,1.8,95
+region pt 100g Soja cozida sem sal,5.6,12.5,7.5,151
+region pt 100g Soja farinha com baixo teor de gordura,21.8,44.0,2.6,314
+region pt 100g Soja grao seco cru,18.3,32.8,19.3,407
+region pt 100g Solha crua,0.0,19.0,1.6,90
+region pt 100g Solha frita,8.9,23.0,2.0,147
+region pt 100g Solha grelhada,0.0,21.9,1.8,104
+region pt 100g Sonhos,29.2,8.7,26.2,389
+region pt 100g Sopa a lavrador,7.6,1.2,1.5,51
+region pt 100g Sopa de abobora,4.0,0.6,1.5,33
+region pt 100g Sopa de agriao,4.2,1.0,1.6,37
+region pt 100g Sopa de agriao com leite,5.3,1.3,0.5,33
+region pt 100g Sopa de agriao com requeijao,2.0,1.1,1.6,28
+region pt 100g Sopa de carne de porco,7.3,4.0,0.9,60
+region pt 100g Sopa de cebola,5.4,0.8,1.5,40
+region pt 100g Sopa de cenoura,4.4,0.9,0.6,29
+region pt 100g Sopa de couve-branca,5.4,0.8,1.5,40
+region pt 100g Sopa de couve-lombarda,5.3,0.9,1.5,41
+region pt 100g Sopa de cozido,2.9,2.6,1.4,36
+region pt 100g Sopa de ervilhas,6.4,1.6,1.5,48
+region pt 100g Sopa de espinafres,4.8,1.0,1.6,39
+region pt 100g Sopa de espinafres com ovos,4.7,2.5,6.9,93
+region pt 100g Sopa de favas,6.4,1.8,1.5,49
+region pt 100g Sopa de feijao,4.1,2.5,2.1,51
+region pt 100g Sopa de feijao-branco com couve-portuguesa,4.9,2.5,1.3,47
+region pt 100g Sopa de feijao-manteiga,8.7,1.2,0.4,46
+region pt 100g Sopa de feijao-manteiga com couve-lombarda,3.5,2.1,1.8,43
+region pt 100g Sopa de feijao-verde,3.5,0.7,1.5,32
+region pt 100g Sopa de feijao-verde e cenoura,5.8,0.9,1.5,42
+region pt 100g Sopa de feijao-verde e nabo,3.4,0.7,1.9,36
+region pt 100g Sopa de grao a moda da avo,15.1,4.7,2.3,107
+region pt 100g Sopa de grao com arroz espinafres e coentros,5.3,2.1,1.3,45
+region pt 100g Sopa de grao com espinafres ,7.0,2.4,2.1,60
+region pt 100g Sopa de grao com espinafres sem arroz,5.1,2.6,2.3,55
+region pt 100g Sopa de nabicas ,5.8,1.0,1.2,40
+region pt 100g Sopa de peixe ,1.3,1.3,0.6,17
+region pt 100g Sopa de peixe com massa,5.8,2.8,1.1,46
+region pt 100g Sopa de tomate,4.4,1.1,0.8,31
+region pt 100g Sopa de vegetais,1.2,0.8,0.2,11
+region pt 100g Sopa juliana,4.3,0.9,0.9,31
+region pt 100g Sopa caldo verde,5.3,1.3,1.7,43
+region pt 100g Sopa canja de galinha,5.8,2.0,0.9,40
+region pt 100g Sopa creme de cenoura,4.4,0.6,1.4,34
+region pt 100g Sopa pure de feijao,4.5,1.6,1.6,43
+region pt 100g Sopa pure de vegetais,5.5,1.0,1.5,42
+region pt 100g Sucedaneo de cafe ,81.0,5.0,3.4,375
+region pt 100g Sucedaneo de cafe  com 20% de cafe,77.0,6.5,2.8,359
+region pt 100g Sultanas,69.4,2.7,0.4,304
+region pt 100g Sumo de ananas 100%,9.5,0.2,0.1,42
+region pt 100g Sumo de ananas concentrado,64.7,0.0,0.0,265
+region pt 100g Sumo de laranja 100% ,9.5,0.3,0.1,42
+region pt 100g Sumo de laranja concentrado,64.9,0.1,0.7,272
+region pt 100g Sumo de limao fresco ,1.5,0.3,0.0,25
+region pt 100g Sumo de maca 100%,9.9,0.1,0.1,43
+region pt 100g Sumo de pessego 100%,11.5,0.2,0.1,50
+region pt 100g Sumo de tomate 100%,3.5,1.1,0.0,21
+region pt 100g Tahini ,11.6,18.5,58.9,661
+region pt 100g Tamara fresca ,33.2,1.2,0.1,147
+region pt 100g Tamara seca,67.3,2.5,0.3,298
+region pt 100g Tamarilho sem pele,4.6,2.0,0.3,34
+region pt 100g Tamarindo cru,54.9,2.3,0.3,242
+region pt 100g Tamboril cru,0.0,17.9,0.2,73
+region pt 100g Tamboril grelhado,0.0,21.4,0.3,88
+region pt 100g Tangera,7.8,0.7,0.1,41
+region pt 100g Tangerina,8.7,0.7,0.1,44
+region pt 100g Tapioca,87.5,0.3,0.2,356
+region pt 100g Tarte de maca,29.3,1.8,8.0,200
+region pt 100g Tarte de maca e pessego,36.7,4.4,6.2,224
+region pt 100g Tisana infusao de ervas,0.2,0.0,0.0,1
+region pt 100g Tofu frito com azeite,1.1,8.7,7.6,108
+region pt 100g Tofu frito com oleo de milho,1.1,8.7,7.6,108
+region pt 100g Tofu simples,0.7,8.5,4.4,77
+region pt 100g Tomate cherry cru,4.0,1.0,0.8,30
+region pt 100g Tomate concentrado,14.3,3.7,0.3,82
+region pt 100g Tomate cru,3.5,0.8,0.3,23
+region pt 100g Tomate em conserva ao natural,3.2,1.0,0.3,21
+region pt 100g Tomilho fresco,7.4,1.5,1.2,52
+region pt 100g Tomilho seco,45.3,9.1,7.4,321
+region pt 100g Toranja,6.0,0.9,0.1,36
+region pt 100g Torta de chocolate e chantilly,29.6,8.0,23.9,369
+region pt 100g Tosta de trigo,69.7,12.5,4.2,377
+region pt 100g Tosta de trigo integral,62.6,15.4,5.1,373
+region pt 100g Tosta de trigo sem sal,72.7,11.3,3.8,379
+region pt 100g Tosta de trigo simples,72.7,11.3,3.8,379
+region pt 100g Toucinho  de porco entremeado ligeiramente salgado cozido sem adicao de sal,0.0,16.7,33.9,372
+region pt 100g Toucinho de porco entremeado fresco cru,0.0,8.4,72.0,682
+region pt 100g Toucinho de porco entremeado fresco grelhado sem adicao de sal,0.0,16.1,67.9,676
+region pt 100g Toucinho de porco entremeado ligeiramente salgado cru,0.0,13.7,50.1,506
+region pt 100g Toucinho de porco entremeado magro,0.5,17.4,29.1,333
+region pt 100g Tremoco cozido sem sal,7.2,16.0,2.4,124
+region pt 100g Tremoco cozido e salgado,7.2,16.4,2.4,126
+region pt 100g Trigo Sarraceno  cru,61.3,12.4,2.5,337
+region pt 100g Tripa de porco fresca,0.0,7.6,16.6,180
+region pt 100g Tripa de vaca crua,0.1,16.3,10.5,160
+region pt 100g Truta arco-iris crua,0.0,17.8,2.3,92
+region pt 100g Truta arco-iris grelhada,0.0,21.3,3.7,119
+region pt 100g Tubera  crua,14.5,3.3,0.3,77
+region pt 100g Uva ,18.0,0.3,0.5,80
+region pt 100g Uva branca ,17.3,0.3,0.5,78
+region pt 100g Uva seca ,67.0,1.8,0.7,294
+region pt 100g Uva tinta ,18.6,0.3,0.5,83
+region pt 100g Vaca assada,0.0,24.2,20.4,280
+region pt 100g Vaca assada com azeite e margarina,0.0,24.2,20.4,280
+region pt 100g Vaca assada com margarina,0.0,24.2,19.6,273
+region pt 100g Vaca assada com oleo alimentar e margarina,0.0,24.2,20.4,280
+region pt 100g Vaca assada sem molho,0.0,26.9,9.4,192
+region pt 100g Vaca magra cozida,0.0,33.7,13.8,259
+region pt 100g Vaca magra estufada,1.2,21.8,14.2,226
+region pt 100g Vaca magra estufada a jardineira,11.4,5.5,4.4,111
+region pt 100g Vaca magra estufada com azeite e margarina,1.2,21.8,14.2,226
+region pt 100g Vaca magra estufada com margarina,1.2,21.8,13.6,220
+region pt 100g Vaca magra estufada com oleo alimentar e margarina,1.2,21.8,14.2,226
+region pt 100g Vaca magra estufada sem molho,0.0,31.5,12.0,234
+region pt 100g Vaca meio gorda estufada,1.2,21.4,20.2,278
+region pt 100g Vaca meio gorda estufada com azeite e margarina,1.2,21.4,20.2,278
+region pt 100g Vaca meio gorda estufada com margarina,1.2,21.4,19.6,273
+region pt 100g Vaca meio gorda estufada com oleo alimentar e margarina,1.2,21.4,20.2,278
+region pt 100g Vaca meio gorda estufada sem molho,0.0,31.8,17.0,280
+region pt 100g Vaca para assar crua,0.0,19.4,10.7,174
+region pt 100g Vaca para cozer ou estufar magra crua,0.0,21.7,9.8,175
+region pt 100g Vaca para cozer ou estufar meio gorda crua,0.0,21.3,15.8,227
+region pt 100g Veado cru,0.0,20.6,3.3,112
+region pt 100g Vieira crua,0.0,18.5,1.0,83
+region pt 100g Vinagre,0.6,0.3,0.0,22
+region pt 100g Vinho espumante doce,12.0,0.1,0.0,110
+region pt 100g Vinho espumante extra bruto,0.1,0.1,0.0,69
+region pt 100g Vinho espumante meio Seco,4.2,0.1,0.0,80
+region pt 100g Vinho espumante seco,2.6,0.1,0.0,74
+region pt 100g Vinho generoso da Madeira,9.0,0.2,0.0,156
+region pt 100g Vinho generoso do Porto doce,14.0,0.1,0.0,165
+region pt 100g Vinho generoso do Porto meio seco,6.5,0.1,0.0,138
+region pt 100g Vinho generoso do Porto seco,4.0,0.1,0.0,135
+region pt 100g Vinho maduro branco,1.2,0.1,0.0,72
+region pt 100g Vinho maduro palhete,0.1,0.1,0.0,65
+region pt 100g Vinho maduro tinto,0.2,0.1,0.0,66
+region pt 100g Vinho rose,2.4,0.2,0.0,72
+region pt 100g Vinho verde branco,0.1,0.0,0.0,59
+region pt 100g Vinho verde tinto,0.3,0.0,0.0,57
+region pt 100g Wasabi raiz crua,15.8,4.8,0.6,100

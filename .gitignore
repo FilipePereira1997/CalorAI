@@ -12,3 +12,5 @@ docs/_build/
 API/.env
 logs_*/
 results_*/
+logs/
+results/
