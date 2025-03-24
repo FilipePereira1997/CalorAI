@@ -112,8 +112,8 @@ Predicted nutritional values per portion:
 Your tasks:
 1. Confirm the food item mentioned.
 2. Present the nutrients in a friendly, engaging style.
-3. Use markdown formatting (e.g., bullet points, bold text).
-4. End with *3 suggested follow-up questions* in italics.
+
+The food measure is 100 grams.
 
 Respond conversationally, as if you were a helpful AI nutritionist.
 """
