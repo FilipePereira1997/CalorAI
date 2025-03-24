@@ -3,11 +3,6 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
-[[source]]
-name = "pytorch"
-url = "https://download.pytorch.org/whl/cu126"
-verify_ssl = true
-
 [packages]
 pandas = "~=2.2.1"
 datasets = "~=3.3.2"
@@ -23,12 +18,8 @@ numpy = "~=1.26.4"
 word2number = "~=1.1"
 uvicorn = "~=0.34.0"
 accelerate = ">=0.26.0"
-torch = {version = "*", index = "pytorch"}
-torchvision = {version = "*", index = "pytorch"}
-torchaudio = {version = "*", index = "pytorch"}
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.9"
