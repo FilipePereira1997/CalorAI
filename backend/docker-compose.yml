@@ -1,14 +1,21 @@
 services:
-  web:
+  chat-bot:
     build: .
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
     command: uvicorn app.main:app --host 0.0.0.0 --port 8000
     ports:
       - "8000:8000"
     env_file:
-      - .env
+      - app/.env
     volumes:
       - .:/code
-      - ./app/data:/app/data
     working_dir: /code
-    depends_on:
-      - db
