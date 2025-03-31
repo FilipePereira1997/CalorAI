@@ -1,0 +1,898 @@
+{
+  "pt": [
+    {
+      "pergunta": "Quantas calorias tem [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] tem cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] ao pequeno-almoço e agora tenho fome. Posso lanchar [ALIMENTO]?",
+      "resposta": "Já consumiste [KCAL_CONSUMIDAS] kcal de uma meta de [META_KCAL] kcal. Um [ALIMENTO] assim costuma ter cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Preciso de saber os macronutrientes do [ALIMENTO]. Podes ajudar?",
+      "resposta": "Claro. O [ALIMENTO] costuma apresentar cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Ainda posso comer [ALIMENTO] ao jantar, se já consumi [KCAL_CONSUMIDAS] kcal?",
+      "resposta": "Se já consumiste [KCAL_CONSUMIDAS] kcal e tens [META_KCAL] como limite, o [ALIMENTO] com [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos pode ser exagerado."
+    },
+    {
+      "pergunta": "É possível incluir [ALIMENTO] na minha dieta, tendo uma meta de [META_KCAL] kcal?",
+      "resposta": "Podes incluir sim, mas conta com cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono no [ALIMENTO]."
+    },
+    {
+      "pergunta": "O [ALIMENTO] é muito calórico? Quanta proteína, lípidos e hidratos de carbono tem?",
+      "resposta": "O [ALIMENTO] tem, em média, [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono. Pode encaixar na tua dieta."
+    },
+    {
+      "pergunta": "Se comi [ALIMENTO] ao almoço, posso jantar [ALIMENTO] sem ultrapassar [META_KCAL] kcal?",
+      "resposta": "Se comeste [ALIMENTO] ao almoço, atenção: outro [ALIMENTO] pode chegar a [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono. Verifica se não excedes [META_KCAL]."
+    },
+    {
+      "pergunta": "Já ingeri [KCAL_CONSUMIDAS] kcal hoje. Quanto devo ajustar se quiser comer [ALIMENTO]?",
+      "resposta": "Tens [KCAL_CONSUMIDAS] kcal até agora. Um [ALIMENTO] adiciona por volta de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos. Ajusta conforme necessário."
+    },
+    {
+      "pergunta": "Preciso de ideias para o lanche, tendo em conta que já consumi [KCAL_CONSUMIDAS] kcal. Alguma sugestão?",
+      "resposta": "Já tens [KCAL_CONSUMIDAS] kcal. Sugiro algo leve como fruta ou iogurte. Um [ALIMENTO] teria cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Estou a tentar não passar das [META_KCAL] kcal diárias. O [ALIMENTO] seria uma boa escolha?",
+      "resposta": "Com [ALIMENTO], acrescentarias cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono. Se tens [META_KCAL] de meta, vê se ainda cabe."
+    },
+    {
+      "pergunta": "Podes dizer-me quantas calorias tem um [ALIMENTO] médio, incluindo proteínas, lípidos e hidratos de carbono?",
+      "resposta": "Um [ALIMENTO] médio fica por volta de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Se quero manter-me abaixo de [META_KCAL] kcal, posso comer [ALIMENTO] agora?",
+      "resposta": "O [ALIMENTO] ronda [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono. Se couber em [META_KCAL], podes avançar."
+    },
+    {
+      "pergunta": "Comi um [ALIMENTO] ao almoço. Quantas calorias terá sido isso?",
+      "resposta": "Este [ALIMENTO] pode ter perto de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono, dependendo do tamanho."
+    },
+    {
+      "pergunta": "Posso incluir [ALIMENTO] na minha refeição, sabendo que já consumi [KCAL_CONSUMIDAS] kcal?",
+      "resposta": "Já consumiste [KCAL_CONSUMIDAS] kcal. Ao adicionares [ALIMENTO], soma cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Qual é a composição nutricional do [ALIMENTO] em termos de macronutrientes?",
+      "resposta": "O [ALIMENTO] costuma ter cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Tenho [KCAL_CONSUMIDAS] kcal acumuladas até agora. Um [ALIMENTO] tem quantas calorias?",
+      "resposta": "Se estás em [KCAL_CONSUMIDAS] kcal e o [ALIMENTO] acrescenta [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos, [HIDRATOS] g de hidratos, deves verificar se não excedes [META_KCAL]."
+    },
+    {
+      "pergunta": "Podes dizer-me as proteínas, lípidos e hidratos de carbono de [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] pode apresentar, em média, [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Achas que posso comer [ALIMENTO] ao lanche, se a minha meta são [META_KCAL] kcal?",
+      "resposta": "Para um lanche, um [ALIMENTO] costuma ter [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos. Confere se não passas das [META_KCAL]."
+    },
+    {
+      "pergunta": "Com base no que já consumi ([KCAL_CONSUMIDAS] kcal), é sensato comer [ALIMENTO] agora?",
+      "resposta": "Já estás em [KCAL_CONSUMIDAS] kcal. Um [ALIMENTO] acrescentaria cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos. Analisa bem."
+    },
+    {
+      "pergunta": "Qual seria um bom substituto para [ALIMENTO], de forma a não ultrapassar [META_KCAL] kcal?",
+      "resposta": "Podes procurar alternativas mais leves. Um [ALIMENTO] típico fica por volta de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Se comer [ALIMENTO], quantas calorias a mais fico de [META_KCAL]?",
+      "resposta": "Se o [ALIMENTO] tiver [CALORIAS] kcal e já estiveres em [KCAL_CONSUMIDAS], podes ultrapassar [META_KCAL]. Verifica antes."
+    },
+    {
+      "pergunta": "Quantas calorias faltam para atingir [META_KCAL] se comer um [ALIMENTO] com cerca de 300 kcal?",
+      "resposta": "Um [ALIMENTO] de [CALORIAS] kcal pode pôr-te próximo de [META_KCAL], consoante o que já ingeriste."
+    },
+    {
+      "pergunta": "Posso trocar o [ALIMENTO] do almoço por [ALIMENTO] ao jantar sem ultrapassar [META_KCAL]?",
+      "resposta": "Trocar [ALIMENTO] pelo outro [ALIMENTO] pode ajudar, mas cada um pode rondar [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos de carbono."
+    },
+    {
+      "pergunta": "Preciso de controlar os hidratos de carbono. Quantos tem [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] pode ter uns [HIDRATOS] g de hidratos numa porção média. Ajusta se queres limitar esse macronutriente."
+    },
+    {
+      "pergunta": "Já comi [KCAL_CONSUMIDAS] kcal hoje. O [ALIMENTO] adiciona muitas calorias?",
+      "resposta": "Se o [ALIMENTO] tiver [CALORIAS] kcal, pode ser muito se já consumiste [KCAL_CONSUMIDAS]. É preciso somar tudo."
+    },
+    {
+      "pergunta": "É boa ideia incluir [ALIMENTO] na ceia se quero manter-me perto de [META_KCAL] kcal?",
+      "resposta": "É uma opção viável, mas se as [CALORIAS] kcal de [ALIMENTO] te fazem passar [META_KCAL], escolhe algo mais leve."
+    },
+    {
+      "pergunta": "Quantas proteínas tem [ALIMENTO]? Tentei aumentar a ingestão de proteína.",
+      "resposta": "O [ALIMENTO] oferece cerca de [PROTEINAS] g de proteína, [CALORIAS] kcal, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Ainda me restam [META_KCAL] - [KCAL_CONSUMIDAS] kcal. [ALIMENTO] seria adequado?",
+      "resposta": "Se ainda tens [META_KCAL] - [KCAL_CONSUMIDAS] kcal disponíveis, um [ALIMENTO] com [CALORIAS] kcal pode encaixar bem."
+    },
+    {
+      "pergunta": "O [ALIMENTO] é rico em lípidos? Podias indicar-me também as calorias?",
+      "resposta": "O [ALIMENTO] pode ter cerca de [LIPIDOS] g de fat e cerca de [CALORIAS] kcal. É preciso controlar o total diário."
+    },
+    {
+      "pergunta": "Preciso de um snack até ao jantar. [ALIMENTO] encaixa bem na minha meta [META_KCAL]?",
+      "resposta": "Para um snack até ao jantar, [ALIMENTO] costuma ficar em [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos, cabendo em [META_KCAL]."
+    },
+    {
+      "pergunta": "Já consumi [KCAL_CONSUMIDAS] kcal. Devo escolher [ALIMENTO] ou algo mais leve?",
+      "resposta": "Se estás em [KCAL_CONSUMIDAS] kcal, um [ALIMENTO] com [CALORIAS] kcal talvez seja demais. Vê se não ultrapassa [META_KCAL]."
+    },
+    {
+      "pergunta": "Qual a diferença em calorias entre [ALIMENTO] e [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] ronda [CALORIAS] kcal enquanto outro [ALIMENTO] pode chegar a mais [CALORIAS] kcal, dependendo da receita."
+    },
+    {
+      "pergunta": "Se eu comer [ALIMENTO], quanto proteína estou a obter?",
+      "resposta": "Cada [ALIMENTO] pode fornecer perto de [PROTEINAS] g de proteína, variando com a receita."
+    },
+    {
+      "pergunta": "Tendo em conta os macronutrientes, é preferível [ALIMENTO] ou [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] está em torno de [CALORIAS] kcal. O outro [ALIMENTO] ronda [CALORIAS] kcal. Se queres menos calorias, escolhe o mais baixo."
+    },
+    {
+      "pergunta": "Como posso ficar dentro de [META_KCAL] se eu quiser [ALIMENTO] ao almoço?",
+      "resposta": "Para manter [META_KCAL], se o [ALIMENTO] tiver [CALORIAS] kcal, convém gerir os lípidos e hidratos no resto do dia."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] e [ALIMENTO] hoje. Acha que ainda posso comer [ALIMENTO]?",
+      "resposta": "Se comeste [ALIMENTO] e [ALIMENTO] hoje, já somaste bastantes calorias. Outro [ALIMENTO] com cerca de [CALORIAS] kcal pode ser demais."
+    },
+    {
+      "pergunta": "Quantos lípidos tem [ALIMENTO]? Estou a cortar na gordura.",
+      "resposta": "[ALIMENTO] pode ter [LIPIDOS] g de lípidos por porção e um total de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Preciso de uma sugestão para o almoço, considerando que já comi [KCAL_CONSUMIDAS] kcal.",
+      "resposta": "Se tens [KCAL_CONSUMIDAS] kcal, confere se cabe mais um [ALIMENTO] de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Quantas calorias tem uma refeição composta por [ALIMENTO] e [ALIMENTO]?",
+      "resposta": "Uma refeição com [ALIMENTO] e [ALIMENTO] chega a [CALORIAS] kcal no total, podendo ter [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Com [KCAL_CONSUMIDAS] kcal já ingeridas, posso jantar [ALIMENTO] sem exceder [META_KCAL]?",
+      "resposta": "Se já consumiste [KCAL_CONSUMIDAS], acrescentar [ALIMENTO] com cerca de [CALORIAS] kcal pode ultrapassar [META_KCAL]."
+    },
+    {
+      "pergunta": "Estou perto do limite de [META_KCAL]. Que opção tenho para comer algo leve?",
+      "resposta": "Se estás perto de [META_KCAL], algo como sopa ou salada (com menos de [CALORIAS] kcal) pode ser melhor."
+    },
+    {
+      "pergunta": "Se [ALIMENTO] tem cerca de 400 kcal, consigo encaixar isso na minha meta de [META_KCAL]?",
+      "resposta": "O [ALIMENTO] pode chegar a [CALORIAS] kcal e [HIDRATOS] g de hidratos. Verifica se cabe na meta [META_KCAL]."
+    },
+    {
+      "pergunta": "Quantos hidratos de carbono tem [ALIMENTO]? Preciso de controlar esse macronutriente.",
+      "resposta": "[ALIMENTO] pode ter [HIDRATOS] g de hidratos numa porção de [CALORIAS] kcal. Vê se não é demais para ti."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] e estou na dúvida se posso comer também [ALIMENTO].",
+      "resposta": "Se já comeste [ALIMENTO], e queres [ALIMENTO], soma as calorias para não passar [META_KCAL]."
+    },
+    {
+      "pergunta": "O [ALIMENTO] é adequado para quem quer ficar abaixo de [META_KCAL]?",
+      "resposta": "Sim, se couber em [META_KCAL]. Um [ALIMENTO] normal pode ter [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Quantas calorias restantes tenho se consumir [ALIMENTO] agora?",
+      "resposta": "Um [ALIMENTO] médio pode acrescentar [CALORIAS] kcal ao teu total. Se estás em [KCAL_CONSUMIDAS], faz as contas."
+    },
+    {
+      "pergunta": "Podes sugerir-me algo além de [ALIMENTO], pois já consumi [KCAL_CONSUMIDAS] kcal?",
+      "resposta": "Para não passares [META_KCAL], um [ALIMENTO] mais pequeno (menos de [CALORIAS] kcal) pode ser indicado."
+    },
+    {
+      "pergunta": "Consumi [KCAL_CONSUMIDAS] kcal. Se comer [ALIMENTO], chego a quantas?",
+      "resposta": "O [ALIMENTO] pode ter [HIDRATOS] g de hidratos numa porção e um total de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Preciso de uma opção rica em proteínas. [ALIMENTO] tem quantas gramas?",
+      "resposta": "Se já comeste [ALIMENTO], adiciona as [CALORIAS] kcal para ver se não excedes [META_KCAL]."
+    },
+    {
+      "pergunta": "O [ALIMENTO] passa muito das [META_KCAL] se eu já estiver em [KCAL_CONSUMIDAS]?",
+      "resposta": "O [ALIMENTO] encaixa se tiveres calorias disponíveis; normalmente ronda [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos, [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Disseste que [ALIMENTO] tem 300 kcal. Isso inclui os molhos?",
+      "resposta": "Se já estás em [KCAL_CONSUMIDAS], um [ALIMENTO] com [CALORIAS] kcal pode ultrapassar a meta [META_KCAL]."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] ao pequeno-almoço. Quantos hidratos de carbono foi isso?",
+      "resposta": "Um [ALIMENTO] médio pode ter [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Posso adicionar [ALIMENTO] à salada sem ultrapassar [META_KCAL]?",
+      "resposta": "Se estás a vigiar os lípidos, verifica se [ALIMENTO] tem [LIPIDOS] g. Pode ser significativo."
+    },
+    {
+      "pergunta": "Depois de [KCAL_CONSUMIDAS] kcal, uma porção de [ALIMENTO] é arriscada?",
+      "resposta": "Com [CALORIAS] kcal, o [ALIMENTO] pode esgotar o que falta para [META_KCAL]."
+    },
+    {
+      "pergunta": "Quero um jantar leve. [ALIMENTO] é recomendável?",
+      "resposta": "Geralmente, um [ALIMENTO] oferece [PROTEINAS] g de proteína com [CALORIAS] kcal em total."
+    },
+    {
+      "pergunta": "Estou de olho nos lípidos. [ALIMENTO] tem muitos?",
+      "resposta": "Se não queres ultrapassar [META_KCAL], podes evitar [ALIMENTO] se estás em [KCAL_CONSUMIDAS] e o prato é [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Quanta proteína tem [ALIMENTO] e quantas calorias posso poupar?",
+      "resposta": "Um [ALIMENTO] pode ter [CALORIAS] kcal, dependendo dos ingredientes. Confere antes."
+    },
+    {
+      "pergunta": "Já consumi [KCAL_CONSUMIDAS]. Falta-me muito para chegar às [META_KCAL] se comer [ALIMENTO]?",
+      "resposta": "Se o [ALIMENTO] tem [CALORIAS] kcal, podes comer meia porção ([CALORIAS]/2) para não exceder [META_KCAL]."
+    },
+    {
+      "pergunta": "Qual é a quantidade aproximada de hidratos de carbono num [ALIMENTO] normal?",
+      "resposta": "Para saber as proteínas e lípidos de [ALIMENTO], podes estimar [PROTEINAS] g de proteínas e [LIPIDOS] g de lípidos, num total de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Se comer [ALIMENTO] agora, passo das [META_KCAL]?",
+      "resposta": "O [ALIMENTO] com [CALORIAS] kcal e cerca de [PROTEINAS] g de proteína pode ser uma boa opção se precisas de equilíbrio."
+    },
+    {
+      "pergunta": "Gostava de saber se [ALIMENTO] é uma boa fonte de proteína.",
+      "resposta": "Se juntaste [ALIMENTO] a um sumo, a soma pode rondar [CALORIAS] kcal. Vê se ainda estás abaixo de [META_KCAL]."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] ao almoço e [ALIMENTO] ao lanche. Posso ainda comer [ALIMENTO]?",
+      "resposta": "Alguns [ALIMENTO] têm [HIDRATOS] g de hidratos, sendo bastante rico nesse macronutriente."
+    },
+    {
+      "pergunta": "Quantas calorias tem [ALIMENTO] e qual o teor de lípidos?",
+      "resposta": "Se estás em [KCAL_CONSUMIDAS] e [ALIMENTO] é [CALORIAS] kcal, podes ultrapassar a meta."
+    },
+    {
+      "pergunta": "É possível encaixar [ALIMENTO] na dieta se me faltam 300 kcal para chegar a [META_KCAL]?",
+      "resposta": "O [ALIMENTO] pode ter [LIPIDOS] g de lípidos por porção, mas há versões light com menos."
+    },
+    {
+      "pergunta": "Preciso de um almoço com poucas calorias. [ALIMENTO] serve?",
+      "resposta": "Em vez de [ALIMENTO], podes escolher algo com menos de [CALORIAS] kcal para não exceder [META_KCAL]."
+    },
+    {
+      "pergunta": "Podias dar-me os valores de kcal, proteínas, lípidos e hidratos de carbono de [ALIMENTO]?",
+      "resposta": "Se só te faltam 200 kcal para chegar a [META_KCAL], e [ALIMENTO] tem [CALORIAS], passarás do limite."
+    },
+    {
+      "pergunta": "Estou a tentar decidir entre [ALIMENTO] e [ALIMENTO]. Qual tem menos calorias?",
+      "resposta": "O [ALIMENTO] pode ter [PROTEINAS] g de proteína por 100 g, a cerca de [CALORIAS] kcal nessa quantidade."
+    },
+    {
+      "pergunta": "Se [ALIMENTO] tiver 250 kcal, fico em quantas se já comi [KCAL_CONSUMIDAS]?",
+      "resposta": "Um [ALIMENTO] para lanche pode rondar [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Quero uma sugestão para o jantar, pois já atingi [KCAL_CONSUMIDAS].",
+      "resposta": "Se estás em [KCAL_CONSUMIDAS], ao acrescentar [ALIMENTO] de [CALORIAS] kcal, somas tudo ao total."
+    },
+    {
+      "pergunta": "Com [META_KCAL] de limite, posso comer [ALIMENTO] duas vezes ao dia?",
+      "resposta": "Meia dose de [ALIMENTO] (~[CALORIAS]/2) ajuda-te a manter [META_KCAL]."
+    },
+    {
+      "pergunta": "Qual a quantidade de proteínas em [ALIMENTO] versus [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] pode ter uns [LIPIDOS] g de lípidos numa porção de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Estou a contar calorias. [ALIMENTO] tem quantas por porção?",
+      "resposta": "Acrescentar [ALIMENTO] com [CALORIAS] kcal põe-te em [KCAL_CONSUMIDAS] + [CALORIAS]. Vê se cabe na meta."
+    },
+    {
+      "pergunta": "Consegues dizer-me se um [ALIMENTO] de 300 g passa muito das [META_KCAL]?",
+      "resposta": "Juntando [ALIMENTO] e [ALIMENTO], podes chegar a [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] e [ALIMENTO]. Quantas kcal achas que ingeri?",
+      "resposta": "Se precisas de mais proteína, [ALIMENTO] pode oferecer [PROTEINAS] g, mas tem [CALORIAS] kcal também."
+    },
+    {
+      "pergunta": "Quantos lípidos tem [ALIMENTO], e será que cabe no meu plano de [META_KCAL]?",
+      "resposta": "Se já passaste [KCAL_CONSUMIDAS], comer [ALIMENTO] (com [CALORIAS] kcal) pode estourar a meta."
+    },
+    {
+      "pergunta": "É melhor comer [ALIMENTO] ao lanche ou ao jantar, tendo em conta os macronutrientes?",
+      "resposta": "Um [ALIMENTO] caseiro sem extras costuma rondar [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Já consumi [KCAL_CONSUMIDAS] kcal. Um [ALIMENTO] pequeno tem quantas?",
+      "resposta": "Se o [ALIMENTO] tiver cerca de [CALORIAS] kcal, podes comer metade (~[CALORIAS]/2) para ficar nos [META_KCAL]."
+    },
+    {
+      "pergunta": "Preciso de controlar hidratos de carbono. [ALIMENTO] é muito rico neles?",
+      "resposta": "Para calcular proteínas e lípidos de [ALIMENTO], estima uns [PROTEINAS] g de proteína e [LIPIDOS] g de lípidos em [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Se eu comer [ALIMENTO], vou ultrapassar [META_KCAL]?",
+      "resposta": "O [ALIMENTO] com [CALORIAS] kcal e [PROTEINAS] g de proteína pode servir se queres algo com poucas calorias e boa proteína."
+    },
+    {
+      "pergunta": "Podias recomendar um substituto para [ALIMENTO] com menos calorias?",
+      "resposta": "Se comeste [ALIMENTO] e um sumo, podes somar cerca de [CALORIAS] kcal no total. Verifica se não excedes [META_KCAL]."
+    },
+    {
+      "pergunta": "Quantas calorias ainda me sobram se optar por [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] pode ser maioritariamente hidratos (até [HIDRATOS] g) num total de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] em grande quantidade. Achas que ultrapassei [META_KCAL]?",
+      "resposta": "Comer um [ALIMENTO] agora ([CALORIAS] kcal) põe-te em [KCAL_CONSUMIDAS] + [CALORIAS]."
+    },
+    {
+      "pergunta": "O [ALIMENTO] tem quantas gramas de proteína por 100 g?",
+      "resposta": "O [ALIMENTO] pode ter [LIPIDOS] g de lípidos; há versões menos gordurosas."
+    },
+    {
+      "pergunta": "Preciso de um lanche rápido. [ALIMENTO] é baixo em calorias?",
+      "resposta": "Em vez de [ALIMENTO], podes escolher algo com menos de [CALORIAS] kcal para não exceder [META_KCAL]."
+    },
+    {
+      "pergunta": "Com [KCAL_CONSUMIDAS] já ingeridas, de quantas calorias é um [ALIMENTO] médio?",
+      "resposta": "Se só te faltam 200 kcal para chegar a [META_KCAL], e [ALIMENTO] é [CALORIAS], passarás do limite."
+    },
+    {
+      "pergunta": "Para não passar das [META_KCAL], posso comer apenas meia dose de [ALIMENTO]?",
+      "resposta": "O [ALIMENTO] pode oferecer [PROTEINAS] g de proteína por 100 g, a cerca de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "O [ALIMENTO] costuma ter muita gordura? Quantos lípidos por porção?",
+      "resposta": "Se comeres [ALIMENTO], adicionas cerca de [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Se adicionar [ALIMENTO] ao meu almoço, quantas kcal extra vai somar?",
+      "resposta": "Se comeste [ALIMENTO] ao pequeno-almoço por volta de [CALORIAS] kcal, ainda podes encaixar outras refeições se gerires bem as calorias até [META_KCAL]."
+    },
+    {
+      "pergunta": "Quantos hidratos de carbono tem [ALIMENTO] e [ALIMENTO] juntos?",
+      "resposta": "Se precisas de reduzir os lípidos, verifica quantos [LIPIDOS] g [ALIMENTO] contém."
+    },
+    {
+      "pergunta": "Estou a tentar aumentar proteína. [ALIMENTO] ajuda?",
+      "resposta": "Se o [ALIMENTO] tiver ~350 kcal, ficarás em [KCAL_CONSUMIDAS] + [CALORIAS]. Compara com [META_KCAL]."
+    },
+    {
+      "pergunta": "Já excedi [KCAL_CONSUMIDAS]. Devo evitar [ALIMENTO] completamente?",
+      "resposta": "Entre [ALIMENTO] ([CALORIAS] kcal) e [ALIMENTO] ([CALORIAS] kcal), escolhe o mais baixo para manter [META_KCAL]."
+    },
+    {
+      "pergunta": "Quantas calorias tem um [ALIMENTO] caseiro, sem molhos extra?",
+      "resposta": "O [ALIMENTO] com [PROTEINAS] g de proteína e [CALORIAS] kcal pode ajudar na recuperação pós-treino."
+    },
+    {
+      "pergunta": "Se o [ALIMENTO] tem cerca de 400 kcal, posso comer metade para ficar nos [META_KCAL]?",
+      "resposta": "Se o [ALIMENTO] tiver ~[HIDRATOS] g de hidratos, reduz os hidratos noutras refeições para equilibrar."
+    },
+    {
+      "pergunta": "Como calcular rapidamente proteínas e lípidos de [ALIMENTO]?",
+      "resposta": "Estás em [KCAL_CONSUMIDAS] kcal. O [ALIMENTO] pode ter [PROTEINAS] g de proteína mas também [CALORIAS] kcal. Decide se vale a pena."
+    },
+    {
+      "pergunta": "Preciso de ideias de refeições com poucas calorias e bastante proteína. [ALIMENTO] serve?",
+      "resposta": "Um [ALIMENTO] pequeno tem ~[CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos, [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] e um sumo. Quantas kcal devo somar ao total?",
+      "resposta": "O [ALIMENTO] é relativamente baixo em calorias, com cerca de [CALORIAS] kcal por porção."
+    },
+    {
+      "pergunta": "O [ALIMENTO] é maioritariamente hidratos de carbono? Quais os valores?",
+      "resposta": "Se estás em [KCAL_CONSUMIDAS], um [CALORIAS]-kcal [ALIMENTO] pode manter-te abaixo de [META_KCAL], dependendo do total."
+    },
+    {
+      "pergunta": "Se eu comer um [ALIMENTO] agora, vou passar muito dos [KCAL_CONSUMIDAS]?",
+      "resposta": "Se o [ALIMENTO] tem 20 g de proteínas, costuma ter entre [CALORIAS] kcal dependendo dos outros macros."
+    },
+    {
+      "pergunta": "Quantos lípidos tem [ALIMENTO], e há opção menos gordurosa?",
+      "resposta": "Um snack de [ALIMENTO] com [CALORIAS] kcal e [LIPIDOS] g de lípidos pode ser interessante."
+    },
+    {
+      "pergunta": "Há alguma alternativa a [ALIMENTO] para não ultrapassar [META_KCAL]?",
+      "resposta": "Se só tens 150 kcal até [META_KCAL], mas [ALIMENTO] é [CALORIAS], ultrapassarias o limite."
+    },
+    {
+      "pergunta": "Posso jantar [ALIMENTO] se me restam só 200 kcal até [META_KCAL]?",
+      "resposta": "Se [ALIMENTO] tiver 350 kcal, ultrapassarias a meta. Talvez escolhas algo mais leve."
+    },
+    {
+      "pergunta": "Quanta proteína tem [ALIMENTO] por cada 100 g e quantas kcal são?",
+      "resposta": "[ALIMENTO] pode oferecer [PROTEINAS] g de proteína por 100 g, a cerca de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Se eu comer [ALIMENTO], quantos hidratos de carbono estou a adicionar?",
+      "resposta": "Um [ALIMENTO] médio traz cerca de [HIDRATOS] g de hidratos, compondo as [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] ao pequeno-almoço. Será que chego ao jantar sem passar de [META_KCAL]?",
+      "resposta": "Se o [ALIMENTO] ao pequeno-almoço ronda [CALORIAS] kcal, ainda podes gerir o dia para ficar abaixo de [META_KCAL]."
+    },
+    {
+      "pergunta": "Preciso de reduzir os lípidos. [ALIMENTO] contém quantos?",
+      "resposta": "Verifica quantos [LIPIDOS] g o [ALIMENTO] tem. Pode ser preciso ajustares o resto da dieta."
+    },
+    {
+      "pergunta": "Se o [ALIMENTO] tiver 350 kcal, quantas kcal me restam se estou em [KCAL_CONSUMIDAS]?",
+      "resposta": "Chegarias a [KCAL_CONSUMIDAS] + [CALORIAS]. Compara com [META_KCAL] para não exceder."
+    },
+    {
+      "pergunta": "Qual é a melhor opção dentro dos [META_KCAL]: [ALIMENTO] ou [ALIMENTO]?",
+      "resposta": "Entre [ALIMENTO] ([CALORIAS] kcal) e [ALIMENTO] ([CALORIAS] kcal), escolhe o menor para ficar dentro de [META_KCAL]."
+    },
+    {
+      "pergunta": "Achas que [ALIMENTO] é um bom alimento pós-treino pelos macronutrientes?",
+      "resposta": "O [ALIMENTO] com [PROTEINAS] g de proteína e [CALORIAS] kcal pode ajudar na recuperação pós-treino."
+    },
+    {
+      "pergunta": "Como posso equilibrar os hidratos de carbono se comer [ALIMENTO]?",
+      "resposta": "Se o [ALIMENTO] tiver ~[HIDRATOS] g de hidratos, reduz carboidratos noutras refeições para compensar."
+    },
+    {
+      "pergunta": "Estou com [KCAL_CONSUMIDAS] kcal. [ALIMENTO] tem proteína suficiente para compensar?",
+      "resposta": "O [ALIMENTO] pode ter [PROTEINAS] g de proteína mas também [CALORIAS] kcal. Vê se encaixa na tua meta."
+    },
+    {
+      "pergunta": "Quantas kcal tem um [ALIMENTO] pequeno, e quantos lípidos?",
+      "resposta": "Um [ALIMENTO] pequeno tem cerca de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos."
+    },
+    {
+      "pergunta": "É verdade que [ALIMENTO] é baixo em calorias? Quantas tem?",
+      "resposta": "O [ALIMENTO] é relativamente baixo em calorias, com cerca de [CALORIAS] kcal por porção."
+    },
+    {
+      "pergunta": "Já atingi [KCAL_CONSUMIDAS]. É possível comer [ALIMENTO] e não passar das [META_KCAL]?",
+      "resposta": "Se o [ALIMENTO] tiver [CALORIAS] kcal, podes ainda encaixar se o total não exceder [META_KCAL]."
+    },
+    {
+      "pergunta": "Se o [ALIMENTO] tem 20 g de proteínas, quantas kcal terá em média?",
+      "resposta": "Geralmente, rondará [CALORIAS] kcal, pois depende também dos lípidos e hidratos."
+    },
+    {
+      "pergunta": "Preciso de um snack com baixo teor de lípidos. [ALIMENTO] encaixa?",
+      "resposta": "Um snack de [ALIMENTO] com [CALORIAS] kcal e [LIPIDOS] g de lípidos pode ser interessante."
+    },
+    {
+      "pergunta": "Posso comer [ALIMENTO] ao jantar se só me faltam 150 kcal para chegar a [META_KCAL]?",
+      "resposta": "Se [ALIMENTO] tiver [CALORIAS] e for superior a 150 kcal, vais ultrapassar [META_KCAL]."
+    },
+    {
+      "pergunta": "Qual é o teor de hidratos de carbono em [ALIMENTO], aproximadamente?",
+      "resposta": "Costuma ter cerca de [HIDRATOS] g de hidratos, dentro de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Se eu comer uma porção de [ALIMENTO], que impacto tem no total de [KCAL_CONSUMIDAS]?",
+      "resposta": "Um [ALIMENTO] de [CALORIAS] kcal levar-te-á a [KCAL_CONSUMIDAS] + [CALORIAS]."
+    },
+    {
+      "pergunta": "O [ALIMENTO] é aconselhável para uma dieta de [META_KCAL] kcal?",
+      "resposta": "Sim, desde que ajustes o resto das refeições. Geralmente, [ALIMENTO] tem [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Quantas proteínas consigo ao comer [ALIMENTO] e quantas calorias soma?",
+      "resposta": "O [ALIMENTO] costuma fornecer [PROTEINAS] g de proteína num total de [CALORIAS] kcal."
+    },
+    {
+      "pergunta": "Pode-se considerar [ALIMENTO] uma refeição equilibrada em macronutrientes?",
+      "resposta": "É razoavelmente equilibrado, mas confirma se [CALORIAS] kcal não te fazem ultrapassar [META_KCAL]."
+    },
+    {
+      "pergunta": "Comi [ALIMENTO] há pouco e estou quase em [KCAL_CONSUMIDAS]. Posso repetir?",
+      "resposta": "Se já tens [KCAL_CONSUMIDAS], repetir [ALIMENTO] com [CALORIAS] kcal pode estourar a meta."
+    },
+    {
+      "pergunta": "Quanta gordura há num [ALIMENTO], e isso afeta muito a minha meta de [META_KCAL]?",
+      "resposta": "Um [ALIMENTO] médio pode ter [LIPIDOS] g de gordura, o que pode pesar na tua meta de [META_KCAL]."
+    }
+  ],
+  "en": [
+    {
+      "question": "How many calories does [ALIMENTO] have?",
+      "answer": "[ALIMENTO] has about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I ate [ALIMENTO] for breakfast and I'm hungry now. Can I have [ALIMENTO] as a snack?",
+      "answer": "You've already consumed [KCAL_CONSUMIDAS] kcal out of [META_KCAL]. A [ALIMENTO] like this usually has around [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I need to know the macronutrients of [ALIMENTO]. Can you help?",
+      "answer": "Sure. [ALIMENTO] typically has [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "Can I still eat [ALIMENTO] for dinner if I've already had [KCAL_CONSUMIDAS] kcal?",
+      "answer": "If you've already had [KCAL_CONSUMIDAS] and your limit is [META_KCAL], [ALIMENTO] at [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs might be too much."
+    },
+    {
+      "question": "Is it possible to include [ALIMENTO] in my diet if my daily goal is [META_KCAL] kcal?",
+      "answer": "You can include it, but note that [ALIMENTO] is about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "Is [ALIMENTO] high in calories? How much protein, fat, and carbs does it have?",
+      "answer": "[ALIMENTO] usually comes in at [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. It might fit your diet."
+    },
+    {
+      "question": "If I had [ALIMENTO] for lunch, can I have [ALIMENTO] for dinner without exceeding [META_KCAL] kcal?",
+      "answer": "If you had [ALIMENTO] for lunch, watch out: the new [ALIMENTO] might add [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. Check your [META_KCAL]."
+    },
+    {
+      "question": "I've consumed [KCAL_CONSUMIDAS] kcal so far. How much should I adjust if I want to eat [ALIMENTO]?",
+      "answer": "You're currently at [KCAL_CONSUMIDAS] kcal. A [ALIMENTO] is roughly [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. Adjust accordingly."
+    },
+    {
+      "question": "I need snack ideas, given I've consumed [KCAL_CONSUMIDAS] kcal. Any suggestions?",
+      "answer": "You're at [KCAL_CONSUMIDAS] kcal. Perhaps fruit or yogurt instead of [ALIMENTO], which has around [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I'm trying not to surpass [META_KCAL] kcal daily. Would [ALIMENTO] be a good choice?",
+      "answer": "[ALIMENTO] adds about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. If you have a [META_KCAL] goal, see if it still fits."
+    },
+    {
+      "question": "Could you tell me how many calories a typical [ALIMENTO] has, including protein, fat, and carbs?",
+      "answer": "A typical [ALIMENTO] sits around [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "If I want to stay under [META_KCAL] kcal, can I have [ALIMENTO] now?",
+      "answer": "[ALIMENTO] is about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. If that fits your [META_KCAL], go for it."
+    },
+    {
+      "question": "I ate a [ALIMENTO] for lunch. How many calories was that?",
+      "answer": "A [ALIMENTO] is roughly [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs, depending on size."
+    },
+    {
+      "question": "Could I include [ALIMENTO] in my meal if I've already consumed [KCAL_CONSUMIDAS] kcal?",
+      "answer": "You've consumed [KCAL_CONSUMIDAS] kcal. Adding [ALIMENTO] can be another [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "What's the nutritional composition of [ALIMENTO] in terms of macronutrients?",
+      "answer": "[ALIMENTO] usually contains about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I'm currently at [KCAL_CONSUMIDAS] kcal. How many calories does a [ALIMENTO] usually have?",
+      "answer": "If you're already at [KCAL_CONSUMIDAS] and [ALIMENTO] adds [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, [HIDRATOS] g of carbs, see if it exceeds [META_KCAL]."
+    },
+    {
+      "question": "Can you tell me the protein, fat, and carb content of [ALIMENTO]?",
+      "answer": "[ALIMENTO] generally provides [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "Do you think I can have [ALIMENTO] for a snack if my daily goal is [META_KCAL] kcal?",
+      "answer": "For a snack, [ALIMENTO] is usually [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. Check if you can stay within [META_KCAL]."
+    },
+    {
+      "question": "Given I've consumed [KCAL_CONSUMIDAS] kcal, would it be sensible to eat [ALIMENTO] now?",
+      "answer": "You're at [KCAL_CONSUMIDAS] kcal. A [ALIMENTO] might be [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs. Think carefully."
+    },
+    {
+      "question": "What would be a good substitute for [ALIMENTO] so I don't exceed [META_KCAL] kcal?",
+      "answer": "You could choose a lighter alternative. A typical [ALIMENTO] has around [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "If I eat [ALIMENTO], how many calories above [META_KCAL] would I be?",
+      "answer": "If [ALIMENTO] is [CALORIAS] kcal and you're at [KCAL_CONSUMIDAS], you might go over [META_KCAL]."
+    },
+    {
+      "question": "How many calories would I have left to reach [META_KCAL] if I eat a [ALIMENTO] with about 300 kcal?",
+      "answer": "A [ALIMENTO] with [CALORIAS] kcal could put you close to [META_KCAL], depending on your intake so far."
+    },
+    {
+      "question": "Can I swap [ALIMENTO] at lunch for [ALIMENTO] at dinner without going over [META_KCAL]?",
+      "answer": "Swapping [ALIMENTO] for another might help, but each can be around [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "I need to control my carbs. How many does [ALIMENTO] have?",
+      "answer": "[ALIMENTO] has about [HIDRATOS] g of carbs per average portion. Adjust if you want to limit carbs."
+    },
+    {
+      "question": "I've already consumed [KCAL_CONSUMIDAS] kcal today. Does [ALIMENTO] add a lot of calories?",
+      "answer": "If [ALIMENTO] is [CALORIAS] kcal, it might be a lot if you've already had [KCAL_CONSUMIDAS]."
+    },
+    {
+      "question": "Is it a good idea to have [ALIMENTO] late at night if I want to stay near [META_KCAL] kcal?",
+      "answer": "It's viable, but if [ALIMENTO] is [CALORIAS] kcal and you'd surpass [META_KCAL], a lighter choice could be better."
+    },
+    {
+      "question": "How much protein does [ALIMENTO] have? I'm trying to boost my protein intake.",
+      "answer": "[ALIMENTO] offers roughly [PROTEINAS] g of protein, [CALORIAS] kcal, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I still have [META_KCAL] - [KCAL_CONSUMIDAS] kcal left. Would [ALIMENTO] fit?",
+      "answer": "If you have [META_KCAL] - [KCAL_CONSUMIDAS] left, a [ALIMENTO] with [CALORIAS] kcal could fit nicely."
+    },
+    {
+      "question": "Is [ALIMENTO] high in fat? Could you also tell me how many calories it has?",
+      "answer": "[ALIMENTO] might have [LIPIDOS] g of fat and about [CALORIAS] kcal. Keep track of your total."
+    },
+    {
+      "question": "I need a snack until dinner. Will [ALIMENTO] fit my [META_KCAL] goal?",
+      "answer": "A [ALIMENTO] for a snack has about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. It can fit [META_KCAL]."
+    },
+    {
+      "question": "I've consumed [KCAL_CONSUMIDAS] kcal so far. Should I choose [ALIMENTO] or something lighter?",
+      "answer": "If you're already at [KCAL_CONSUMIDAS], a [CALORIAS]-kcal [ALIMENTO] might be too much. Check if you'd surpass [META_KCAL]."
+    },
+    {
+      "question": "What's the difference in calories between [ALIMENTO] and [ALIMENTO]?",
+      "answer": "[ALIMENTO] is around [CALORIAS] kcal, while another [ALIMENTO] might be more. It depends on the recipe."
+    },
+    {
+      "question": "If I eat [ALIMENTO], how much protein am I getting?",
+      "answer": "Each [ALIMENTO] might give about [PROTEINAS] g of protein, while another could differ."
+    },
+    {
+      "question": "Considering macronutrients, is [ALIMENTO] or [ALIMENTO] better?",
+      "answer": "[ALIMENTO] is [CALORIAS] kcal. The other [ALIMENTO] might be [CALORIAS] as well. If you want fewer calories, pick the lower number."
+    },
+    {
+      "question": "How can I stay within [META_KCAL] if I want [ALIMENTO] for lunch?",
+      "answer": "To keep [META_KCAL], if [ALIMENTO] is [CALORIAS] kcal, watch your fat and carbs in other meals."
+    },
+    {
+      "question": "I had [ALIMENTO] and [ALIMENTO] today. Do you think I can still eat [ALIMENTO]?",
+      "answer": "If you've had [ALIMENTO] and [ALIMENTO] today, that's quite a few calories. Another [ALIMENTO] with [CALORIAS] kcal might be too high."
+    },
+    {
+      "question": "How much fat does [ALIMENTO] have? I'm cutting back on it.",
+      "answer": "[ALIMENTO] typically has about [LIPIDOS] g of fat, with [CALORIAS] kcal total."
+    },
+    {
+      "question": "I need a lunch suggestion, considering I've already had [KCAL_CONSUMIDAS] kcal.",
+      "answer": "If you're at [KCAL_CONSUMIDAS], see if you have room for another [ALIMENTO] of [CALORIAS] kcal."
+    },
+    {
+      "question": "How many calories are in a meal consisting of [ALIMENTO] and [ALIMENTO]?",
+      "answer": "A meal with [ALIMENTO] and [ALIMENTO] might reach [CALORIAS] kcal total, possibly [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "With [KCAL_CONSUMIDAS] already consumed, can I have [ALIMENTO] for dinner without exceeding [META_KCAL]?",
+      "answer": "If you've consumed [KCAL_CONSUMIDAS], adding [ALIMENTO] at [CALORIAS] kcal might push you over [META_KCAL]."
+    },
+    {
+      "question": "I'm close to my limit of [META_KCAL]. What are my options for a light meal?",
+      "answer": "If you're close to [META_KCAL], soup or salad at fewer than [CALORIAS] kcal might be better."
+    },
+    {
+      "question": "If [ALIMENTO] has about 400 kcal, can I still fit it in my [META_KCAL] goal?",
+      "answer": "[ALIMENTO] might be [CALORIAS] kcal with [HIDRATOS] g of carbs. Check if it fits your [META_KCAL]."
+    },
+    {
+      "question": "How many carbs does [ALIMENTO] have? I need to track this macronutrient.",
+      "answer": "[ALIMENTO] can have [HIDRATOS] g of carbs in a [CALORIAS] kcal portion. Be mindful."
+    },
+    {
+      "question": "I ate [ALIMENTO] and I'm wondering if I can also eat [ALIMENTO].",
+      "answer": "If you've eaten [ALIMENTO] and want [ALIMENTO], add both to see if you exceed [META_KCAL]."
+    },
+    {
+      "question": "Is [ALIMENTO] suitable for someone trying to stay under [META_KCAL]?",
+      "answer": "Yes, if it fits within [META_KCAL]. A typical [ALIMENTO] might be [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "How many remaining calories will I have if I eat [ALIMENTO] now?",
+      "answer": "A medium [ALIMENTO] might add [CALORIAS] kcal to your total. If you're at [KCAL_CONSUMIDAS], do the math."
+    },
+    {
+      "question": "Could you suggest something other than [ALIMENTO], since I've already consumed [KCAL_CONSUMIDAS] kcal?",
+      "answer": "To avoid exceeding [META_KCAL], a smaller [ALIMENTO] (less than [CALORIAS] kcal) could be indicated."
+    },
+    {
+      "question": "I've had [KCAL_CONSUMIDAS] kcal. If I eat [ALIMENTO], what does that bring me to?",
+      "answer": "[ALIMENTO] might have [HIDRATOS] g of carbs in a portion, totaling [CALORIAS] kcal."
+    },
+    {
+      "question": "I need a high-protein option. How many grams does [ALIMENTO] have?",
+      "answer": "If you've had [ALIMENTO], add [CALORIAS] kcal to see if it goes over [META_KCAL]."
+    },
+    {
+      "question": "Does [ALIMENTO] push me too far past [META_KCAL] if I've hit [KCAL_CONSUMIDAS]?",
+      "answer": "[ALIMENTO] can fit if you have enough calories left; it typically runs [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "You mentioned [ALIMENTO] has 300 kcal. Does that include sauces?",
+      "answer": "If you're already at [KCAL_CONSUMIDAS], a [CALORIAS]-kcal [ALIMENTO] might push you past [META_KCAL]."
+    },
+    {
+      "question": "I had [ALIMENTO] for breakfast. How many carbs was that?",
+      "answer": "A medium [ALIMENTO] might be [CALORIAS] kcal, with [PROTEINAS] g protein, [LIPIDOS] g fat, and [HIDRATOS] g carbs."
+    },
+    {
+      "question": "Can I add [ALIMENTO] to my salad without exceeding [META_KCAL]?",
+      "answer": "If you're watching fat, see if [ALIMENTO] has [LIPIDOS] g. It might be significant."
+    },
+    {
+      "question": "After [KCAL_CONSUMIDAS] kcal, is a portion of [ALIMENTO] risky?",
+      "answer": "At [CALORIAS] kcal, [ALIMENTO] might use up the remainder of your [META_KCAL]."
+    },
+    {
+      "question": "I want a light dinner. Is [ALIMENTO] recommended?",
+      "answer": "Generally, a [ALIMENTO] offers [PROTEINAS] g of protein with [CALORIAS] kcal in total."
+    },
+    {
+      "question": "I'm watching my fat intake. Does [ALIMENTO] contain a lot?",
+      "answer": "If you don't want to exceed [META_KCAL], you might avoid [ALIMENTO] if you're at [KCAL_CONSUMIDAS] and the dish is [CALORIAS] kcal."
+    },
+    {
+      "question": "How much protein does [ALIMENTO] have, and how many calories will I save?",
+      "answer": "A [ALIMENTO] can have [CALORIAS] kcal, depending on ingredients. Check first."
+    },
+    {
+      "question": "I've consumed [KCAL_CONSUMIDAS]. How far from [META_KCAL] would I be if I eat [ALIMENTO]?",
+      "answer": "If [ALIMENTO] has [CALORIAS] kcal, consider half ([CALORIAS]/2) to stay within [META_KCAL]."
+    },
+    {
+      "question": "Approximately how many carbs are in a normal [ALIMENTO]?",
+      "answer": "To estimate protein and fat in [ALIMENTO], assume about [PROTEINAS] g protein and [LIPIDOS] g fat in [CALORIAS] kcal."
+    },
+    {
+      "question": "If I eat [ALIMENTO] now, will I exceed [META_KCAL]?",
+      "answer": "[ALIMENTO] with [CALORIAS] kcal and around [PROTEINAS] g of protein might be a decent balanced choice."
+    },
+    {
+      "question": "I'd like to know if [ALIMENTO] is a good source of protein.",
+      "answer": "If you added [ALIMENTO] plus juice, it might total [CALORIAS] kcal. Check if you're still under [META_KCAL]."
+    },
+    {
+      "question": "I ate [ALIMENTO] at lunch and [ALIMENTO] as a snack. Can I still have [ALIMENTO]?",
+      "answer": "[ALIMENTO] may have up to [HIDRATOS] g of carbs, making it high in that macronutrient."
+    },
+    {
+      "question": "How many calories does [ALIMENTO] have and what about its fat content?",
+      "answer": "If you're at [KCAL_CONSUMIDAS] and [ALIMENTO] is [CALORIAS] kcal, you may exceed your goal."
+    },
+    {
+      "question": "Can I fit [ALIMENTO] in my diet if I only have 300 kcal left to reach [META_KCAL]?",
+      "answer": "[ALIMENTO] might contain [LIPIDOS] g of fat per serving, but there are lighter versions."
+    },
+    {
+      "question": "I need a low-calorie lunch. Would [ALIMENTO] work?",
+      "answer": "Instead of [ALIMENTO], opt for something under [CALORIAS] kcal so you don't exceed [META_KCAL]."
+    },
+    {
+      "question": "Could you provide the kcal, protein, fat, and carbs for [ALIMENTO]?",
+      "answer": "If you only have 200 kcal until [META_KCAL], and [ALIMENTO] is [CALORIAS], you'd go over."
+    },
+    {
+      "question": "I'm deciding between [ALIMENTO] and [ALIMENTO]. Which has fewer calories?",
+      "answer": "[ALIMENTO] might have [PROTEINAS] g of protein per 100 g, at [CALORIAS] kcal for that amount."
+    },
+    {
+      "question": "If [ALIMENTO] has 250 kcal, where does that put me if I've had [KCAL_CONSUMIDAS]?",
+      "answer": "A [ALIMENTO] snack might be [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "I want a dinner suggestion because I've already reached [KCAL_CONSUMIDAS].",
+      "answer": "If you're at [KCAL_CONSUMIDAS], adding a [CALORIAS]-kcal [ALIMENTO] raises your total."
+    },
+    {
+      "question": "With a limit of [META_KCAL], can I eat [ALIMENTO] twice a day?",
+      "answer": "Half a serving of [ALIMENTO] (~[CALORIAS]/2) might help you stay under [META_KCAL]."
+    },
+    {
+      "question": "How much protein is in [ALIMENTO] compared to [ALIMENTO]?",
+      "answer": "[ALIMENTO] can have about [LIPIDOS] g of fat in a [CALORIAS] kcal portion."
+    },
+    {
+      "question": "I'm counting calories. How many are in a portion of [ALIMENTO]?",
+      "answer": "Adding [ALIMENTO] at [CALORIAS] kcal puts you at [KCAL_CONSUMIDAS] + [CALORIAS]. Make sure it fits your total."
+    },
+    {
+      "question": "Could you tell me if a 300 g [ALIMENTO] goes far past [META_KCAL]?",
+      "answer": "Together, [ALIMENTO] and [ALIMENTO] might total [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "I ate [ALIMENTO] and [ALIMENTO]. How many kcal do you think I consumed?",
+      "answer": "If you need more protein, [ALIMENTO] provides [PROTEINAS] g, though it's [CALORIAS] kcal."
+    },
+    {
+      "question": "How much fat does [ALIMENTO] have, and does it fit my [META_KCAL] plan?",
+      "answer": "If you've passed [KCAL_CONSUMIDAS], [ALIMENTO] with [CALORIAS] kcal might break your limit."
+    },
+    {
+      "question": "Is it better to have [ALIMENTO] for a snack or dinner, given the macronutrients?",
+      "answer": "A homemade [ALIMENTO] without sauces is about [CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "I've consumed [KCAL_CONSUMIDAS] kcal. How many does a small [ALIMENTO] have?",
+      "answer": "If [ALIMENTO] has around [CALORIAS] kcal, half (~[CALORIAS]/2) might let you stay under [META_KCAL]."
+    },
+    {
+      "question": "I need to watch my carbs. Is [ALIMENTO] high in them?",
+      "answer": "The quickest way is to assume ~[PROTEINAS] g protein and [LIPIDOS] g fat for [CALORIAS] kcal of [ALIMENTO]."
+    },
+    {
+      "question": "If I eat [ALIMENTO], will I go over [META_KCAL]?",
+      "answer": "For a meal with few calories and decent protein, [ALIMENTO] at [CALORIAS] kcal might work."
+    },
+    {
+      "question": "Could you recommend a substitute for [ALIMENTO] with fewer calories?",
+      "answer": "If you had [ALIMENTO] plus juice, that's around [CALORIAS] kcal. See if you're under [META_KCAL]."
+    },
+    {
+      "question": "How many calories will I have left if I pick [ALIMENTO]?",
+      "answer": "[ALIMENTO] could be mostly carbs (~[HIDRATOS] g), making up its [CALORIAS] kcal."
+    },
+    {
+      "question": "I ate a lot of [ALIMENTO]. Do you think I went over [META_KCAL]?",
+      "answer": "Eating a [ALIMENTO] now ([CALORIAS] kcal) puts you at [KCAL_CONSUMIDAS] + [CALORIAS]."
+    },
+    {
+      "question": "How many grams of protein per 100 g does [ALIMENTO] have?",
+      "answer": "[ALIMENTO] might have [LIPIDOS] g of fat; there's a less fatty alternative."
+    },
+    {
+      "question": "I need a quick snack. Is [ALIMENTO] low in calories?",
+      "answer": "Another option besides [ALIMENTO] is something under [CALORIAS] kcal, to not exceed [META_KCAL]."
+    },
+    {
+      "question": "With [KCAL_CONSUMIDAS] already, how many calories is a typical [ALIMENTO]?",
+      "answer": "If you only have 200 kcal left to [META_KCAL], and [ALIMENTO] is [CALORIAS], you'd go over."
+    },
+    {
+      "question": "To avoid going over [META_KCAL], can I eat only half of [ALIMENTO]?",
+      "answer": "[ALIMENTO] might offer [PROTEINAS] g of protein per 100 g, at around [CALORIAS] kcal."
+    },
+    {
+      "question": "Does [ALIMENTO] usually contain a lot of fat? How many grams per serving?",
+      "answer": "If you eat [ALIMENTO], you'd add about [HIDRATOS] g of carbs."
+    },
+    {
+      "question": "If I add [ALIMENTO] to my lunch, how many extra kcal is that?",
+      "answer": "Having [ALIMENTO] for breakfast at ~[CALORIAS] kcal could still work if you manage the rest of your day within [META_KCAL]."
+    },
+    {
+      "question": "How many carbs do [ALIMENTO] and [ALIMENTO] have together?",
+      "answer": "If you need to cut down on fat, check how many grams [ALIMENTO] has. Possibly [LIPIDOS] g."
+    },
+    {
+      "question": "I'm trying to up my protein. Does [ALIMENTO] help?",
+      "answer": "If [ALIMENTO] is ~350 kcal, you'd be at [KCAL_CONSUMIDAS] + [CALORIAS]. Compare that to [META_KCAL]."
+    },
+    {
+      "question": "I've already passed [KCAL_CONSUMIDAS]. Should I avoid [ALIMENTO] entirely?",
+      "answer": "Between [ALIMENTO] ([CALORIAS] kcal) and [ALIMENTO] ([CALORIAS] kcal), pick the lower one to stay under [META_KCAL]."
+    },
+    {
+      "question": "How many calories does a homemade [ALIMENTO] have without extra sauces?",
+      "answer": "[ALIMENTO] with [PROTEINAS] g of protein and [CALORIAS] kcal can help recovery post-workout."
+    },
+    {
+      "question": "If [ALIMENTO] has around 400 kcal, maybe I can eat half to stay within [META_KCAL].",
+      "answer": "If [ALIMENTO] has ~[HIDRATOS] g of carbs, reduce carbs elsewhere to balance."
+    },
+    {
+      "question": "What's the quickest way to estimate protein and fat in [ALIMENTO]?",
+      "answer": "You're at [KCAL_CONSUMIDAS] kcal. [ALIMENTO] might have [PROTEINAS] g protein but also [CALORIAS] kcal. Decide if it's worthwhile."
+    },
+    {
+      "question": "I need meal ideas with few calories and decent protein. Does [ALIMENTO] work?",
+      "answer": "A small [ALIMENTO] is ~[CALORIAS] kcal, [PROTEINAS] g protein, [LIPIDOS] g fat, [HIDRATOS] g carbs."
+    },
+    {
+      "question": "I had [ALIMENTO] and a juice. How many kcal might that be in total?",
+      "answer": "[ALIMENTO] is relatively low in calories at around [CALORIAS] kcal per serving."
+    },
+    {
+      "question": "Is [ALIMENTO] mostly carbs? What's the breakdown?",
+      "answer": "If you're at [KCAL_CONSUMIDAS], a [CALORIAS]-kcal [ALIMENTO] might keep you under [META_KCAL], depending on totals."
+    },
+    {
+      "question": "If I eat a [ALIMENTO] now, will I add a lot to my [KCAL_CONSUMIDAS]?",
+      "answer": "If [ALIMENTO] has 20 g of protein, it usually has around [CALORIAS] kcal, depending on other macros."
+    },
+    {
+      "question": "How much fat is in [ALIMENTO], and is there a less fatty alternative?",
+      "answer": "A [ALIMENTO] snack with [CALORIAS] kcal and [LIPIDOS] g of fat might be suitable."
+    },
+    {
+      "question": "Is there another option besides [ALIMENTO] so I don't exceed [META_KCAL]?",
+      "answer": "If you only have 150 kcal left, but [ALIMENTO] is [CALORIAS], you'd exceed [META_KCAL]."
+    }
+  ]
+}
