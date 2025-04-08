@@ -7,7 +7,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 QA_DATA_PATH = "app/data/qa_pt_en.json"
-MODEL_PATH = "app/data/models/modelo_QA_xlm-roberta_best"
+MODEL_PATH = "app/data/models/modelo_QA_all-mpnet-base-v2_best_v2"
 
 logger.info(f"Carregando modelo de QA: {MODEL_PATH}")
 qa_model = SentenceTransformer(MODEL_PATH)
@@ -22,19 +22,19 @@ qa_embeddings = qa_model.encode(qa_questions, convert_to_tensor=True, normalize_
 logger.info(f"Total de perguntas QA carregadas: {len(qa_questions)}")
 
 def preencher_template_resposta(template: str, alimento_info: dict, contexto: dict = {}) -> str:
-    substituicoes = {
-        "[ALIMENTO]": alimento_info.get("food_name", ""),
-        "[CALORIAS]": f"{alimento_info.get('kcal', 0):.0f}",
-        "[PROTEINAS]": f"{alimento_info.get('protein', 0):.1f}",
-        "[LIPIDOS]": f"{alimento_info.get('fat', 0):.1f}",
-        "[HIDRATOS]": f"{alimento_info.get('carb', 0):.1f}",
-        "[INGREDIENTES]": alimento_info.get("ingredients", ""),
-        "[META_KCAL]" : 2000,
-        "[KCAL_CONSUMIDAS]" : 500
-    }
-    substituicoes.update(contexto)
-    for chave, valor in substituicoes.items():
-        template = template.replace(chave, str(valor))
+    # substituicoes = {
+    #     "[ALIMENTO]": alimento_info.get("food_name", ""),
+    #     "[CALORIAS]": f"{alimento_info.get('kcal', 0):.0f}",
+    #     "[PROTEINAS]": f"{alimento_info.get('protein', 0):.1f}",
+    #     "[LIPIDOS]": f"{alimento_info.get('fat', 0):.1f}",
+    #     "[HIDRATOS]": f"{alimento_info.get('carb', 0):.1f}",
+    #     "[INGREDIENTES]": alimento_info.get("ingredients", ""),
+    #     "[META_KCAL]" : 2000,
+    #     "[KCAL_CONSUMIDAS]" : 500
+    # }
+    # substituicoes.update(contexto)
+    #for chave, valor in substituicoes.items():
+    #    template = template.replace(chave, str(valor))
     return template
 
 def responder_com_template(user_query: str, alimento_info: dict, contexto: dict = {}):

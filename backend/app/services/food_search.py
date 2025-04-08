@@ -31,4 +31,4 @@ def search_food(user_query, top_k=3):
             "fat": df["TOTAL LIPID (FAT) (G)"].iloc[row_idx],
             "carb": df["CARBOHYDRATE, BY DIFFERENCE (G)"].iloc[row_idx],
         })
-    return results
+    return True

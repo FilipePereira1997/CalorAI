@@ -1,0 +1,377 @@
+[
+  { "question": "How many calories does {FOOD} have per 100g?", "answer": "{FOOD} contains approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates per 100g serving." },
+  { "question": "What is the nutritional breakdown of {FOOD} per 100g?", "answer": "A 100g serving of {FOOD} provides about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you tell me the calorie content of {FOOD} per 100g?", "answer": "Per 100g, {FOOD} delivers roughly {CALORIES} kcal, along with {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates." },
+  { "question": "What are the macronutrients in 100g of {FOOD}?", "answer": "100g of {FOOD} contains approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How does {FOOD} score nutritionally per 100g serving?", "answer": "A 100g serving of {FOOD} has about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Could you provide the nutrient profile for {FOOD} per 100g?", "answer": "For every 100g, {FOOD} offers around {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the energy content of {FOOD} per 100g?", "answer": "Each 100g serving of {FOOD} supplies approximately {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many kilocalories are there in 100g of {FOOD}?", "answer": "In 100g of {FOOD}, you get about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What are the calories and macros of {FOOD} per 100g?", "answer": "100g of {FOOD} typically contains {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Give me the nutritional information for {FOOD} per 100g.", "answer": "A 100g serving of {FOOD} is approximately {CALORIES} kcal, with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the per 100g nutritional value of {FOOD}?", "answer": "{FOOD} per 100g provides about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Detail the nutritional content of {FOOD} per 100g.", "answer": "Per 100g, {FOOD} offers roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you list the macronutrients for 100g of {FOOD}?", "answer": "Sure, 100g of {FOOD} contains about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many kcal does 100g of {FOOD} contain?", "answer": "100g of {FOOD} contains approximately {CALORIES} kcal, plus {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What nutrient information is available for {FOOD} per 100g?", "answer": "{FOOD} per 100g provides around {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Provide the macro breakdown for a 100g serving of {FOOD}.", "answer": "A 100g serving of {FOOD} typically offers {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What does 100g of {FOOD} offer in terms of calories and nutrients?", "answer": "100g of {FOOD} supplies about {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Show the nutritional profile for {FOOD} per 100g serving.", "answer": "Per 100g, {FOOD} provides approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the caloric and macronutrient content of 100g of {FOOD}?", "answer": "A 100g serving of {FOOD} has about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many calories and macronutrients are present in 100g of {FOOD}?", "answer": "In 100g of {FOOD}, you will find approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the macro composition of {FOOD} per 100g?", "answer": "Per 100g serving, {FOOD} contains around {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many energy calories are in 100g of {FOOD}?", "answer": "100g of {FOOD} provides roughly {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you detail the energy and macronutrient content of {FOOD} per 100g?", "answer": "A 100g portion of {FOOD} offers about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the food composition of {FOOD} per 100g?", "answer": "Per 100g, {FOOD} is composed of approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Could you break down the nutritional content of 100g of {FOOD}?", "answer": "Certainly, 100g of {FOOD} contains about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What are the energy and nutrient values for {FOOD} per 100g?", "answer": "A 100g serving of {FOOD} delivers roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How does 100g of {FOOD} contribute to my nutritional needs?", "answer": "100g of {FOOD} provides approximately {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, which can help meet your daily requirements." },
+  { "question": "What is the detailed nutritional profile of {FOOD} per 100g?", "answer": "{FOOD} per 100g serves up about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you give me the breakdown of calories, protein, fat, and carbs in 100g of {FOOD}?", "answer": "In 100g of {FOOD}, you will find around {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What nutritional information is provided for {FOOD} on a per 100g basis?", "answer": "For every 100g, {FOOD} offers approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many calories does a 100g serving of {FOOD} deliver?", "answer": "A 100g serving of {FOOD} typically delivers around {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the approximate energy content of {FOOD} per 100g?", "answer": "Each 100g portion of {FOOD} contains about {CALORIES} kcal, as well as {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Please provide the macronutrient details for {FOOD} per 100g.", "answer": "Per 100g, {FOOD} provides roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How much energy does {FOOD} offer per 100g serving?", "answer": "A 100g serving of {FOOD} offers approximately {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the caloric value of {FOOD} when measured per 100g?", "answer": "{FOOD} has about {CALORIES} kcal per 100g, plus {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you provide details on the calorie and macronutrient content of {FOOD} per 100g?", "answer": "Sure, 100g of {FOOD} contains roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the macro and calorie composition of 100g of {FOOD}?", "answer": "A 100g portion of {FOOD} contains approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Could you share the nutritional details for 100g of {FOOD}?", "answer": "In 100g of {FOOD}, there are about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What are the calorie and macronutrient stats for {FOOD} per 100g?", "answer": "A 100g serving of {FOOD} typically has {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How does {FOOD} nutritionally compare on a 100g basis?", "answer": "Per 100g, {FOOD} provides around {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the nutrient composition of a 100g portion of {FOOD}?", "answer": "A 100g portion of {FOOD} offers roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you outline the energy and macronutrient content of {FOOD} per 100g?", "answer": "Each 100g serving of {FOOD} contains about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How many calories are present in a 100g serving of {FOOD}?", "answer": "A 100g serving of {FOOD} contains approximately {CALORIES} kcal, plus {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What nutritional benefits does 100g of {FOOD} offer?", "answer": "Per 100g, {FOOD} provides about {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, contributing to a balanced diet." },
+  { "question": "How does the nutritional content of {FOOD} measure up per 100g?", "answer": "100g of {FOOD} typically offers {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the calorie density of {FOOD} per 100g?", "answer": "{FOOD} has a calorie density of approximately {CALORIES} kcal per 100g, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you detail the per 100g energy and nutrient values for {FOOD}?", "answer": "A 100g serving of {FOOD} provides roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What are the per 100g nutritional metrics for {FOOD}?", "answer": "For every 100g, {FOOD} offers approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How much nutritional value does 100g of {FOOD} hold?", "answer": "100g of {FOOD} contains about {CALORIES} kcal, with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the per 100g nutritional content of {FOOD}?", "answer": "A 100g serving of {FOOD} typically has {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Provide the detailed nutritional data for {FOOD} per 100g.", "answer": "{FOOD} offers approximately {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates per 100g serving." },
+  { "question": "What macronutrient information is available for {FOOD} per 100g?", "answer": "Per 100g, {FOOD} provides roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "How does a 100g serving of {FOOD} contribute to my daily nutrients?", "answer": "A 100g portion of {FOOD} supplies about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the overall nutritional content of {FOOD} per 100g?", "answer": "Each 100g serving of {FOOD} contains approximately {CALORIES} kcal, along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can you break down the nutritional stats of {FOOD} for a 100g serving?", "answer": "For every 100g, {FOOD} typically contains {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "What is the energy and macronutrient profile of {FOOD} per 100g serving?", "answer": "A 100g serving of {FOOD} generally provides about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates." },
+  { "question": "Can I include {FOOD} in my diet if I've already consumed {CALORIES_CONSUMED} kcal today?", "answer": "If you've already consumed {CALORIES_CONSUMED} kcal, a 100g serving of {FOOD} with {CALORIES} kcal should be considered within your {DAILY_CALORIE_GOAL}." },
+  { "question": "Will 100g of {FOOD} exceed my daily calorie goal of {DAILY_CALORIE_GOAL} kcal?", "answer": "A 100g serving of {FOOD} contains about {CALORIES} kcal, so check if this fits within your daily limit of {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How does 100g of {FOOD} fit into my daily intake if my goal is {DAILY_CALORIE_GOAL} kcal?", "answer": "Considering a 100g serving of {FOOD} provides {CALORIES} kcal, factor this into your daily target of {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Is it okay to eat 100g of {FOOD} when I've already had {CALORIES_CONSUMED} kcal today?", "answer": "If you've consumed {CALORIES_CONSUMED} kcal, a 100g portion of {FOOD} with {CALORIES} kcal needs to be balanced against your {DAILY_CALORIE_GOAL}." },
+  { "question": "Does 100g of {FOOD} fit within a daily limit of {DAILY_CALORIE_GOAL} kcal?", "answer": "A 100g serving of {FOOD} has {CALORIES} kcal, so it should be considered in the context of your {DAILY_CALORIE_GOAL}." },
+  { "question": "Will consuming 100g of {FOOD} affect my calorie intake if I've reached {CALORIES_CONSUMED} kcal?", "answer": "Adding a 100g serving of {FOOD} with {CALORIES} kcal to your current {CALORIES_CONSUMED} kcal may impact your daily goal of {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How does a 100g serving of {FOOD} contribute to my daily calorie count of {DAILY_CALORIE_GOAL} kcal?", "answer": "Since 100g of {FOOD} provides {CALORIES} kcal, it contributes directly to your daily intake, which is {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Can I still have 100g of {FOOD} if my current intake is {CALORIES_CONSUMED} kcal?", "answer": "It depends on your {DAILY_CALORIE_GOAL}. A 100g serving of {FOOD} with {CALORIES} kcal will add to your {CALORIES_CONSUMED}." },
+  { "question": "Does eating 100g of {FOOD} help me stay within a {DAILY_CALORIE_GOAL} kcal daily limit?", "answer": "If 100g of {FOOD} provides {CALORIES} kcal, ensure that your total intake, including this, doesn't exceed {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How much does 100g of {FOOD} count towards my {DAILY_CALORIE_GOAL} kcal daily limit?", "answer": "A 100g serving of {FOOD} adds {CALORIES} kcal to your daily intake, so factor this into your {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Is 100g of {FOOD} a significant portion for someone with a {DAILY_CALORIE_GOAL} kcal limit?", "answer": "With {CALORIES} kcal per 100g, {FOOD} can be significant, especially if you have already consumed {CALORIES_CONSUMED} kcal." },
+  { "question": "Should I adjust my meals if I add 100g of {FOOD} containing {CALORIES} kcal to my diet?", "answer": "Yes, since 100g of {FOOD} adds {CALORIES} kcal, consider this if your goal is {DAILY_CALORIE_GOAL} kcal and you've already had {CALORIES_CONSUMED} kcal." },
+  { "question": "Can 100g of {FOOD} fit into my daily calorie plan of {DAILY_CALORIE_GOAL} kcal?", "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal, so check it against your daily plan of {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How do I balance 100g of {FOOD} with a current intake of {CALORIES_CONSUMED} kcal?", "answer": "You need to consider that 100g of {FOOD} adds {CALORIES} kcal, which should be balanced within your {DAILY_CALORIE_GOAL}." },
+  { "question": "If I consume 100g of {FOOD} with {CALORIES} kcal, how close will I be to my daily goal of {DAILY_CALORIE_GOAL} kcal?", "answer": "Adding 100g of {FOOD} ({CALORIES} kcal) to your current {CALORIES_CONSUMED} kcal may bring you near or over your {DAILY_CALORIE_GOAL}." },
+  { "question": "Will a 100g serving of {FOOD} interfere with my calorie deficit plan if I have {CALORIES_CONSUMED} kcal already?", "answer": "Since 100g of {FOOD} provides {CALORIES} kcal, it may affect your calorie deficit, especially if you're close to your {DAILY_CALORIE_GOAL}." },
+  { "question": "Is it possible to enjoy 100g of {FOOD} without exceeding a {DAILY_CALORIE_GOAL} kcal limit?", "answer": "Yes, as long as the {CALORIES} kcal from 100g of {FOOD} fits within your remaining calories from {DAILY_CALORIE_GOAL} after {CALORIES_CONSUMED}." },
+  { "question": "How does a 100g portion of {FOOD} impact my calorie count if I've already reached {CALORIES_CONSUMED} kcal?", "answer": "A 100g serving of {FOOD} adds {CALORIES} kcal, which must be considered against your {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Can I integrate 100g of {FOOD} into my meal plan without breaching my {DAILY_CALORIE_GOAL} kcal?", "answer": "Incorporate 100g of {FOOD} (with {CALORIES} kcal) carefully if you've already consumed {CALORIES_CONSUMED} kcal and aim for {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "What adjustments should I make if I add a 100g serving of {FOOD} to my {DAILY_CALORIE_GOAL} kcal diet?", "answer": "Since 100g of {FOOD} provides {CALORIES} kcal, you may need to reduce other portions to stay within your {DAILY_CALORIE_GOAL}." },
+  { "question": "Does 100g of {FOOD} significantly contribute to my daily intake when my target is {DAILY_CALORIE_GOAL} kcal?", "answer": "With 100g of {FOOD} supplying {CALORIES} kcal, its contribution should be measured against your {DAILY_CALORIE_GOAL} and current {CALORIES_CONSUMED}." },
+  { "question": "Will adding 100g of {FOOD} with {CALORIES} kcal cause me to overshoot my {DAILY_CALORIE_GOAL} kcal?", "answer": "It might, especially if {CALORIES_CONSUMED} is already high; consider the {CALORIES} kcal from 100g of {FOOD} in your total." },
+  { "question": "Is a 100g serving of {FOOD} advisable if I'm targeting {DAILY_CALORIE_GOAL} kcal per day?", "answer": "A 100g portion of {FOOD} offers {CALORIES} kcal, so it should be factored into your daily limit of {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How does a 100g serving of {FOOD} affect my progress towards a {DAILY_CALORIE_GOAL} kcal diet?", "answer": "Adding 100g of {FOOD} with {CALORIES} kcal will contribute to your daily total and should be aligned with your {DAILY_CALORIE_GOAL}." },
+  { "question": "If my calorie consumption is {CALORIES_CONSUMED} kcal, can 100g of {FOOD} fit in without overloading my {DAILY_CALORIE_GOAL} kcal?", "answer": "It depends on the value of {CALORIES}; ensure that 100g of {FOOD} (with {CALORIES} kcal) plus {CALORIES_CONSUMED} remains below {DAILY_CALORIE_GOAL}." },
+  { "question": "Can you tell if 100g of {FOOD} will keep me within a {DAILY_CALORIE_GOAL} kcal limit?", "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal, so verify that your total intake including this does not exceed {DAILY_CALORIE_GOAL}." },
+  { "question": "Is incorporating 100g of {FOOD} a good idea if I've already eaten {CALORIES_CONSUMED} kcal today?", "answer": "Consider that 100g of {FOOD} adds {CALORIES} kcal; balance it with your {DAILY_CALORIE_GOAL} and current {CALORIES_CONSUMED}." },
+  { "question": "Does a 100g serving of {FOOD} work with a diet capped at {DAILY_CALORIE_GOAL} kcal?", "answer": "Since 100g of {FOOD} offers {CALORIES} kcal, check if adding it to your {CALORIES_CONSUMED} keeps you under {DAILY_CALORIE_GOAL}." },
+  { "question": "How do I fit 100g of {FOOD} into a daily plan of {DAILY_CALORIE_GOAL} kcal?", "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal, so integrate it by adjusting other meals to meet your {DAILY_CALORIE_GOAL}." },
+  { "question": "Will a 100g portion of {FOOD} hinder my calorie-restricted diet of {DAILY_CALORIE_GOAL} kcal?", "answer": "It could, if {CALORIES} kcal from 100g of {FOOD} pushes your total beyond {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "If I want to stay under {DAILY_CALORIE_GOAL} kcal, should I avoid 100g servings of {FOOD}?", "answer": "Not necessarily, but you must account for the {CALORIES} kcal in 100g of {FOOD} alongside your current {CALORIES_CONSUMED}." },
+  { "question": "How does consuming 100g of {FOOD} align with a daily intake of {DAILY_CALORIE_GOAL} kcal?", "answer": "A 100g serving of {FOOD} contributes {CALORIES} kcal, so it should be considered as part of your overall {DAILY_CALORIE_GOAL}." },
+  { "question": "What is the impact of a 100g serving of {FOOD} on my daily calories if I've had {CALORIES_CONSUMED} kcal?", "answer": "With 100g of {FOOD} adding {CALORIES} kcal, assess whether {CALORIES_CONSUMED} plus {CALORIES} stays within {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Is it feasible to consume 100g of {FOOD} on a {DAILY_CALORIE_GOAL} kcal diet?", "answer": "It is, provided that the {CALORIES} kcal from 100g of {FOOD} doesn't cause your total to exceed {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "How does the calorie content of 100g of {FOOD} affect my daily plan if my limit is {DAILY_CALORIE_GOAL} kcal?", "answer": "Since 100g of {FOOD} provides {CALORIES} kcal, you need to ensure your intake remains under {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Can 100g of {FOOD} be included in a meal plan with a {DAILY_CALORIE_GOAL} of {DAILY_CALORIE_GOAL} kcal?", "answer": "Yes, as long as the {CALORIES} kcal from 100g of {FOOD} is factored into your total intake and stays within {DAILY_CALORIE_GOAL} kcal." },
+  { "question": "Can I modify my diet to accommodate a 100g serving of {FOOD} with {CALORIES} kcal?", "answer": "You can adjust your meal portions so that 100g of {FOOD} (with {CALORIES} kcal) fits within your {DAILY_CALORIE_GOAL}." },
+  { "question": "What adjustments are needed if I add 100g of {FOOD} to my daily intake?", "answer": "Consider reducing calories in other meals, as 100g of {FOOD} adds {CALORIES} kcal to your total." },
+  { "question": "Does a 100g portion of {FOOD} fit within my remaining calories for the day?", "answer": "It depends on your current intake. A 100g serving of {FOOD} provides {CALORIES} kcal, so ensure it fits within your {DAILY_CALORIE_GOAL}." },
+  { "question": "Will a 100g serving of {FOOD} be a problem if I have a low remaining calorie allowance?", "answer": "If your remaining calories are low, 100g of {FOOD} with {CALORIES} kcal might exceed your {DAILY_CALORIE_GOAL}." },
+  { "question": "How should I plan my meals if 100g of {FOOD} adds {CALORIES} kcal to my day?", "answer": "You may need to reduce portion sizes of other foods to accommodate the {CALORIES} kcal from 100g of {FOOD} within your {DAILY_CALORIE_GOAL}." },
+  { "question": "Does including 100g of {FOOD} jeopardize my calorie budget of {DAILY_CALORIE_GOAL} kcal?", "answer": "Monitor your intake, as 100g of {FOOD} contributes {CALORIES} kcal, which might push you over if not managed properly." },
+  { "question": "Can a 100g serving of {FOOD} be part of a balanced diet within {DAILY_CALORIE_GOAL} kcal?", "answer": "Yes, as long as the {CALORIES} kcal from 100g of {FOOD} is balanced with other nutrient sources to meet your {DAILY_CALORIE_GOAL}." },
+  { "question": "How does {FOOD} compare to {FOOD} in terms of calories per 100g?", "answer": "Comparing 100g servings, {FOOD} has {CALORIES} kcal while the alternative has a different profile; adjust your choice accordingly." },
+  { "question": "Is {FOOD} a better option than {FOOD} when considering calories per 100g?", "answer": "Assess the 100g serving values: {FOOD} offers {CALORIES} kcal, which may be lower or higher than {FOOD}, affecting your diet plan." },
+  { "question": "Can {FOOD} be substituted with a lower-calorie alternative per 100g?", "answer": "Yes, if you're looking for lower calories than the {CALORIES} kcal in 100g of {FOOD}, consider an alternative with a better profile." },
+  { "question": "What is the calorie difference between {FOOD} and {FOOD} per 100g?", "answer": "A 100g serving of {FOOD} has {CALORIES} kcal, while {FOOD} may differ; compare their profiles for a better choice." },
+  { "question": "Which is more calorie-efficient per 100g, {FOOD} or {FOOD}?", "answer": "Evaluate the 100g serving: {FOOD} provides {CALORIES} kcal; compare it to {FOOD} to determine which fits your needs." },
+  { "question": "Can I replace {FOOD} with {FOOD} to reduce calorie intake per 100g?", "answer": "If 100g of {FOOD} has {CALORIES} kcal and {FOOD} has less, then substituting could help lower your overall intake." },
+  { "question": "How do the nutritional profiles of {FOOD} and {FOOD} differ per 100g?", "answer": "While 100g of {FOOD} provides {CALORIES} kcal, the alternative may have a different balance of macros; compare the values for best results." },
+  { "question": "Is there a significant calorie gap between 100g servings of {FOOD} and {FOOD}?", "answer": "Review the profiles: 100g of {FOOD} contains {CALORIES} kcal, so check if {FOOD} offers a lower caloric count for your goals." },
+  { "question": "What are the benefits of choosing {FOOD} over {FOOD} per 100g serving?", "answer": "Choosing {FOOD} with {CALORIES} kcal per 100g might offer a better macro balance compared to {FOOD}; consider your dietary needs." },
+  { "question": "Can {FOOD} serve as a viable substitute for {FOOD} based on 100g calorie content?", "answer": "Yes, if {FOOD} has {CALORIES} kcal per 100g and {FOOD} has a higher value, substituting could help lower your intake." },
+  { "question": "How does the calorie count of {FOOD} per 100g compare to that of {FOOD}?", "answer": "In a 100g serving, {FOOD} offers {CALORIES} kcal; compare this with {FOOD} to decide which is more suitable for your diet." },
+  { "question": "Between {FOOD} and {FOOD}, which has a lower calorie count per 100g?", "answer": "Assess the per 100g nutritional info: if {FOOD} has {CALORIES} kcal and {FOOD} has more, then {FOOD} is the lower-calorie option." },
+  { "question": "Is {FOOD} a low-calorie substitute for {FOOD} in a 100g serving?", "answer": "If you're aiming to reduce calories, compare the 100g serving of {FOOD} ({CALORIES} kcal) with that of {FOOD}." },
+  { "question": "Can you compare the nutritional efficiency of 100g of {FOOD} versus {FOOD}?", "answer": "When comparing 100g portions, look at {CALORIES} kcal for {FOOD} and the corresponding values for {FOOD} to determine efficiency." },
+  { "question": "Would substituting {FOOD} for {FOOD} reduce my calorie intake per 100g?", "answer": "If 100g of {FOOD} has {CALORIES} kcal and {FOOD} has less, making the switch could help manage your calorie goals." },
+  { "question": "How does the per 100g calorie content of {FOOD} measure up against {FOOD}?", "answer": "100g of {FOOD} contains {CALORIES} kcal; compare that with {FOOD} to evaluate the better option." },
+  { "question": "Is there a noticeable calorie difference between 100g of {FOOD} and 100g of {FOOD}?", "answer": "Determine the difference by comparing the {CALORIES} kcal in 100g of {FOOD} with the values of {FOOD}." },
+  { "question": "Can {FOOD} serve as a lower-calorie alternative to {FOOD} per 100g?", "answer": "Yes, if 100g of {FOOD} has {CALORIES} kcal and {FOOD} offers fewer, it may be a better alternative." },
+  { "question": "How do the calorie profiles of {FOOD} and {FOOD} differ in a 100g serving?", "answer": "100g of {FOOD} contains {CALORIES} kcal; compare that with {FOOD} to see the difference in calorie profiles." },
+  { "question": "What are the key nutritional differences between 100g of {FOOD} and 100g of {FOOD}?", "answer": "Look at the 100g servings: {FOOD} provides {CALORIES} kcal, and differences in protein, fat, and carbs can help you decide between them." },
+  { "question": "Does replacing {FOOD} with {FOOD} help in reducing calories per 100g?", "answer": "If {FOOD} has {CALORIES} kcal per 100g and {FOOD} has a lower amount, replacement may reduce your calorie intake." },
+  { "question": "Can you compare 100g servings of {FOOD} and {FOOD} for better dietary choices?", "answer": "Compare the {CALORIES} kcal in 100g of {FOOD} with the nutritional values of {FOOD} to make an informed decision." },
+  { "question": "Is one of {FOOD} or {FOOD} more beneficial in terms of calories per 100g?", "answer": "Examine the 100g nutritional data: {FOOD} has {CALORIES} kcal, so determine if {FOOD} offers a lower caloric benefit." },
+  { "question": "How does substituting 100g of {FOOD} with 100g of {FOOD} affect calorie intake?", "answer": "Substituting can affect your intake if {FOOD} has {CALORIES} kcal per 100g and {FOOD} has a lower value." },
+  { "question": "Can a 100g serving of {FOOD} be replaced by 100g of {FOOD} for fewer calories?", "answer": "Yes, if 100g of {FOOD} provides {CALORIES} kcal and {FOOD} provides less, it might be a suitable swap." },
+  { "question": "What is the comparative calorie content of 100g portions of {FOOD} and {FOOD}?", "answer": "Compare 100g servings: {FOOD} contains {CALORIES} kcal, while {FOOD} may offer a different caloric value." },
+  { "question": "Which option is better for a low-calorie diet: 100g of {FOOD} or 100g of {FOOD}?", "answer": "Assess the 100g nutritional info: if {FOOD} has {CALORIES} kcal and {FOOD} has less, then {FOOD} is preferable." },
+  { "question": "How do the per 100g calorie counts of {FOOD} and {FOOD} compare?", "answer": "100g of {FOOD} provides {CALORIES} kcal; compare this with {FOOD} to see which is lower in calories." },
+  { "question": "Can I lower my calorie intake by choosing 100g of {FOOD} over {FOOD}?", "answer": "If 100g of {FOOD} has {CALORIES} kcal and {FOOD} has a higher count, then choosing {FOOD} can lower your intake." },
+  { "question": "Is it effective to substitute 100g of {FOOD} with 100g of {FOOD} to manage calories?", "answer": "Substituting 100g of {FOOD} with a lower-calorie {FOOD} can help manage your calorie intake if the alternative has fewer than {CALORIES} kcal." },
+  { "question": "How do I calculate my basal metabolic rate (BMR)?", "answer": "You can calculate your BMR using the Mifflin-St Jeor equation. For men: BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5. For women: BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) - 161." },
+  { "question": "What is the formula for calculating BMR?", "answer": "The Mifflin-St Jeor equation is commonly used: For men: (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5; for women: subtract 161 from the result." },
+  { "question": "How can I determine my BMR if I know my weight, height, age, and gender?", "answer": "By applying the Mifflin-St Jeor equation: BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5 for men, and subtract 161 for women." },
+  { "question": "I am a {AGE}-year-old {GENDER} weighing {WEIGHT} kg and {HEIGHT} cm tall. What is my BMR?", "answer": "Using your data, your BMR is estimated at {BMR} kcal per day according to the Mifflin-St Jeor equation." },
+  { "question": "What factors influence my basal metabolic rate (BMR)?", "answer": "BMR is influenced by factors such as age, gender, weight, height, and body composition. It represents the calories required for basic bodily functions at rest." },
+  { "question": "How does age affect my BMR?", "answer": "As you age, your BMR generally decreases due to loss of muscle mass and other metabolic changes." },
+  { "question": "Can my BMR change over time?", "answer": "Yes, factors like aging, changes in muscle mass, and hormonal shifts can cause variations in your BMR over time." },
+  { "question": "How does gender impact the calculation of BMR?", "answer": "Gender affects BMR calculations; typically, men have a higher BMR than women due to differences in muscle mass and hormonal factors." },
+  { "question": "If my BMR is {BMR} kcal, how many calories should I consume to maintain my weight?", "answer": "Your maintenance calories are typically higher than your BMR. Multiply your BMR by an activity factor (e.g., 1.2 for sedentary) to estimate your total daily energy expenditure (TDEE)." },
+  { "question": "How can I use my BMR to plan my diet?", "answer": "Your BMR helps determine the minimum calories your body needs. From there, adjust based on activity level to set a daily calorie target for weight maintenance, loss, or gain." },
+  { "question": "What is the Mifflin-St Jeor equation?", "answer": "The Mifflin-St Jeor equation estimates BMR: For men, BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5; for women, subtract 161 from the result." },
+  { "question": "How accurate is the BMR calculation using the Mifflin-St Jeor equation?", "answer": "The Mifflin-St Jeor equation is widely accepted and reasonably accurate for most individuals, though individual variations may occur." },
+  { "question": "Can exercise affect my BMR?", "answer": "While BMR represents your resting energy expenditure, regular exercise can increase muscle mass, which may slightly raise your BMR over time." },
+  { "question": "How does weight loss impact BMR?", "answer": "Significant weight loss, especially loss of muscle mass, can lower your BMR, so it's important to maintain muscle through exercise." },
+  { "question": "What adjustments should I make if my BMR changes?", "answer": "If your BMR decreases, you may need to adjust your calorie intake to avoid weight gain; if it increases, you may allow slightly more calories while maintaining balance." },
+  { "question": "How can I calculate my total daily energy expenditure (TDEE) using my BMR?", "answer": "Multiply your BMR by an activity factor (e.g., 1.2 for sedentary, up to 1.7 for very active) to estimate your TDEE." },
+  { "question": "What activity factor should I use with my BMR to determine TDEE?", "answer": "Activity factors vary: around 1.2 for sedentary lifestyles, 1.375 for light activity, 1.55 for moderate, and 1.725–1.9 for very active individuals." },
+  { "question": "Is the BMR calculation the same for everyone?", "answer": "No, BMR varies based on individual factors such as age, gender, weight, height, and body composition." },
+  { "question": "How often should I recalculate my BMR?", "answer": "It's a good idea to recalculate your BMR whenever there are significant changes in weight, body composition, or age." },
+  { "question": "Does a higher muscle mass lead to a higher BMR?", "answer": "Yes, since muscle tissue burns more calories at rest than fat tissue, increased muscle mass usually results in a higher BMR." },
+  { "question": "Can I use BMR to adjust my calorie deficit for weight loss?", "answer": "Absolutely, knowing your BMR and TDEE can help you create a sustainable calorie deficit, typically around 500 kcal less than TDEE for gradual weight loss." },
+  { "question": "What is the significance of BMR in a weight loss program?", "answer": "BMR represents the calories needed for basic bodily functions. It forms the foundation for calculating your overall energy needs and designing a weight loss plan." },
+  { "question": "How does hormonal balance affect BMR?", "answer": "Hormonal changes, such as those during menopause or thyroid disorders, can impact BMR by altering metabolism." },
+  { "question": "Can diet composition influence my BMR?", "answer": "While BMR is largely determined by physical factors, a high-protein diet can support muscle mass and potentially help maintain a higher BMR." },
+  { "question": "How can I increase my BMR naturally?", "answer": "Increasing muscle mass through resistance training and staying active can help boost your BMR over time." },
+  { "question": "What role does hydration play in maintaining BMR?", "answer": "Proper hydration supports overall metabolic functions, which can help maintain a healthy BMR, though it doesn't directly increase it." },
+  { "question": "Is there a way to measure BMR accurately at home?", "answer": "While home calculators using the Mifflin-St Jeor equation provide estimates, clinical methods like indirect calorimetry offer more precise measurements." },
+  { "question": "How do I interpret my BMR value in the context of my overall diet?", "answer": "Your BMR is the baseline calorie requirement. To maintain or change weight, adjust your total calorie intake based on your activity level above your BMR." },
+  { "question": "If my BMR is lower than expected, what could be the reason?", "answer": "A lower BMR could result from a sedentary lifestyle, loss of muscle mass, or metabolic adaptations from previous dieting." },
+  { "question": "Can stress affect my BMR?", "answer": "Chronic stress can influence hormone levels, which may indirectly affect your BMR, although the impact is generally modest." },
+  { "question": "What lifestyle changes can help maintain a healthy BMR?", "answer": "Regular physical activity, especially strength training, a balanced diet, and adequate sleep can help maintain or boost your BMR." },
+  { "question": "How does sleep quality impact BMR?", "answer": "Poor sleep can disrupt metabolic processes and hormone regulation, which may negatively affect your BMR over time." },
+  { "question": "What is a practical way to use my BMR for daily meal planning?", "answer": "Use your BMR to estimate your TDEE and then allocate your calorie intake across meals to ensure you meet but do not exceed your daily goal." },
+  { "question": "Can my BMR be used to customize a diet plan for optimal energy levels?", "answer": "Yes, knowing your BMR helps tailor your calorie and nutrient intake to support daily activities and overall energy needs." },
+  { "question": "How does body composition alter the BMR calculation?", "answer": "Since muscle burns more calories than fat, a higher muscle-to-fat ratio typically results in a higher BMR." },
+  { "question": "What are the limitations of BMR calculations?", "answer": "BMR formulas provide estimates and may not account for individual metabolic differences, so they should be used as guidelines rather than absolute values." },
+  { "question": "How can I adjust my calorie intake if my BMR changes?", "answer": "If your BMR decreases, reduce your calorie intake or increase activity to avoid weight gain; if it increases, you may allow slightly more calories while maintaining balance." },
+  { "question": "Can BMR estimates help in preventing weight gain?", "answer": "Yes, by understanding your baseline calorie needs, you can manage your intake more effectively to prevent excess weight gain." },
+  { "question": "Should I consider my BMR when starting a new fitness regimen?", "answer": "Absolutely, knowing your BMR can help you set realistic calorie targets to support your fitness goals." },
+  { "question": "How do genetics play a role in determining BMR?", "answer": "Genetics can influence your metabolic rate and body composition, which in turn affect your BMR." },
+  { "question": "Is it beneficial to monitor BMR regularly?", "answer": "Regular monitoring can help you adjust your dietary and exercise plans as your body composition and lifestyle change." },
+  { "question": "How does my BMR affect my overall metabolism?", "answer": "Your BMR is a major component of your total energy expenditure, influencing how many calories you burn at rest." },
+  { "question": "What factors can cause fluctuations in my BMR?", "answer": "Factors such as changes in muscle mass, age, hormonal fluctuations, and even environmental conditions can cause BMR to vary." },
+  { "question": "Can a balanced diet influence my BMR?", "answer": "Yes, a balanced diet that supports muscle maintenance and overall health can help maintain or potentially boost your BMR." },
+  { "question": "How does regular exercise impact BMR over time?", "answer": "Regular exercise, especially strength training, can increase muscle mass, which may lead to a higher BMR over time." },
+  { "question": "What is the relationship between BMR and calorie expenditure?", "answer": "BMR represents the calories your body needs at rest, forming the baseline of your total daily calorie expenditure." },
+  { "question": "How do environmental factors influence BMR?", "answer": "Extreme temperatures and other environmental factors can affect metabolic rate, thereby influencing BMR." },
+  { "question": "Can I rely solely on BMR to plan my calorie intake?", "answer": "No, BMR is just the baseline; you also need to consider your physical activity to determine your total daily energy expenditure." },
+  { "question": "What adjustments should I consider if I experience a drop in BMR?", "answer": "If your BMR drops, you might need to lower your calorie intake or increase activity levels to prevent weight gain." },
+  { "question": "How do sleep patterns and stress levels affect BMR?", "answer": "Poor sleep and high stress can disrupt hormonal balance, potentially lowering your BMR." },
+  { "question": "What is the vitamin content of {FOOD} per 100g?", "answer": "While our main focus is on calories and macronutrients, 100g of {FOOD} may also contain vitamins; please refer to detailed nutritional labels for specific vitamin data." },
+  { "question": "What is the carbohydrate content in 100g of {FOOD}?", "answer": "A 100g serving of {FOOD} contains approximately {CARBS} g of carbohydrates, which contributes to its total energy content." },
+  { "question": "How many grams of protein are in a 100g serving of {FOOD}?", "answer": "In 100g of {FOOD}, you can expect to find about {PROTEIN} g of protein." },
+  { "question": "What is the fat percentage in 100g of {FOOD}?", "answer": "A 100g serving of {FOOD} typically contains around {FAT} g of fat, which is part of its overall nutritional profile." },
+  { "question": "Can you detail the macro ratios of {FOOD} per 100g?", "answer": "Per 100g, {FOOD} provides a macronutrient breakdown of approximately {CALORIES} kcal, with {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates." },
+  { "question": "What percentage of 100g of {FOOD} is protein?", "answer": "The protein content in 100g of {FOOD} is roughly {PROTEIN} g, which you can compare to its total weight to get a percentage." },
+  { "question": "How does the 100g nutritional profile of {FOOD} support a balanced diet?", "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal along with essential macros—{PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates—that contribute to a balanced diet." },
+  { "question": "What are the nutritional benefits of consuming 100g of {FOOD}?", "answer": "Consuming 100g of {FOOD} delivers {CALORIES} kcal, {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates, which can help fulfill daily nutritional needs." },
+  { "question": "Is {FOOD} rich in protein per 100g?", "answer": "A 100g serving of {FOOD} typically contains about {PROTEIN} g of protein, making it a good source for meeting protein requirements." },
+  { "question": "Does 100g of {FOOD} provide sufficient carbohydrates for energy?", "answer": "With approximately {CARBS} g of carbohydrates per 100g, {FOOD} can contribute significantly to your energy intake." },
+  { "question": "What is the ratio of fat to protein in 100g of {FOOD}?", "answer": "In 100g of {FOOD}, the ratio of fat to protein is determined by its content of {FAT} g fat and {PROTEIN} g protein, which can be useful for dietary planning." },
+  { "question": "How does 100g of {FOOD} compare to daily nutritional recommendations?", "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal along with key macros, which you can compare to your daily recommended intake to see how it fits into your diet." },
+  { "question": "What role does 100g of {FOOD} play in a healthy diet?", "answer": "A 100g serving of {FOOD} supplies essential calories and macronutrients—{CALORIES} kcal, {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates—that can help maintain a balanced diet." },
+  { "question": "Can you summarize the key macronutrients found in 100g of {FOOD}?", "answer": "In 100g of {FOOD}, you'll typically find about {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, which are essential for daily energy and nutrition." },
+  { "question": "How balanced is the nutritional profile of 100g of {FOOD}?", "answer": "The nutritional profile of 100g of {FOOD}—providing {CALORIES} kcal, {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates—is designed to contribute to a balanced intake when combined with other foods." },
+  {
+    "question": "What information do I need to calculate my BMR?",
+    "answer": "To calculate your Basal Metabolic Rate (BMR), please provide your weight in kilograms, height in centimeters, age in years, and your gender (male or female)."
+  },
+  {
+    "question": "How do I calculate my Basal Metabolic Rate (BMR)?",
+    "answer": "You can calculate your BMR using the Mifflin-St Jeor equation: For men, BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5; for women, BMR = (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) - 161."
+  },
+  {
+    "question": "Can you help me determine my BMR?",
+    "answer": "Sure! Please provide your weight (kg), height (cm), age, and gender, and I'll calculate your BMR for you using the Mifflin-St Jeor formula."
+  },
+  {
+    "question": "What does BMR stand for and how is it calculated?",
+    "answer": "BMR stands for Basal Metabolic Rate, which is the number of calories your body needs at rest. It is calculated using your weight, height, age, and gender, typically with the Mifflin-St Jeor equation."
+  },
+  {
+    "question": "I want to know how many calories I burn at rest. What do I need to provide?",
+    "answer": "To determine your resting calorie burn, please provide your weight in kilograms, height in centimeters, age, and gender. With these, I can calculate your BMR."
+  },
+  {
+    "question": "How can I compute my total daily energy expenditure (TDEE) using my BMR?",
+    "answer": "Once you know your BMR, multiply it by an activity factor based on your lifestyle. Typical factors are: 1.2 for sedentary, 1.375 for lightly active, 1.55 for moderately active, 1.725 for very active, and 1.9 for extremely active."
+  },
+  {
+    "question": "What is the formula to estimate my daily calorie needs based on BMR?",
+    "answer": "First, calculate your BMR using: For men, (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5; for women, (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) - 161. Then, multiply the result by an activity factor to get your total daily energy expenditure (TDEE)."
+  },
+  {
+    "question": "I need to calculate my caloric burn for weight loss. How do I start?",
+    "answer": "Begin by calculating your BMR with your weight, height, age, and gender. Then, multiply your BMR by an appropriate activity factor to get your TDEE. To lose weight, aim for a calorie deficit—usually around 500 kcal less than your TDEE."
+  },
+  {
+    "question": "What role does activity level play in calculating my calorie expenditure?",
+    "answer": "Activity level adjusts your BMR to account for daily physical activity. Multiplying your BMR by an activity factor (e.g., 1.2 for sedentary, 1.55 for moderately active) gives you your Total Daily Energy Expenditure (TDEE)."
+  },
+  {
+    "question": "How do I adjust my calorie intake based on my BMR for weight loss?",
+    "answer": "After calculating your TDEE (BMR multiplied by an activity factor), you can create a calorie deficit—typically around 500 kcal less than your TDEE—to promote gradual weight loss."
+  },
+  {
+    "question": "What additional details do I need to provide to calculate my TDEE?",
+    "answer": "Besides your weight, height, age, and gender (for BMR), please also provide your typical activity level (e.g., sedentary, lightly active, moderately active, very active, extremely active) to calculate your TDEE."
+  },
+  {
+    "question": "How can I use my BMR to plan my meals?",
+    "answer": "Your BMR tells you the minimum calories needed for basic functions. Once you calculate your TDEE (BMR × activity factor), you can plan your meals to match your energy needs for weight maintenance, loss, or gain."
+  },
+  {
+    "question": "What is the Mifflin-St Jeor equation and why is it used?",
+    "answer": "The Mifflin-St Jeor equation is a widely used formula to estimate BMR. It uses your weight, height, age, and gender to calculate the calories your body needs at rest."
+  },
+  {
+    "question": "Can I calculate my BMR without using a calculator?",
+    "answer": "While you can perform the calculation manually using the formula (For men: (10 × {WEIGHT}) + (6.25 × {HEIGHT}) - (5 × {AGE}) + 5; for women: subtract 161 instead of adding 5), using a calculator or an online tool is recommended for accuracy."
+  },
+  {
+    "question": "How reliable is the BMR calculation for determining my daily calorie needs?",
+    "answer": "BMR calculations provide a good estimate of your resting energy expenditure. When combined with an activity factor to calculate your TDEE, they offer a reliable guide for planning your daily calorie intake."
+  },
+  {
+    "question": "What should I do if my calculated BMR seems off?",
+    "answer": "Ensure that the data you provide (weight in kg, height in cm, age, and gender) are accurate. Remember that BMR formulas offer estimates; individual variations like muscle mass can affect the actual rate."
+  },
+  {
+    "question": "How can I incorporate my BMR into a personalized diet plan?",
+    "answer": "By calculating your BMR and then estimating your TDEE with an activity factor, you can set a daily calorie target that aligns with your goals, whether it's weight loss, maintenance, or gain."
+  },
+  {
+    "question": "Why might two people with similar BMRs have different calorie needs?",
+    "answer": "Even if BMRs are similar, differences in activity levels, body composition, and metabolism can lead to different Total Daily Energy Expenditures (TDEE)."
+  },
+  {
+    "question": "What are common mistakes when calculating BMR?",
+    "answer": "Common mistakes include using incorrect units (e.g., pounds instead of kilograms), inaccurate measurements, and not adjusting for activity level, which can lead to under- or overestimation of your calorie needs."
+  },
+  {
+    "question": "What activity factor should I use with my BMR to determine TDEE?",
+    "answer": "Activity factors typically range from 1.2 (sedentary) to 1.9 (extremely active). Choose the factor that best represents your lifestyle."
+  },
+  {
+    "question": "How do I interpret my BMR value in everyday life?",
+    "answer": "Your BMR represents the calories your body needs at rest. It forms the baseline of your daily energy requirements before accounting for any physical activity."
+  },
+  {
+    "question": "What adjustments should I make if my activity level increases?",
+    "answer": "If you become more active, your TDEE will increase. This means you may need to consume more calories to maintain your weight or adjust your deficit if you're aiming to lose weight."
+  },
+  {
+    "question": "Can I rely solely on BMR to determine my daily calorie needs?",
+    "answer": "No, BMR only accounts for the calories needed at rest. To determine your total daily calorie needs, you must include your physical activity by calculating your TDEE."
+  },
+  {
+    "question": "How can I calculate the calories burned during exercise?",
+    "answer": "While exercise calories can be estimated separately, it’s common to use your activity factor in the TDEE calculation to account for overall daily activity, including exercise."
+  },
+  {
+    "question": "How does muscle mass affect my BMR?",
+    "answer": "Muscle tissue burns more calories at rest than fat tissue, so a higher muscle mass typically results in a higher BMR."
+  },
+  {
+    "question": "Can BMR calculations help me adjust my fitness goals?",
+    "answer": "Yes, knowing your BMR and TDEE can help you set realistic calorie targets to support weight loss, maintenance, or muscle gain in alignment with your fitness goals."
+  },
+  {
+    "question": "How significant is the Total Daily Energy Expenditure (TDEE) in relation to BMR?",
+    "answer": "TDEE is your BMR multiplied by an activity factor and represents the total calories you burn in a day. It gives you a comprehensive view of your energy needs beyond the resting state."
+  },
+  {
+    "question": "How often should I update my BMR calculation?",
+    "answer": "It’s advisable to recalculate your BMR whenever there are significant changes in your weight, body composition, or activity level."
+  },
+  {
+    "question": "How does age affect my BMR?",
+    "answer": "As you age, your BMR generally decreases due to a natural decline in muscle mass and metabolic rate."
+  },
+  {
+    "question": "How can hormonal changes impact my BMR?",
+    "answer": "Hormonal fluctuations—such as those during menopause or from thyroid disorders—can significantly affect your BMR by altering your metabolic rate."
+  },
+  {
+    "question": "Is {FOOD} a good source of protein for muscle building?",
+    "answer": "Yes, {FOOD} provides about {PROTEIN} grams of protein per 100g, making it a valuable option for muscle building when combined with a balanced diet."
+  },
+  {
+    "question": "How does the macro profile of {FOOD} compare to that of {ALTERNATIVE_FOOD}?",
+    "answer": "Per 100g, {FOOD} provides {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, while {ALTERNATIVE_FOOD} has a different macro balance. Comparing these can help you choose the option that better meets your nutritional goals."
+  },
+  {
+    "question": "Can {FOOD} be included in a low-carb diet?",
+    "answer": "A 100g serving of {FOOD} provides {CARBS} grams of carbohydrates. Depending on your daily carb target, it can be included in a low-carb diet if {CARBS} fits within your limit."
+  },
+  {
+    "question": "What is the fat-to-protein ratio of {FOOD} per 100g?",
+    "answer": "In 100g of {FOOD}, the fat-to-protein ratio is approximately {FAT}:{PROTEIN}. This ratio helps you determine how balanced {FOOD} is for your macronutrient requirements."
+  },
+  {
+    "question": "How can I adjust my portion of {FOOD} to meet my macro targets?",
+    "answer": "If 100g of {FOOD} provides {CALORIES} kcal with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, you can scale your portion size to match your specific dietary targets."
+  },
+  {
+    "question": "Is {FOOD} suitable for a high-protein, low-fat diet?",
+    "answer": "A 100g serving of {FOOD} typically contains {PROTEIN} g of protein and {FAT} g of fat. Compare these values to your dietary goals to decide if it fits a high-protein, low-fat regimen."
+  },
+  {
+    "question": "How does cooking or preparation affect the macros of {FOOD}?",
+    "answer": "Cooking methods can influence the macronutrient content of {FOOD}. The provided values per 100g represent a standard preparation; additional ingredients or cooking techniques may modify these macros."
+  },
+  {
+    "question": "Can I substitute {FOOD} for another food to better meet my macro requirements?",
+    "answer": "Yes, depending on its macronutrient profile—{CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates per 100g—{FOOD} can be replaced with alternatives that better align with your nutritional needs."
+  },
+  {
+    "question": "What is the energy density of {FOOD} in relation to its macronutrients?",
+    "answer": "A 100g serving of {FOOD} provides {CALORIES} kcal along with {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates, which indicates its overall energy density and can help in meal planning."
+  },
+  {
+    "question": "How can I optimize my diet using the macro information of {FOOD}?",
+    "answer": "Knowing that 100g of {FOOD} provides {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates allows you to tailor your meals to achieve a balanced intake that supports your health and fitness goals."
+  },
+  {
+    "question": "What should I consider when comparing the macros of {FOOD} to my daily nutritional needs?",
+    "answer": "Consider both the absolute macronutrient values per 100g and how they fit into your total daily intake—comparing {CALORIES} kcal, {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates with your dietary targets."
+  },
+  {
+    "question": "How can the macronutrient profile of {FOOD} help in planning a balanced diet?",
+    "answer": "The macro profile of {FOOD}—providing {CALORIES} kcal, {PROTEIN} g protein, {FAT} g fat, and {CARBS} g carbohydrates per 100g—offers a snapshot of its nutritional value, helping you incorporate it into a diet that meets your energy and nutrient requirements."
+  },
+  {
+    "question": "How do I calculate my portion size of {FOOD} based on its macros?",
+    "answer": "If you know that 100g of {FOOD} provides {CALORIES} kcal along with specific amounts of protein, fat, and carbohydrates, you can adjust your portion size so that your meal fits your overall macro and calorie targets."
+  },
+  {
+    "question": "Can I lower my calorie intake by choosing {FOOD} over another food with a different macro profile?",
+    "answer": "If 100g of {FOOD} offers {CALORIES} kcal and its macronutrient balance is more favorable to your goals compared to another food, substituting can help manage your overall calorie intake."
+  },
+  {
+    "question": "Is it effective to substitute {FOOD} with another food to manage my macros?",
+    "answer": "Yes, replacing {FOOD} with an alternative that has a lower calorie or a more favorable macro profile can help you better manage your daily nutrient intake."
+  }
+]
+

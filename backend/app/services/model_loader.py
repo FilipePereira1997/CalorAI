@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 DATASET_PATH = "app/data/fsda_insa_dataset.parquet"
 EMBEDDINGS_PATH = "app/data/food_embeddings.npy"
 INDEX_PATH = "app/data/food_index.faiss"
-MODEL_PATH = "sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1"
+MODEL_PATH = "sentence-transformers/all-mpnet-base-v2"
 
 def load_model():
     logger.info(f"Carregando modelo de embeddings: {MODEL_PATH}")

@@ -4,53 +4,53 @@ tags:
 - sentence-similarity
 - feature-extraction
 - generated_from_trainer
-- dataset_size:178
+- dataset_size:179
 - loss:MultipleNegativesRankingLoss
 base_model: sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1
 widget:
-- source_sentence: Se eu comer [ALIMENTO], vou ultrapassar [META_KCAL]?
+- source_sentence: What factors influence my basal metabolic rate (BMR)?
   sentences:
-  - You've already consumed [KCAL_CONSUMIDAS] kcal out of [META_KCAL]. A [ALIMENTO]
-    like this usually has around [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS]
-    g of fat, and [HIDRATOS] g of carbs.
-  - O [ALIMENTO] com [CALORIAS] kcal e [PROTEINAS] g de proteína pode servir se queres
-    algo com poucas calorias e boa proteína.
-  - Em vez de [ALIMENTO], podes escolher algo com menos de [CALORIAS] kcal para não
-    exceder [META_KCAL].
-- source_sentence: Quero uma sugestão para o jantar, pois já atingi [KCAL_CONSUMIDAS].
+  - No, BMR only accounts for the calories needed at rest. To determine your total
+    daily calorie needs, you must include your physical activity by calculating your
+    TDEE.
+  - BMR is influenced by factors such as age, gender, weight, height, and body composition.
+    It represents the calories required for basic bodily functions at rest.
+  - Factors such as changes in muscle mass, age, hormonal fluctuations, and even environmental
+    conditions can cause BMR to vary.
+- source_sentence: What is the caloric and macronutrient content of 100g of {FOOD}?
   sentences:
-  - Se [ALIMENTO] tiver [CALORIAS] e for superior a 150 kcal, vais ultrapassar [META_KCAL].
-  - É uma opção viável, mas se as [CALORIAS] kcal de [ALIMENTO] te fazem passar [META_KCAL],
-    escolhe algo mais leve.
-  - Se estás em [KCAL_CONSUMIDAS], ao acrescentar [ALIMENTO] de [CALORIAS] kcal, somas
-    tudo ao total.
-- source_sentence: How can I stay within [META_KCAL] if I want [ALIMENTO] for lunch?
+  - 100g of {FOOD} provides roughly {CALORIES} kcal, along with {PROTEIN} g of protein,
+    {FAT} g of fat, and {CARBS} g of carbohydrates.
+  - '{FOOD} has about {CALORIES} kcal per 100g, plus {PROTEIN} g of protein, {FAT}
+    g of fat, and {CARBS} g of carbohydrates.'
+  - A 100g serving of {FOOD} has about {CALORIES} kcal, {PROTEIN} g of protein, {FAT}
+    g of fat, and {CARBS} g of carbohydrates.
+- source_sentence: What is the impact of a 100g serving of {FOOD} on my daily calories
+    if I've had {CALORIES_CONSUMED} kcal?
   sentences:
-  - '[ALIMENTO] has about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of
-    fat, and [HIDRATOS] g of carbs.'
-  - Um [ALIMENTO] médio pode acrescentar [CALORIAS] kcal ao teu total. Se estás em
-    [KCAL_CONSUMIDAS], faz as contas.
-  - To keep [META_KCAL], if [ALIMENTO] is [CALORIAS] kcal, watch your fat and carbs
-    in other meals.
-- source_sentence: Comi [ALIMENTO] e estou na dúvida se posso comer também [ALIMENTO].
+  - It’s advisable to recalculate your BMR whenever there are significant changes
+    in your weight, body composition, or activity level.
+  - Yes, if you're looking for lower calories than the {CALORIES} kcal in 100g of
+    {FOOD}, consider an alternative with a better profile.
+  - With 100g of {FOOD} adding {CALORIES} kcal, assess whether {CALORIES_CONSUMED}
+    plus {CALORIES} stays within {DAILY_CALORIE_GOAL} kcal.
+- source_sentence: Could you provide the nutrient profile for {FOOD} per 100g?
   sentences:
-  - Para um snack até ao jantar, [ALIMENTO] costuma ficar em [CALORIAS] kcal, [PROTEINAS]
-    g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos, cabendo em
-    [META_KCAL].
-  - Se já comeste [ALIMENTO], e queres [ALIMENTO], soma as calorias para não passar
-    [META_KCAL].
-  - If you added [ALIMENTO] plus juice, it might total [CALORIAS] kcal. Check if you're
-    still under [META_KCAL].
-- source_sentence: Já ingeri [KCAL_CONSUMIDAS] kcal hoje. Quanto devo ajustar se quiser
-    comer [ALIMENTO]?
+  - Since muscle burns more calories than fat, a higher muscle-to-fat ratio typically
+    results in a higher BMR.
+  - For every 100g, {FOOD} offers around {CALORIES} kcal, {PROTEIN} g of protein,
+    {FAT} g of fat, and {CARBS} g of carbohydrates.
+  - Yes, as long as the {CALORIES} kcal from 100g of {FOOD} is factored into your
+    total intake and stays within {DAILY_CALORIE_GOAL} kcal.
+- source_sentence: I want to know how many calories I burn at rest. What do I need
+    to provide?
   sentences:
-  - Um [ALIMENTO] para lanche pode rondar [CALORIAS] kcal, [PROTEINAS] g de proteínas,
-    [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos.
-  - The quickest way is to assume ~[PROTEINAS] g protein and [LIPIDOS] g fat for [CALORIAS]
-    kcal of [ALIMENTO].
-  - Tens [KCAL_CONSUMIDAS] kcal até agora. Um [ALIMENTO] adiciona por volta de [CALORIAS]
-    kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos.
-    Ajusta conforme necessário.
+  - It depends on the value of {CALORIES}; ensure that 100g of {FOOD} (with {CALORIES}
+    kcal) plus {CALORIES_CONSUMED} remains below {DAILY_CALORIE_GOAL}.
+  - Regular monitoring can help you adjust your dietary and exercise plans as your
+    body composition and lifestyle change.
+  - To determine your resting calorie burn, please provide your weight in kilograms,
+    height in centimeters, age, and gender. With these, I can calculate your BMR.
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
@@ -104,9 +104,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'Já ingeri [KCAL_CONSUMIDAS] kcal hoje. Quanto devo ajustar se quiser comer [ALIMENTO]?',
-    'Tens [KCAL_CONSUMIDAS] kcal até agora. Um [ALIMENTO] adiciona por volta de [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos. Ajusta conforme necessário.',
-    'Um [ALIMENTO] para lanche pode rondar [CALORIAS] kcal, [PROTEINAS] g de proteínas, [LIPIDOS] g de lípidos e [HIDRATOS] g de hidratos.',
+    'I want to know how many calories I burn at rest. What do I need to provide?',
+    'To determine your resting calorie burn, please provide your weight in kilograms, height in centimeters, age, and gender. With these, I can calculate your BMR.',
+    'It depends on the value of {CALORIES}; ensure that 100g of {FOOD} (with {CALORIES} kcal) plus {CALORIES_CONSUMED} remains below {DAILY_CALORIE_GOAL}.',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -160,19 +160,19 @@ You can finetune this model on your own dataset.
 
 #### Unnamed Dataset
 
-* Size: 178 training samples
+* Size: 179 training samples
 * Columns: <code>sentence_0</code> and <code>sentence_1</code>
-* Approximate statistics based on the first 178 samples:
-  |         | sentence_0                                                                         | sentence_1                                                                         |
-  |:--------|:-----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
-  | type    | string                                                                             | string                                                                             |
-  | details | <ul><li>min: 12 tokens</li><li>mean: 24.49 tokens</li><li>max: 38 tokens</li></ul> | <ul><li>min: 23 tokens</li><li>mean: 41.55 tokens</li><li>max: 77 tokens</li></ul> |
+* Approximate statistics based on the first 179 samples:
+  |         | sentence_0                                                                        | sentence_1                                                                         |
+  |:--------|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+  | type    | string                                                                            | string                                                                             |
+  | details | <ul><li>min: 9 tokens</li><li>mean: 21.07 tokens</li><li>max: 48 tokens</li></ul> | <ul><li>min: 20 tokens</li><li>mean: 42.27 tokens</li><li>max: 98 tokens</li></ul> |
 * Samples:
-  | sentence_0                                                                                         | sentence_1                                                                                                                                                           |
-  |:---------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  | <code>If I want to stay under [META_KCAL] kcal, can I have [ALIMENTO] now?</code>                  | <code>[ALIMENTO] is about [CALORIAS] kcal, [PROTEINAS] g of protein, [LIPIDOS] g of fat, and [HIDRATOS] g of carbs. If that fits your [META_KCAL], go for it.</code> |
-  | <code>Se o [ALIMENTO] tem cerca de 400 kcal, posso comer metade para ficar nos [META_KCAL]?</code> | <code>Se o [ALIMENTO] tiver ~[HIDRATOS] g de hidratos, reduz os hidratos noutras refeições para equilibrar.</code>                                                   |
-  | <code>Estou a tentar decidir entre [ALIMENTO] e [ALIMENTO]. Qual tem menos calorias?</code>        | <code>O [ALIMENTO] pode ter [PROTEINAS] g de proteína por 100 g, a cerca de [CALORIAS] kcal nessa quantidade.</code>                                                 |
+  | sentence_0                                                                                           | sentence_1                                                                                                                                                                                  |
+  |:-----------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | <code>What are the energy and nutrient values for {FOOD} per 100g?</code>                            | <code>A 100g serving of {FOOD} delivers roughly {CALORIES} kcal, {PROTEIN} g of protein, {FAT} g of fat, and {CARBS} g of carbohydrates.</code>                                             |
+  | <code>Will a 100g serving of {FOOD} be a problem if I have a low remaining calorie allowance?</code> | <code>If your remaining calories are low, 100g of {FOOD} with {CALORIES} kcal might exceed your {DAILY_CALORIE_GOAL}.</code>                                                                |
+  | <code>How can I use my BMR to plan my diet?</code>                                                   | <code>Your BMR helps determine the minimum calories your body needs. From there, adjust based on activity level to set a daily calorie target for weight maintenance, loss, or gain.</code> |
 * Loss: [<code>MultipleNegativesRankingLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss) with these parameters:
   ```json
   {
@@ -184,10 +184,7 @@ You can finetune this model on your own dataset.
 ### Training Hyperparameters
 #### Non-Default Hyperparameters
 
-- `per_device_train_batch_size`: 16
-- `per_device_eval_batch_size`: 16
 - `num_train_epochs`: 4
-- `disable_tqdm`: True
 - `multi_dataset_batch_sampler`: round_robin
 
 #### All Hyperparameters
@@ -197,8 +194,8 @@ You can finetune this model on your own dataset.
 - `do_predict`: False
 - `eval_strategy`: no
 - `prediction_loss_only`: True
-- `per_device_train_batch_size`: 16
-- `per_device_eval_batch_size`: 16
+- `per_device_train_batch_size`: 8
+- `per_device_eval_batch_size`: 8
 - `per_gpu_train_batch_size`: None
 - `per_gpu_eval_batch_size`: None
 - `gradient_accumulation_steps`: 1
@@ -247,7 +244,7 @@ You can finetune this model on your own dataset.
 - `dataloader_num_workers`: 0
 - `dataloader_prefetch_factor`: None
 - `past_index`: -1
-- `disable_tqdm`: True
+- `disable_tqdm`: False
 - `remove_unused_columns`: True
 - `label_names`: None
 - `load_best_model_at_end`: False
@@ -255,6 +252,7 @@ You can finetune this model on your own dataset.
 - `fsdp`: []
 - `fsdp_min_num_params`: 0
 - `fsdp_config`: {'min_num_params': 0, 'xla': False, 'xla_fsdp_v2': False, 'xla_fsdp_grad_ckpt': False}
+- `tp_size`: 0
 - `fsdp_transformer_layer_cls_to_wrap`: None
 - `accelerator_config`: {'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True, 'non_blocking': False, 'gradient_accumulation_kwargs': None}
 - `deepspeed`: None
@@ -314,16 +312,16 @@ You can finetune this model on your own dataset.
 ### Training Logs
 | Epoch | Step |
 |:-----:|:----:|
-| 1.0   | 12   |
-| 2.0   | 24   |
-| 3.0   | 36   |
-| 4.0   | 48   |
+| 1.0   | 23   |
+| 2.0   | 46   |
+| 3.0   | 69   |
+| 4.0   | 92   |
 
 
 ### Framework Versions
 - Python: 3.12.9
 - Sentence Transformers: 4.0.1
-- Transformers: 4.49.0
+- Transformers: 4.50.1
 - PyTorch: 2.6.0+cu126
 - Accelerate: 1.5.2
 - Datasets: 3.3.2
